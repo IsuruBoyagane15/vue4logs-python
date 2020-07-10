@@ -45,13 +45,13 @@ tf.logging.set_verbosity(tf.logging.INFO)
 
 from library.all_experiments import *  # experiments are defined here
 
-
+'''
 def lib_name(exp_nr):
     if exp_nr in EXPERIMENT_LIB_MAPPING:
         return "data_generation.%s" % EXPERIMENT_LIB_MAPPING[exp_nr]
     else:
         return "data_generation.%s" % ALL_EXPERIMENTS[exp_nr]
-
+'''
 
 experiment_nr = dataset_number  # 6 (unix forensic), 11 (bgl), 13 (spirit2) 7-android 8-apache --------------------commented other experiments----------
 EXPERIMENT_ID = ALL_EXPERIMENTS[experiment_nr]  # choose data - it will be automatically generated
@@ -71,7 +71,6 @@ model_name = "rnn-autoencoder"
 
 # clustering 
 cluster_alg = "birch"  # alternatives:  birch hierarch dbscan
-# fold_times = 10  ------------no folds--------------------
 
 # create experiment directories
 result_dir = "results"
@@ -96,7 +95,6 @@ CLUSTERING_RESULTS_FILE = join_path(experiment_outdir, "clustering_results.csv")
 learned_weights_file = join_path(experiment_outdir, "learned_weights.csv")
 DATASET_STATS_FILE = join_path(result_dir, experiment_dir, "dataset_statistics.json")
 
-#
 g.REGENERATE_VOCABULARY_FILES = True
 g.REPROCESS_TRAININGS_DATA = True
 learn_model = True
@@ -122,6 +120,7 @@ from library.vocabulary import *
 
 print("Dataset fully loaded")
 
+'''
 """# Datset statistics"""
 
 # for w in sorted(word_frequencies.iteritems(), key= lambda x:x[1], reverse=True):
@@ -184,6 +183,7 @@ for logline in tokenized_loglines:
     line_lengths.append(len(logline))
 
 np.average(line_lengths)
+'''
 
 """# 1.3 Process trainingsdata"""
 
@@ -787,10 +787,6 @@ if not os.path.exists(embedded_csv):
     # fp = np.memmap(embedded_csv, dtype='float32', mode='w+', shape=(num_examples_to_embed,state_size))
     # fp[:]=embedded_loglines[:]
     # fp.flush()
-    # a = np.ndarray((num_examples_to_embed,state_size), dtype=float, buffer=None, offset=0,)
-    # print("shape ", a.shape)
-    # print("Saved embedded lines to file: %s "%embedded_csv)
-    # np.savetxt(embedded_csv, a, delimiter=",")
 else:
     # fp = np.memmap(embedded_csv, dtype='float32', mode='r', shape=(num_examples_to_embed,state_size))
     embedded_loglines = np.genfromtxt(embedded_csv, delimiter=";")
@@ -1040,10 +1036,6 @@ for cluster in clusters.items():
         # text_report += str(log)
     print('\n')
     # text_report += '\n'
-
-
-# with open(join_path(result_dir, experiment_dir, dataset + '_report.txt') ,'w') as report_file:
-# report_file.write(text_report)
 
 
 def writeOutput(output):
