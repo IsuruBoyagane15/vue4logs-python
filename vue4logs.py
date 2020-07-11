@@ -9,14 +9,22 @@ Original file is located at
 
 """# SPECIFY dataset name, number (add entry to all_experiments.py)"""
 
-dataset = "linux"
-dataset_number = 25
-# experiment_type = 'test'
-epochs_ = 2
+import os
+
+dataset = "apache"
+dataset_number = 18
+epochs_ = 1
+experiment_type = 'test'
+experiment_sub_dir = experiment_type +"_" + str(epochs_)
+results_ = "results/" + experiment_sub_dir
+
+#create result sub directory if not exists
+if not os.path.exists(results_):
+    os.mkdir(results_)
+    print(results_, "directory was created")
 
 from library.all_imports import *
-from library.helpers import save_to_json, load_from_json, save_to_csv, create_if_not_exists, get_N_HexCol, \
-    multiprocess_file
+from library.helpers import save_to_json, load_from_json, save_to_csv, create_if_not_exists, get_N_HexCol, multiprocess_file
 import pandas as pd
 from sklearn.cluster import Birch
 import pandas as pd
@@ -29,7 +37,6 @@ from sklearn.datasets.samples_generator import make_blobs
 # from sklearn.cluster import Birch
 from sklearn.metrics import homogeneity_completeness_v_measure, silhouette_score, mutual_info_score, \
     adjusted_mutual_info_score
-# from sklearn.metrics import homogeneity_completeness_v_measure, silhouette_score, mutual_info_score, adjusted_mutual_info_score, davies_bouldin_score
 import re
 import sys
 from collections import defaultdict
@@ -53,7 +60,7 @@ def lib_name(exp_nr):
         return "data_generation.%s" % ALL_EXPERIMENTS[exp_nr]
 '''
 
-experiment_nr = dataset_number  # 6 (unix forensic), 11 (bgl), 13 (spirit2) 7-android 8-apache --------------------commented other experiments----------
+experiment_nr = dataset_number
 EXPERIMENT_ID = ALL_EXPERIMENTS[experiment_nr]  # choose data - it will be automatically generated
 print("Running experiment: %s" % EXPERIMENT_ID)
 EXPERIMENT_SPLIT_TOKEN = SPLIT_TOKEN[experiment_nr] if (experiment_nr in SPLIT_TOKEN.keys()) else SPLIT_TOKEN["default"]
@@ -73,9 +80,9 @@ model_name = "rnn-autoencoder"
 cluster_alg = "birch"  # alternatives:  birch hierarch dbscan
 
 # create experiment directories
-result_dir = "results"
+result_dir = results_
 experiment_dir = "%.2d_%s" % (experiment_nr, EXPERIMENT_ID)
-experiment_outdir = join_path(result_dir, experiment_dir, now_str)
+experiment_outdir = join_path(result_dir, experiment_dir, experiment_sub_dir)
 checkpoint_path = join_path(experiment_dir, "graph", run_tag)
 graph_dir = join_path(experiment_outdir, "graph", run_tag)
 
@@ -87,8 +94,9 @@ create_if_not_exists(graph_dir)
 datafile = g.datafile = "data/%s.log" % EXPERIMENT_ID
 labels_true_file = "data/%s.ids" % EXPERIMENT_ID
 processed_datafile = join_path(result_dir, experiment_dir, "%s_log.processed" % EXPERIMENT_ID)
-test_data_processed = join_path(result_dir, experiment_dir,
-                                "%s_test_log.processed" % EXPERIMENT_ID)  # --------includes test input to the model--------
+
+test_data_processed = join_path(result_dir, experiment_dir, "%s_test_log.processed" % EXPERIMENT_ID)
+
 VOCABULARY_FILE = g.VOCABULARY_FILE = join_path(result_dir, experiment_dir, "vocabulary.json")
 HYPERPARAMETERS_FILE = join_path(experiment_outdir, "hyperparams.json")
 CLUSTERING_RESULTS_FILE = join_path(experiment_outdir, "clustering_results.csv")
@@ -103,7 +111,7 @@ learn_model = True
 
 To generate our vocabulary, we perform the following steps:
 * tokenize the log lines of the data file
-* create Vocabulary from tokenized loglines, count word frequencies 
+* create Vocabulary from tokenized loglines, count word frequencies
 * create index_to_word and word_to_index dictionary
 * replace unknown words with an UNK token (not relevant for us now)
 
@@ -210,7 +218,7 @@ if g.REPROCESS_TRAININGS_DATA:
         signature_id = 5  # experiment_lib.extract_pattern_id(loglines[i]) -------- not relevent---------------
         assert not signature_id == 0, "Each log line has to be associated to one signature, none for (%s). Check extract_pattern_id method." % \
                                       loglines[i]
-        # write      
+        # write
         train_numbers_file.write(
             "%s|%s|%s|%s|%s\n" % (signature_id, sequence_length, word_id_seq, word_id_seq_reversed, target_seq))
 
@@ -289,7 +297,7 @@ if g.REPROCESS_TRAININGS_DATA:
 
         assert not signature_id == 0, "Each log line has to be associated to one signature, none for (%s). Check extract_pattern_id method." % \
                                       loglines[i]
-        # write      
+        # write
         test_numbers_file.write(
             "%s|%s|%s|%s|%s\n" % (signature_id, sequence_length, word_id_seq, word_id_seq_reversed, target_seq))
     test_numbers_file.close()
@@ -407,7 +415,7 @@ decoder_labels = y_d  # this are our target words
 * https://github.com/tensorflow/tensorflow/blob/v1.0.0-rc0/tensorflow/contrib/rnn/python/ops/lstm_ops.py
 * https://github.com/tensorflow/tensorflow/blob/v1.0.0-rc0/tensorflow/contrib/rnn/python/ops/core_rnn_cell_impl.py
 
-* prepare attention states - concatenate output states. 
+* prepare attention states - concatenate output states.
 * this is the "old" way of doing things, mayb
 * top_states = [array_ops.reshape(e, [-1, 1, encoder_cell.output_size]) for e in encoder_outputs]
 * attention_states = array_ops.concat(1, top_states)
@@ -434,7 +442,7 @@ with tf.variable_scope("encoder_scope") as encoder_scope:
 
 """## 2.5 Dynamic RNN decoder
 
-* https://github.com/tensorflow/tensorflow/blob/v0.12.0/tensorflow/python/ops/seq2seq.py 
+* https://github.com/tensorflow/tensorflow/blob/v0.12.0/tensorflow/python/ops/seq2seq.py
 * decoder https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/seq2seq/python/ops/seq2seq.py
 * legacy attention decoder https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/legacy_seq2seq/python/ops/seq2seq.py
 * https://github.com/tensorflow/tensorflow/blob/v1.0.1/tensorflow/python/ops/rnn.py
@@ -447,7 +455,7 @@ with tf.variable_scope("encoder_scope") as encoder_scope:
 # final_context_state
 with tf.variable_scope("decoder_scope") as decoder_scope:
     # output projection
-    # we need to specify output projection manually, because sampled softmax needs to have access to the the projection matrix 
+    # we need to specify output projection manually, because sampled softmax needs to have access to the the projection matrix
     output_projection_w_t = tf.get_variable("output_projection_w", [vocabulary_size, state_size], dtype=DTYPE)
     output_projection_w = tf.transpose(output_projection_w_t)
     output_projection_b = tf.get_variable("output_projection_b", [vocabulary_size], dtype=DTYPE)
@@ -475,10 +483,10 @@ with tf.variable_scope("decoder_scope") as decoder_scope:
 
 * https://github.com/tensorflow/tensorflow/blob/v1.0.0-rc0/tensorflow/python/ops/nn_impl.py
 
-* The output projection maps from the dimension of the output vector of the LSTM to the vocabualry size.  
-* The labels come in as matrix [batch_size, time_steps]. 
-* The labels are integers, and denote the row_id of a word in the word embedding. 
-* The labels are transformed to the shape: [batchsize*timesteps, 1] to perform the sampled softmax. 
+* The output projection maps from the dimension of the output vector of the LSTM to the vocabualry size.
+* The labels come in as matrix [batch_size, time_steps].
+* The labels are integers, and denote the row_id of a word in the word embedding.
+* The labels are transformed to the shape: [batchsize*timesteps, 1] to perform the sampled softmax.
 * The sampled_softmax_function performs the one-hot encoding of the labels.
 
 * Logits are just the outputs of a layer (i.e., sigmoid, tanh...) WITHOUT being squashed by a softmax function
@@ -725,7 +733,7 @@ embedded_csv = join_path(result_dir, experiment_dir, "embedded_lines.csv")
 embedded_loglines = np.ndarray(shape=[num_examples_to_embed, state_size])
 
 if not os.path.exists(embedded_csv):
-    # load 
+    # load
     test_examples = list(open(test_data_processed, "r"))  # ------------------changed to test data-----------------
     print(len(test_examples))
     test_examples = [t.split("|") for t in test_examples]  # ------------------changed to test data-----------------
@@ -797,10 +805,10 @@ else:
 X = embedded_loglines
 print(X)
 
-np.savetxt(result_dir + '/' + experiment_dir + "/embeddings.csv", X, delimiter=",")
+np.savetxt(result_dir + '/' + experiment_dir + "/" + dataset + "_" +experiment_sub_dir + "_" + "_embeddings.csv", X, delimiter=",")
 
-if os.path.exists("results/" + experiment_dir + "/embeddings.csv"):
-    X = pd.read_csv("results/" + experiment_dir + "/embeddings.csv", header=None).to_numpy()
+# if os.path.exists(result_dir + "/" + experiment_dir + "/apache_baseline_1_embeddings.csv"):
+#     X = pd.read_csv(result_dir + "/" + experiment_dir + "/apache_baseline_1_embeddings.csv", header=None).to_numpy()
 
 """**Homogenity, Completeness, V-Measure**"""
 
@@ -1121,4 +1129,6 @@ def get_accuracy(series_groundtruth, series_parsedlog, debug=False):
 
 
 print(evaluate("gt/" + dataset + "_2k.log_structured.csv",  #####path of the structured log csv of the groundtruth
-               "results/" + experiment_dir + "/" + dataset + '_structured.csv'))
+               result_dir + "/" + experiment_dir + "/" + dataset + '_structured.csv'))
+
+os.system("rm -rf " + experiment_dir)
