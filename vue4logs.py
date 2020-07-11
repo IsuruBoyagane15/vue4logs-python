@@ -83,10 +83,11 @@ cluster_alg = "birch"  # alternatives:  birch hierarch dbscan
 result_dir = results_
 experiment_dir = "%.2d_%s" % (experiment_nr, EXPERIMENT_ID)
 experiment_outdir = join_path(result_dir, experiment_dir, experiment_sub_dir)
-checkpoint_path = join_path(experiment_dir, "graph", run_tag)
+# checkpoint_path = join_path(experiment_dir, "graph", run_tag)
+# graph_dir = join_path(experiment_outdir, "graph", run_tag)
 graph_dir = join_path(experiment_outdir, "graph", run_tag)
-
-create_if_not_exists(checkpoint_path)
+#
+# create_if_not_exists(checkpoint_path)
 create_if_not_exists(graph_dir)
 
 # data files
@@ -636,7 +637,7 @@ if learn_model:
     print("Control Random Number: %0.5f" % control_random_number)  # should change if you modify the graph
 
     all_summaries = tf.summary.merge_all()
-    summary_writer = tf.summary.FileWriter(graph_dir, graph=session.graph)
+    # summary_writer = tf.summary.FileWriter(graph_dir, graph=session.graph)
 
     session.run([
         tf.local_variables_initializer(),
@@ -673,7 +674,7 @@ if learn_model:
                 # get gradients
             ], feed_dict=batch_dict)
 
-            summary_writer.add_summary(results[3], current_step)
+            # summary_writer.add_summary(results[3], current_step)
             batch_times.append((time.time() - step_s))
 
         except Exception as e:
@@ -697,11 +698,11 @@ if learn_model:
                 avg_batch_time, total_time_in_s / 60.0, total_time_in_s / 3600.0))
 
         # save checkpoint every xth step
-        if current_step % save_checkpoint_after_each_step == 0:
-            print("Saving checkpoint")
-
-            chkpoint_out_filename = join_path(checkpoint_path, model_name)
-            saver.save(session, chkpoint_out_filename, global_step=current_step)
+        # if current_step % save_checkpoint_after_each_step == 0:
+        #     print("Saving checkpoint")
+        #
+        #     chkpoint_out_filename = join_path(checkpoint_path, model_name)
+        #     saver.save(session, chkpoint_out_filename, global_step=current_step)
 
             # stop training queues
     coord.request_stop()
@@ -709,16 +710,17 @@ if learn_model:
     e = time.time()
     print("Learning took {sec:0.2f} seconds".format(sec=(e - s)))
 else:
-    current_step = 35821  # TODO this needs to be adjusted
-
-    session = tf.Session()
-    meta_data = join_path(result_dir, checkpoint_path, 'rnn-autoencoder-35821.meta')  # TODO this needs to be adjusted
-    print(meta_data)
-    saver = tf.train.Saver()  # tf.train.import_meta_graph(meta_data)
-    print("Restored graph")
-    model_to_load = tf.train.latest_checkpoint(join_path(result_dir, checkpoint_path))
-    print("Load '%s' from saved checkpoints" % model_to_load)
-    saver.restore(session, model_to_load)
+    pass
+    # current_step = 35821  # TODO this needs to be adjusted
+    #
+    # session = tf.Session()
+    # meta_data = join_path(result_dir, checkpoint_path, 'rnn-autoencoder-35821.meta')  # TODO this needs to be adjusted
+    # print(meta_data)
+    # saver = tf.train.Saver()  # tf.train.import_meta_graph(meta_data)
+    # print("Restored graph")
+    # model_to_load = tf.train.latest_checkpoint(join_path(result_dir, checkpoint_path))
+    # print("Load '%s' from saved checkpoints" % model_to_load)
+    # saver.restore(session, model_to_load)
 
 """# 5 Visualization
 
