@@ -1,0 +1,44 @@
+,EventId,EventTemplate
+0,E30,"<*> the <*> switch is open, start push <*> data!"
+1,E33,InsertEvent success begin:25233975 end:25233979
+2,E3,flush sensor data
+3,E14,insertHiHealthData() checkAppType  0 appID = 1
+4,E13,"getAppContext() isAppValid health or wear, packageName = com.huawei.health"
+5,E28,"startSync hiSyncOption = <*> syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"
+6,E21,"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT"
+7,E25,getBinderPackageName packageName = com.huawei.health
+8,E29,<*> <*> is <*>
+9,E34,<*>
+10,E5,<*>
+11,E40,next day:steps0mLastReport7214
+12,E24,<*> <*> <*> <*> <*>
+13,E41,closeNotification...
+14,E38,setDiffTotalSteps=0
+15,E23,<*> <*> <*>
+16,E39,<*> : <*> <*> 0
+17,E10,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+18,E19,<*> <*> <*> <*> = <*>
+19,E27,"checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0"
+20,E1,<*> <*> 0 <*>
+21,E31,ifCanSync not! no cloud version
+22,E22,<*> <*>  type = <*> <*>
+23,E36,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501
+24,E15,"insertHiHealthData() size = <*> = 1,One Data Type = <*> = com.huawei.health,writeStatType = 0"
+25,E32,<*>
+26,E8,REPORT : <*> <*> <*> 240
+27,E9,onReceive action: android.intent.action.SCREEN_OFF
+28,E42,"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 20171224 oldDay is 20171223"
+29,E2,<*> <*>
+30,E11,Alarm uploadStaticsToDB totalSteps=7163Calories:153367Floor:240Distance:5112
+31,E20,<*> <*> <*> <*>
+32,E4, <*> <*>
+33,E6,calculateCaloriesWithCache <*>
+34,E17,"saveStatData() type <*> = 1513958400000,statClient = 2,who is 1"
+35,E35,<*> <*>
+36,E37,<*>
+37,E12,upLoadOneMinuteDataToEngine <*>
+38,E7,calculateAltitudeWithCache <*>
+39,E26,startInsertSportSync <*> <*> <*> <*> <*>
+40,E0,onStandStepChanged <*>
+41,E16,"saveHealthDetailData() deviceID = 2,clientID=1,id=1"
+42,E18,"new date =20171223, <*>"
