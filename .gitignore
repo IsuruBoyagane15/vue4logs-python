@@ -2,3 +2,9 @@
 data/
 gt/
 *.pyc
+results/*/*/baseline_1
+*.processed
+index_to_word.json
+tokenized_loglines.json
+vocabulary.json
+word_to_index.json
