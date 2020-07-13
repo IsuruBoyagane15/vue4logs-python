@@ -1,0 +1,98 @@
+,EventId,EventTemplate
+0,E94,Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID=1973)
+1,E0,Component State Change: Component \042alt0\042 is in the unavailable state <*>
+2,E1,Component State Change: Component \042alt0\042 is in the unavailable state <*>
+3,E32,<*>  (command <*>
+4,E33,<*>  (command <*>
+5,E34,<*>  (command <*>
+6,E84,<*> <*> <*>
+7,E2,Targeting <*> and <*> child of command <*>
+8,E3,Targeting domains:node-D7 and nodes:node-[224\ 228\ 232]
+9,E4,Targeting domains:node-D0 and nodes:node-[8-31] child of command 2489
+10,E35,Targeting <*> and <*>
+11,E5,Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191]
+12,E36,psu failure\ ambient=28
+13,E37,psu failure\ ambient=28
+14,E38,psu failure\ ambient=31
+15,E39,Temperature (41C) exceeds warning threshold
+16,E6,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+17,E7,NIFF: node node-69 detected a failed network connection on network 5.5.224.0 via interface alt0
+18,E95,NIFF: node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0
+19,E41,ServerFileSystem: <*> <*> <*> <*> <*>
+20,E40,Fan speeds ( <*> <*> <*> <*> <*> <*> )
+21,E85,<*> <*>
+22,E42,Link <*>
+23,E8,Link error on broadcast tree <*>
+24,E9,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>
+25,E10,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>
+26,E11,ClusterFileSystem: ServerFileSystem domain root29_local is no longer served by node node-28
+27,E12,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>
+28,E86,running
+29,E87,<*>
+30,E43,not responding
+31,E48,not responding
+32,E44,configured out
+33,E45,<*>
+34,E46,<*>
+35,E47,not responding
+36,E49,configured out
+37,E13,inconsistent nodesets node-160 0x0001edfe <ok> node-161 0x1001fdfe <ok> node-162 0x1001fdfe <ok> node-163 0x1001fdfe <ok>
+38,E50,running
+39,E14,inconsistent nodesets node-32 0x00000002 <ok> node-34 0x000001fe <ok> node-33 0x000001fe <ok> node-35 0x000001fe <ok>
+40,E51,<*> <*>
+41,E56,running
+42,E52,configured out
+43,E53,not responding
+44,E54,running
+45,E57,running
+46,E59,configured out
+47,E55,not-responding
+48,E58,configured out
+49,E96,inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>
+50,E60,configured out
+51,E15,inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>
+52,E89,<*>
+53,E88,warning
+54,E64,<*>
+55,E70,<*>
+56,E92,critical
+57,E61,ambient=31
+58,E90,normal
+59,E62,ambient=29
+60,E63,<*>
+61,E91,warning
+62,E65,ambient=29
+63,E80,<*>
+64,E66,ambient=28
+65,E67,<*>
+66,E68,ambient=30
+67,E71,<*>
+68,E69,ambient=27
+69,E74,<*>
+70,E72,<*>
+71,E73,<*>
+72,E75,ambient=27
+73,E77,ambient=28
+74,E82,ambient=32
+75,E76,<*>
+76,E78,ambient=27
+77,E79,ambient=24
+78,E81,<*>
+79,E93,Link <*>
+80,E83,Linkerror event interval expired
+81,E16,risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+82,E17,boot (command 2092) Error: HALT asserted\  cannot continue
+83,E18,NIFF: node <*> has detected an available network connection on network 10.128.0.0 via interface ee0
+84,E19,NIFF: node <*> has detected an available network connection on network <*> via interface alt0
+85,E20,NIFF: node <*> has detected an available network connection on network 10.128.0.0 via interface ee0
+86,E21,NIFF: node <*> has detected an available network connection on network <*> via interface alt0
+87,E22,NIFF: node <*> has detected an available network connection on network 0.0.0.0 via interface alt0
+88,E23,NIFF: node <*> has detected an available network connection on network <*> via interface alt0
+89,E24,NIFF: node <*> has detected an available network connection on network <*> via interface alt0
+90,E25,NIFF: node <*> has detected an available network connection on network 10.128.0.0 via interface ee0
+91,E26,NIFF: node node-163 has detected an available network connection on network 0.0.0.0 via interface alt0
+92,E27,NIFF: node <*> has detected an available network connection on network <*> via interface <*>
+93,E29,NIFF: node <*> has detected an available network connection on network 10.128.0.0 via interface ee0
+94,E30,NIFF: node <*> has detected an available network connection on network <*> via interface <*>
+95,E28,NIFF: node <*> has detected an available network connection on network 0.0.0.0 via interface alt0
+96,E31,NIFF: node node-171 has detected an available network connection on network 10.128.0.0 via interface ee0
