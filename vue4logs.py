@@ -11,10 +11,10 @@ Original file is located at
 
 import os
 
-dataset = "apache"
-dataset_number = 18
+dataset = "android"
+dataset_number = 17
 epochs_ = 1
-experiment_type = 'test'
+experiment_type = 'baseline'
 experiment_sub_dir = experiment_type +"_" + str(epochs_)
 results_ = "results/" + experiment_sub_dir
 
@@ -808,9 +808,9 @@ X = embedded_loglines
 print(X)
 
 np.savetxt(result_dir + '/' + experiment_dir + "/" + dataset + "_" +experiment_sub_dir + "_" + "_embeddings.csv", X, delimiter=",")
-
-# if os.path.exists(result_dir + "/" + experiment_dir + "/apache_baseline_1_embeddings.csv"):
-#     X = pd.read_csv(result_dir + "/" + experiment_dir + "/apache_baseline_1_embeddings.csv", header=None).to_numpy()
+# print(result_dir + "/" + experiment_dir + "/" + dataset + "_" +experiment_sub_dir + "_embeddings.csv")
+# if os.path.exists(result_dir + "/" + experiment_dir + "/" + dataset + "_" +experiment_sub_dir + "_embeddings.csv"):
+#     X = pd.read_csv(result_dir + "/" + experiment_dir + "/" + dataset + "_" +experiment_sub_dir + "_embeddings.csv", header=None).to_numpy()
 
 """**Homogenity, Completeness, V-Measure**"""
 
