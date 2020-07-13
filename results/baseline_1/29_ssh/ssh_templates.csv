@@ -1,0 +1,23 @@
+,EventId,EventTemplate
+0,E0,reverse mapping checking getaddrinfo for <*> <*> failed - POSSIBLE BREAK-IN ATTEMPT!
+1,E1,<*> <*> <*> <*> <*>
+2,E2,<*> <*> <*> <*> <*>
+3,E3,<*> <*> <*> <*> <*>
+4,E4,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+5,E5,<*> <*> for <*> <*> <*> <*> <*> <*>
+6,E6,Connection closed by <*> [preauth]
+7,E7,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ec2-52-80-34-196.cn-north-1.compute.amazonaws.com.cn
+8,E8,Received disconnect from <*> 11: Bye Bye [preauth]
+9,E9,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+10,E10,Failed password for <*> from <*> port <*> ssh2
+11,E11,message repeated 5 times: [ Failed password for root from <*> port <*> ssh2]
+12,E12,Disconnecting: Too many authentication failures for root [preauth]
+13,E13,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+14,E14,error: Received disconnect from 195.154.37.122: 3: com.jcraft.jsch.JSchException: Auth fail [preauth]
+15,E15,Received disconnect from <*> 11: Closed due to user request. [preauth]
+16,E16,<*> <*> <*> <*> <*>
+17,E17,<*> <*> <*> <*> <*>
+18,E19,Failed <*> for invalid user <*> from <*> port <*> ssh2
+19,E18,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth]
+20,E20,Received disconnect from 119.137.62.142: 11: disconnected by user
+21,E21,Disconnecting: Too many authentication failures for admin [preauth]
