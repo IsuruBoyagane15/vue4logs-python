@@ -1,0 +1,59 @@
+,EventId,EventTemplate
+0,E28,"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: <*> time: <*>"
+1,E0,[instance: <*> VM <*> (Lifecycle Event)
+2,E29,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+3,E30,image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+4,E31,"image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage"
+5,E1,<*> base <*> <*>
+6,E2,Creating event <*> for instance <*>
+7,E32,"<*> <*> <*> HTTP/1.1"" status: <*> len: <*> time: <*>"
+8,E3,[instance: <*> Instance <*> successfully.
+9,E4,[instance: <*> Took <*> seconds to <*> the instance on the hypervisor.
+10,E5,[instance: <*> Took <*> seconds to build instance.
+11,E6,Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+12,E7,"Total usable vcpus: 16, total allocated vcpus: <*>"
+13,E33,Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB <*> phys_disk=15GB <*> total_vcpus=16 <*> pci_stats=[]
+14,E34,Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+15,E45,"<*> ""GET /openstack/2012-08-10/meta_data.json HTTP/1.1"" status: 200 len: 264 time: <*>"
+16,E36,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+17,E35,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+18,E37,"10.11.10.1 ""DELETE <*> HTTP/1.1"" status: 204 len: 203 time: <*>"
+19,E38,"<*> ""GET <*> HTTP/1.1"" status: <*> len: <*> time: <*>"
+20,E8,[instance: <*> Terminating instance
+21,E39,[instance: <*> Deleting instance files <*>
+22,E40,[instance: <*> Deletion of <*> complete
+23,E9,[instance: <*> Took <*> seconds to <*> the instance on the hypervisor.
+24,E10,[instance: <*> Took <*> seconds to deallocate network for instance.
+25,E11,HTTP exception thrown: No instances found for any event
+26,E41,"10.11.10.1 ""POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1"" status: 202 len: 733 time: <*>"
+27,E42,"[instance: <*> Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU"
+28,E26,"[instance: <*> Total memory: 64172 MB, used: 512.00 MB"
+29,E57,"[instance: <*> memory limit: 96258.00 MB, free: 95746.00 MB"
+30,E13,[instance: <*> Total <*> <*> <*> used: 0.00 <*>
+31,E12,"[instance: <*> <*> limit not specified, defaulting to unlimited"
+32,E14,[instance: <*> Claim successful
+33,E44,"10.11.10.1 ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+34,E15,[instance: <*> Creating image
+35,E16,[instance: <*> VM Stopped (Lifecycle Event)
+36,E17,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.
+37,E18,Successfully synced instances from host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'.
+38,E46,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+39,E47,"<*> ""GET /openstack/2013-10-17/user_data HTTP/1.1"" status: 404 len: 176 time: <*>"
+40,E48,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+41,E49,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+42,E50,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+43,E19,Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.
+44,E21,[instance: <*> Took <*> seconds to build instance.
+45,E51,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+46,E20,Base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+47,E22,Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+48,E43,"[instance: <*> Total disk: 15 GB, used: 0.00 GB"
+49,E52,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+50,E53,The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.
+51,E54,"10.11.10.2 ""GET /v2/e9746973ac574c6b8a9e8857f56a7608/servers/detail?all_tenants=True&changes-since=2017-05-16T05%3A55%3A11.521167%2B00%3A00&host=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us HTTP/1.1"" status: 200 len: 23222 time: 0.2740111"
+52,E55,"10.11.10.2 ""GET /v2/e9746973ac574c6b8a9e8857f56a7608/images/0673dd71-34c5-4fbb-86c4-40623fbe45b4 HTTP/1.1"" status: 200 len: 868 time: 0.1525230"
+53,E56,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+54,E24,"While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor."
+55,E25,[instance: bf8c824d-f099-4433-a41e-e3da7578262e] During sync_power_state the instance has a pending task (spawning). Skip.
+56,E23,The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.
+57,E27,[instance: <*> Took <*> seconds to build instance.
