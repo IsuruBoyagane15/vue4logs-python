@@ -11,9 +11,9 @@ Original file is located at
 
 import os
 
-dataset = "android"
-dataset_number = 17
-epochs_ = 1
+dataset = "linux"
+dataset_number = 24
+epochs_ = 2
 experiment_type = 'baseline'
 experiment_sub_dir = experiment_type +"_" + str(epochs_)
 results_ = "results/" + experiment_sub_dir
@@ -807,7 +807,7 @@ else:
 X = embedded_loglines
 print(X)
 
-np.savetxt(result_dir + '/' + experiment_dir + "/" + dataset + "_" +experiment_sub_dir + "_" + "_embeddings.csv", X, delimiter=",")
+np.savetxt(result_dir + '/' + experiment_dir + "/" + dataset + "_" +experiment_sub_dir + "_" + "embeddings.csv", X, delimiter=",")
 # print(result_dir + "/" + experiment_dir + "/" + dataset + "_" +experiment_sub_dir + "_embeddings.csv")
 # if os.path.exists(result_dir + "/" + experiment_dir + "/" + dataset + "_" +experiment_sub_dir + "_embeddings.csv"):
 #     X = pd.read_csv(result_dir + "/" + experiment_dir + "/" + dataset + "_" +experiment_sub_dir + "_embeddings.csv", header=None).to_numpy()
