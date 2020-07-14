@@ -1,0 +1,44 @@
+,EventId,EventTemplate
+0,E39,<*> <*> <*>
+1,E6,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+2,E9,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>  <*>
+3,E38,Initializing CPU#0
+4,E23,<*> <*> <*> <*> <*> <*> <*>
+5,E16,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+6,E29,<*> <*> <*>
+7,E19,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+8,E15,<*> <*> <*> <*> <*>
+9,E34,Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004
+10,E12,<*> <*> <*>
+11,E20,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+12,E2,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>  user=root
+13,E27,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+14,E21,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+15,E22,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+16,E17,<*> <*> <*> <*> <*> <*> <*> <*>
+17,E18,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>  user=root
+18,E0,<*> <*> <*> <*> <*> <*> <*> <*>
+19,E35,<*> <*> <*>
+20,E5,<*>
+21,E24,<*> <*> <*>
+22,E26,<*> <*> <*> <*>
+23,E14,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+24,E4,<*> <*> <*> <*>
+25,E32,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+26,E33,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+27,E3,<*> <*> <*> <*> <*> <*> <*>
+28,E1,<*> <*> <*> <*>
+29,E41,<*> <*>
+30,E28,cupsd <*> succeeded
+31,E10,<*> <*> <*> <*> <*> <*> <*> <*>
+32,E8,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+33,E36,<*> <*> <*>
+34,E30,authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=
+35,E37,"<*> zone: <*> pages, LIFO <*>"
+36,E11,User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005
+37,E7,<*> <*> <*> <*> <*> <*> <*> <*>
+38,E40,<*> <*> <*> <*>
+39,E31,<*> <*> <*>
+40,E13,<*>
+41,E42,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1"
+42,E25,connection from <*> () at <*> Jul  <*> <*> 2005

@@ -8,8 +8,10 @@ import os
 if g.REGENERATE_VOCABULARY_FILES or not os.path.exists(g.WORD_TO_INDEX_FILE):
 
     tokenized_loglines = []
-
-    loglines = list(open(g.datafile, 'r'))
+    if g.datafile == 'linux':
+        loglines = list(open(g.datafile, 'r'))
+    else:
+        loglines = list(open(g.datafile, 'r', encoding="ISO-8859-1"))
     print("Loaded %i loglines"%len(loglines))
     total_lines = len(loglines) if g.vocabulary_max_lines==-1 else g.vocabulary_max_lines
     start_time = time.time()

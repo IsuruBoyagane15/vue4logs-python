@@ -1,0 +1,70 @@
+,EventId,EventTemplate
+0,E12,<*> <*> <*> <*>
+1,E16,<*> <*> <*>
+2,E59,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+3,E18,"klogd 1.4.1, log source = /proc/kmsg started."
+4,E44,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 <*> 2005
+5,E22,<*> <*> <*>
+6,E26,<*> <*> <*> <*> <*> <*> <*>
+7,E45,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>  <*>
+8,E29,<*> hash table entries: <*> (order: <*> <*> bytes)
+9,E39,pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+10,E55,connection from <*> () at <*> Jul  <*> <*> 2005
+11,E66,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 <*> 2005
+12,E21,"<*> zone: <*> pages, LIFO <*>"
+13,E64,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root
+14,E10,session opened for user <*> by <*>
+15,E57,connection from <*> <*> at <*> Jul  <*> <*> 2005
+16,E35,PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0
+17,E6,<*>
+18,E4,User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005
+19,E31,Checking 'hlt' instruction... OK.
+20,E67,connection from <*> <*> at Sun Jul 17 <*> 2005
+21,E11,<*> <*> <*>
+22,E36,apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)
+23,E19,<*> <*> <*>
+24,E46,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at <*> Jun <*> <*> 2005
+25,E68,Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004
+26,E62,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 <*> 2005
+27,E1,<*> <*> <*> <*> <*> <*> <*>
+28,E15,*** info [mice.c(1766)]:
+29,E58,connection from <*> <*> at Sun Jul <*> <*> <*>
+30,E28,"Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)"
+31,E27,<*> <*> <*>
+32,E40,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+33,E42,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+34,E25,<*> <*> <*> <*>
+35,E30,<*> <*> <*> <*> <*> <*> <*>
+36,E43,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>
+37,E37,HCI daemon ver 2.4 started
+38,E60,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root
+39,E53,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort
+40,E24,<*> <*> <*>
+41,E9,<*> <*> <*>
+42,E54,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>  <*>
+43,E51,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root
+44,E49,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net
+45,E2,<*> <*> <*> <*>
+46,E17,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+47,E7,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+48,E50,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>  user=root
+49,E13,cupsd <*> succeeded
+50,E61,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 <*> 2005
+51,E63,authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=
+52,E5,<*> <*> <*>
+53,E56,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com
+54,E23,Initializing CPU#0
+55,E52,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code
+56,E8,Received SNMP packet(s) from 67.170.148.126
+57,E48,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>  user=root
+58,E3,<*>
+59,E38,audit(1122475266.4294965305:0): initialized
+60,E0,<*> <*> <*> <*>
+61,E32,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1"
+62,E34,<*> <*> <*> <*>
+63,E41,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*>  user=root
+64,E14,session closed for user <*>
+65,E33,<*> <*> <*>
+66,E65,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 <*> 2005
+67,E20,<*> <*> <*> <*> <*>
+68,E47,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net
