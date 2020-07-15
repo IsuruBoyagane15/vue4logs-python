@@ -2,7 +2,8 @@
 data/
 gt/
 *.pyc
-results/*/*/baseline_1
+results/*/*/baseline_*
+results/*/*/biLSTM_encoder_*
 *.processed
 index_to_word.json
 tokenized_loglines.json
