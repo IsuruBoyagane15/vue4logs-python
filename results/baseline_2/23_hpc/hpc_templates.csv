@@ -1,0 +1,39 @@
+,EventId,EventTemplate
+0,E0,Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID=1973)
+1,E1,Component State Change: Component \042alt0\042 is in the unavailable state <*>
+2,E2,<*>  (command <*>
+3,E3,<*> <*> <*>
+4,E4,Targeting <*> and <*> child of command <*>
+5,E5,Targeting domains:node-D7 and nodes:node-[224\ 228\ 232]
+6,E7,Targeting <*> and <*>
+7,E6,Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191]
+8,E8,psu failure\ <*>
+9,E9,Temperature (41C) exceeds warning threshold
+10,E10,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+11,E11,NIFF: node <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+12,E12,Fan speeds ( <*> <*> <*> <*> <*> <*> )
+13,E30,<*> <*>
+14,E13,Link <*>
+15,E14,Link error on broadcast tree <*>
+16,E15,ServerFileSystem: ServerFileSystem domain <*> is full
+17,E16,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>
+18,E20,<*>
+19,E17,<*>
+20,E18,<*>
+21,E19,<*>
+22,E25,inconsistent nodesets <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok>
+23,E22,<*>
+24,E21,<*>
+25,E23,not-responding
+26,E24,inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>
+27,E26,<*>
+28,E27,<*>
+29,E28,<*> <*>
+30,E29,risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+31,E31,boot (command 2092) Error: HALT asserted\  cannot continue
+32,E32,link errors remain current
+33,E33,NIFF: node <*> has detected an available network connection on network <*> via interface <*>
+34,E34,NIFF: node <*> has detected an available network connection on network 10.128.0.0 via interface ee0
+35,E37,NIFF: node <*> has detected an available network connection on network <*> via interface alt0
+36,E35,NIFF: node <*> has detected an available network connection on network 0.0.0.0 via interface alt0
+37,E36,NIFF: node <*> has detected an available network connection on network 0.0.0.0 via interface alt0

@@ -1,0 +1,53 @@
+,EventId,EventTemplate
+0,E3,onStandStepChanged <*>
+1,E4,<*> <*> 0 4
+2,E5,<*> <*>
+3,E6,flush sensor data
+4,E7, getTodayTotalDetailSteps = <*>
+5,E8,<*>
+6,E9,calculateCaloriesWithCache <*>
+7,E10,calculateAltitudeWithCache <*>
+8,E11,REPORT : <*> <*> <*> 240
+9,E12,onReceive action: android.intent.action.SCREEN_OFF
+10,E36,<*>
+11,E13,"screen status unknown,think screen on"
+12,E14,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+13,E39,<*> <*> 0 <*>
+14,E41,<*> <*>
+15,E15,Alarm uploadStaticsToDB totalSteps=7163Calories:153367Floor:240Distance:5112
+16,E16,<*>
+17,E17,upLoadOneMinuteDataToEngine <*>
+18,E18,<*> <*> = <*>
+19,E19,"getAppContext() isAppValid health or wear, packageName = com.huawei.health"
+20,E20,insertHiHealthData() checkAppType  0 appID = 1
+21,E0,"insertHiHealthData() size = <*> = 1,One Data Type = <*> = com.huawei.health,writeStatType = 0"
+22,E21,"saveHealthDetailData() deviceID = 2,clientID=1,id=1"
+23,E1,"saveStatData() type <*> = 1513958400000,statClient = 2,who is 1"
+24,E22,"new date =20171223, <*>"
+25,E23,"saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = <*>"
+26,E24,<*> size = <*> = <*>
+27,E25,"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT"
+28,E26,insertHiHealthData() end totalTime = <*>
+29,E27,<*> <*>  type = <*> <*>
+30,E43,<*> <*>
+31,E28,checkInsertStatus <*> or <*> is enough
+32,E29,"stepSyncOrNot appSynTimes is 0, statsyncTimes is 0"
+33,E30,startInsertSportSync <*> <*> <*> <*> <*>
+34,E31,"checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0"
+35,E2,"startSync hiSyncOption = <*> syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"
+36,E32,needAutoSync autoSyncSwitch is open
+37,E33,"<*> the <*> switch is open, start push <*> data!"
+38,E34,<*> <*> <*> <*>
+39,E35,ifCanSync not! no cloud version
+40,E37,InsertEvent success begin:25233975 end:25233979
+41,E38,setWriteDBLastDataMinute success
+42,E40,<*> <*>
+43,E42,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501
+44,E44,<*>
+45,E45, <*> <*>
+46,E46,setDiffTotalSteps=0
+47,E47,reload : 3786 restar 0
+48,E48,REPORT : 0 0 0 0
+49,E49,<*> <*>
+50,E50,closeNotification...
+51,E51,"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 20171224 oldDay is 20171223"

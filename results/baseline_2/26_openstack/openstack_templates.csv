@@ -1,0 +1,83 @@
+,EventId,EventTemplate
+0,E43,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+1,E0,[instance: <*> VM <*> (Lifecycle Event)
+2,E44,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+3,E45,image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking
+4,E46,"image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage"
+5,E1,<*> base <*> /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+6,E2,Creating event <*> for instance <*>
+7,E47,"10.11.10.1 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 200 len: 380 time: <*>"
+8,E3,[instance: <*> Instance <*> successfully.
+9,E4,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.
+10,E5,[instance: <*> Took <*> seconds to build instance.
+11,E6,Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+12,E7,"Total usable vcpus: 16, total allocated vcpus: 1"
+13,E48,Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[]
+14,E49,Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+15,E50,"<*> ""GET /openstack/2012-08-10/meta_data.json HTTP/1.1"" status: 200 len: 264 time: <*>"
+16,E8,"<*> ""GET /openstack/2013-10-17 HTTP/1.1"" status: 200 len: 157 time: <*>"
+17,E51,"<*> ""GET /openstack/2013-10-17/vendor_data.json HTTP/1.1"" status: 200 len: 124 time: <*>"
+18,E52,"10.11.10.1 ""DELETE <*> HTTP/1.1"" status: 204 len: 203 time: <*>"
+19,E53,"10.11.21.122,10.11.10.1 ""GET /openstack/2013-10-17/user_data HTTP/1.1"" status: 404 len: 176 time: 0.0010660"
+20,E9,[instance: <*> Terminating instance
+21,E54,"<*> ""GET /openstack/2013-10-17/meta_data.json HTTP/1.1"" status: 200 len: 967 time: <*>"
+22,E55,[instance: <*> Deleting instance files <*>
+23,E56,[instance: <*> Deletion of <*> complete
+24,E10,[instance: <*> Took <*> seconds to destroy the instance on the hypervisor.
+25,E11,[instance: <*> Took <*> seconds to deallocate network for instance.
+26,E12,Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+27,E13,Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+28,E14,HTTP exception thrown: No instances found for any event
+29,E57,"10.11.10.1 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 404 len: 296 time: <*>"
+30,E58,"10.11.10.1 ""POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1"" status: 202 len: 733 time: <*>"
+31,E15,"[instance: <*> Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU"
+32,E16,"[instance: <*> Total memory: 64172 MB, used: 512.00 MB"
+33,E17,"[instance: <*> memory limit: 96258.00 MB, free: 95746.00 MB"
+34,E18,"[instance: <*> Total disk: 15 GB, used: 0.00 GB"
+35,E19,"[instance: <*> disk limit not specified, defaulting to unlimited"
+36,E20,"[instance: <*> Total vcpu: 16 VCPU, used: 0.00 VCPU"
+37,E21,"[instance: <*> vcpu limit not specified, defaulting to unlimited"
+38,E22,[instance: <*> Claim successful
+39,E59,"10.11.10.1 ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+40,E23,[instance: <*> Creating image
+41,E24,[instance: <*> VM Stopped (Lifecycle Event)
+42,E25,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.
+43,E26,Successfully synced instances from host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'.
+44,E60,"<*> ""GET /openstack/2013-10-17/vendor_data.json HTTP/1.1"" status: 200 len: 124 time: <*>"
+45,E61,"<*> ""GET /openstack/2013-10-17/user_data HTTP/1.1"" status: 404 len: 176 time: <*>"
+46,E62,"<*> ""GET /openstack/2013-10-17/meta_data.json HTTP/1.1"" status: 200 len: 967 time: <*>"
+47,E27,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+48,E63,"<*> ""GET <*> HTTP/1.1"" status: 200 len: 124 time: <*>"
+49,E64,"<*> ""GET /latest/meta-data/block-device-mapping/ami HTTP/1.1"" status: 200 len: 119 time: <*>"
+50,E65,"<*> ""GET /latest/meta-data/placement/ HTTP/1.1"" status: 200 len: 134 time: <*>"
+51,E66,Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.
+52,E67,"<*> ""GET /openstack/2013-10-17 HTTP/1.1"" status: 200 len: 157 time: <*>"
+53,E28,"<*> ""GET /openstack/2013-10-17/user_data HTTP/1.1"" status: 404 len: 176 time: <*>"
+54,E29,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took 1.05 seconds to destroy the instance on the hypervisor.
+55,E30,Base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742
+56,E68,"<*> ""GET /latest/meta-data/block-device-mapping/ HTTP/1.1"" status: 200 len: 124 time: <*>"
+57,E73,"<*> ""GET /latest/meta-data/block-device-mapping/root HTTP/1.1"" status: 200 len: 124 time: <*>"
+58,E31,[instance: <*> Took 1.00 seconds to destroy the instance on the hypervisor.
+59,E32,"Total usable vcpus: 16, total allocated vcpus: 0"
+60,E69,Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=512MB phys_disk=15GB used_disk=0GB total_vcpus=16 used_vcpus=0 pci_stats=[]
+61,E33,[instance: <*> Took 0.99 seconds to destroy the instance on the hypervisor.
+62,E70,"10.11.10.1 ""GET /v2/e9746973ac574c6b8a9e8857f56a7608/servers/detail?all_tenants=True&changes-since=2017-05-16T05%3A54%3A58.530160%2B00%3A00 HTTP/1.1"" status: 200 len: 23370 time: 0.3273299"
+63,E71,The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.
+64,E34,"10.11.21.129,10.11.10.1 ""GET /openstack/2013-10-17/user_data HTTP/1.1"" status: 404 len: 176 time: 0.0006950"
+65,E72,"<*> ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: <*>"
+66,E74,"10.11.10.2 ""GET /v2/e9746973ac574c6b8a9e8857f56a7608/servers/detail?all_tenants=True&changes-since=2017-05-16T05%3A55%3A11.521167%2B00%3A00&host=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us HTTP/1.1"" status: 200 len: 23222 time: 0.2740111"
+67,E75,"10.11.10.2 ""GET /v2/e9746973ac574c6b8a9e8857f56a7608/images/0673dd71-34c5-4fbb-86c4-40623fbe45b4 HTTP/1.1"" status: 200 len: 868 time: 0.1525230"
+68,E35,Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us
+69,E42,[instance: <*> Took <*> seconds to build instance.
+70,E36,"<*> ""GET /latest/meta-data/placement/ HTTP/1.1"" status: 200 len: 134 time: <*>"
+71,E76,"<*> ""GET /latest/meta-data/placement/availability-zone HTTP/1.1"" status: 200 len: 120 time: <*>"
+72,E37,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+73,E38,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+74,E39,"10.11.21.132,10.11.10.1 ""GET /latest/meta-data/ami-launch-index HTTP/1.1"" status: 200 len: 117 time: 0.0007291"
+75,E77,"10.11.21.132,10.11.10.1 ""GET /latest/meta-data/public-hostname HTTP/1.1"" status: 200 len: 130 time: 0.2245400"
+76,E78,"<*> ""GET <*> HTTP/1.1"" status: 200 len: <*> time: <*>"
+77,E79,"<*> ""GET /latest/meta-data/block-device-mapping/ami HTTP/1.1"" status: 200 len: 119 time: <*>"
+78,E40,"While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor."
+79,E41,[instance: bf8c824d-f099-4433-a41e-e3da7578262e] During sync_power_state the instance has a pending task (spawning). Skip.
+80,E80,"10.11.21.136,10.11.10.1 ""GET /latest/meta-data/placement/availability-zone HTTP/1.1"" status: 200 len: 120 time: 0.2186198"
+81,E81,"10.11.21.139,10.11.10.1 ""GET /latest/meta-data/ami-launch-index HTTP/1.1"" status: 200 len: 117 time: 0.2664881"

@@ -1,0 +1,35 @@
+,EventId,EventTemplate
+0,E0,Notification time out: <*>
+1,E1,Received connection request <*>
+2,E2,<*> <*>
+3,E3,<*> <*> <*> <*>
+4,E4,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+5,E5,Interrupting SendWorker
+6,E9,Closed socket connection for client <*> which had sessionid <*>
+7,E11,<*> <*> <*>
+8,E6,<*> <*> <*> <*> <*> <*> <*> <*>
+9,E7,Established session <*> with negotiated timeout <*> for client <*>
+10,E8,Accepted socket connection from <*>
+11,E10,<*> <*> <*> <*> client <*> <*> <*> <*> <*> <*>
+12,E12,Server <*>
+13,E16,Cannot open channel to <*> at election address <*>
+14,E13,Processed session termination for sessionid: <*>
+15,E31,Expiring session <*> timeout of <*> exceeded
+16,E14,******* GOODBYE <*> ********
+17,E15,<*>
+18,E17,Cannot open channel to <*> at election address <*>
+19,E18,My election bind port: 0.0.0.0/0.0.0.0:3888
+20,E19,"New election. My id =  1, proposed zxid=0x700000000"
+21,E20,FOLLOWING - LEADER ELECTION TOOK - <*>
+22,E21,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+23,E22,<*> <*>
+24,E23,"Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT"
+25,E24,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+26,E25,<*> <*>
+27,E26,Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper
+28,E27,Snapshotting: <*> to <*>
+29,E28,Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4
+30,E29,Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar
+31,E30,Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000
+32,E32,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084
+33,E33,Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre

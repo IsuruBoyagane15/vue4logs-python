@@ -1,0 +1,21 @@
+,EventId,EventTemplate
+0,E0,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!
+1,E1,<*> <*> <*> <*> <*>
+2,E2,<*> <*> <*> <*> <*>
+3,E3,<*> <*> <*> <*> <*>
+4,E4,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*>
+5,E17,<*> <*> for <*> <*> <*> <*> <*> <*>
+6,E16,<*> <*> <*> <*> <*>
+7,E6,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ec2-52-80-34-196.cn-north-1.compute.amazonaws.com.cn
+8,E7,Received disconnect from <*> 11: Bye Bye [preauth]
+9,E8,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root
+10,E5,Failed password for <*> from <*> port <*> ssh2
+11,E9,message repeated 5 times: [ Failed password for root from <*> port <*> ssh2]
+12,E10,Disconnecting: Too many authentication failures for root [preauth]
+13,E11,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root
+14,E12,<*> <*> <*> <*> <*> <*>
+15,E13,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*>  <*>
+16,E14,reverse mapping checking getaddrinfo for <*> <*> failed - POSSIBLE BREAK-IN ATTEMPT!
+17,E15,error: Received disconnect from 195.154.37.122: 3: com.jcraft.jsch.JSchException: Auth fail [preauth]
+18,E19,<*> <*> <*> <*> <*> <*> <*> <*> user <*> <*>
+19,E18,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= <*>
