@@ -7,11 +7,21 @@ The python version of vue4logs code converted from Ipython notebooks. These code
 1. library/ : codes of creating vocabulary and other low level components
 2. results/ : Benchmarks of different experiments
 
-vue4logs.ipynb : end-to-end baseline implementation notebook
-vue4logs.py : end-to-end baseline implementation python
+## Sub-directories in results/
+resulsts/**{experiment_type}_{epochs}**
 
-vue4logs_biLSTM_encoder.ipynb : end-to-end biLSTM encoder implementation notebook
-vue4logs_biLSTM_encoder.py : end-to-end biLSTM encoder implementation python
+Example: results/**baseline_1**
+ - Results of experiment type = baseline and epochs = 1
+  
+
+
+# Files
+
+- vue4logs.ipynb : end-to-end baseline implementation notebook
+- vue4logs.py : end-to-end baseline implementation python
+
+- vue4logs_biLSTM_encoder.ipynb : end-to-end biLSTM encoder implementation notebook
+- vue4logs_biLSTM_encoder.py : end-to-end biLSTM encoder implementation python
 
 - create_embeddings.py : STEP 1 implementation
 - cluster.py : STEP 2 implementation
