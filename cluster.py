@@ -66,15 +66,14 @@ plt.xlabel('threshold')
 plt.legend()
 plt.show()
 
-print("Threshold giving highest v-measure :", thresholds[v_measures.index(max(v_measures))])
-selected_threshold = thresholds[v_measures.index(max(v_measures))]
+selected_threshold = thresholds[silhouette_measures.index(max(silhouette_measures))]
+print("Threshold giving highest v-measure :", selected_threshold)
 brc = Birch(threshold=selected_threshold, branching_factor=50, n_clusters=None, compute_labels=True, copy=True)
 brc.fit(X)
 predicted_labels = brc.predict(X)
 
 max_silhouette_score = max(silhouette_measures)
 max_v_measure = max(v_measures)
-selected_threshold = thresholds[v_measures.index(max_v_measure)]
 
 print("Maximum v-measure :", max_v_measure)
 print("Maximum silhouette score :", max_silhouette_score)
@@ -85,9 +84,9 @@ cluster_count = len(np.unique(predicted_labels))
 print("Cluster count :", cluster_count)
 
 with open(cluster_result_file, "w") as c_file:
-    c_file.write(str(max_v_measure) + "\n")
-    c_file.write(str(max_silhouette_score) + "\n")
-    c_file.write(str(selected_threshold) + "\n")
-    c_file.write(str(cluster_count) + "\n")
+    c_file.write("max_v_measure :" + str(max_v_measure) + "\n")
+    c_file.write("max_silhouette_score :" + str(max_silhouette_score) + "\n")
+    c_file.write("selected_threshold :" + str(selected_threshold) + "\n")
+    c_file.write("cluster_count :" + str(cluster_count) + "\n")
 
 np.savetxt(predicted_labels_file, predicted_labels, delimiter=",")
