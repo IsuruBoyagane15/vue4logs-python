@@ -31,5 +31,12 @@ Example: results/**baseline_1**
 
 # Usage
 
+To run all steps at once :
 - configure dataset_nr, epochs and experiment type in configs.
 - python init.py
+
+To run steps separately :
+- configure dataset_nr, epochs and experiment type in configs.
+- step 1 : python create_embeddings.py
+- step 2 : python cluster.py (embeddings.csv file created by step 1 should be there in relevant results directory to run this)
+- step 3 : python get_log_templates.py (predicted_labels.csv file should be there in relevant results directory to run this)
