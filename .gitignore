@@ -7,5 +7,7 @@ results/*/*/biLSTM_encoder_*
 *.processed
 index_to_word.json
 tokenized_loglines.json
+tokenized_log_lines.json
 vocabulary.json
 word_to_index.json
+hyperparams.json
