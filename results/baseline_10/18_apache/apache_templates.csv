@@ -1,0 +1,6 @@
+,EventId,EventTemplate
+0,E1.0,mod_jk child <*> <*> <*>
+1,E0.0,workerEnv.init() ok /etc/httpd/conf/workers2.properties
+2,E2.0,jk2_init() Found child <*> in scoreboard slot <*>
+3,E3.0,[client <*> Directory index forbidden by rule: /var/www/html/
+4,E4.0,jk2_init() Can't find child <*> in scoreboard
