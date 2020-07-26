@@ -48,7 +48,7 @@ raw_logs = df_raw_logs['Content'].to_numpy()
 
 len(raw_logs)
 
-predicted_labels = np.loadtxt('results/' + experiment_sub_dir + '/18_apache/predicted_labels.csv', delimiter=',')
+predicted_labels = np.loadtxt('results/' + experiment_sub_dir + '/' + experiment_dir + '/predicted_labels.csv', delimiter=',')
 
 groups = pd.DataFrame()
 groups['predicted_labels'] = predicted_labels
