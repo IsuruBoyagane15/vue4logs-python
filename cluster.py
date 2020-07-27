@@ -14,14 +14,15 @@ experiment_sub_dir = experiment_type + "_" + str(epochs)
 experiment_dir = str(experiment_nr) + "_" + dataset
 result_dir = "results/" + experiment_sub_dir
 
-embedding_file = os.path.join("results", experiment_sub_dir, experiment_dir,
-                              dataset + "_" + experiment_sub_dir + "_embeddings.csv")
+# embedding_file = os.path.join("results", experiment_sub_dir, experiment_dir,
+#                               dataset + "_" + experiment_sub_dir + "_embeddings.csv")
 ground_truth_file = "gt/" + dataset + "_2k.log_structured.csv"
 cluster_result_file = os.path.join("results", experiment_sub_dir, experiment_dir,
                                    "clustering_results.txt")
 predicted_labels_file = os.path.join("results", experiment_sub_dir, experiment_dir,
                                      "predicted_labels.csv")
 
+print(result_dir + "/" + experiment_dir + "/" + dataset + "_" + experiment_sub_dir + "_embeddings.csv")
 if os.path.exists(result_dir + "/" + experiment_dir + "/" + dataset + "_" + experiment_sub_dir + "_embeddings.csv"):
     X = pd.read_csv(result_dir + "/" + experiment_dir + "/" + dataset + "_" + experiment_sub_dir + "_embeddings.csv",
                     header=None).to_numpy()
@@ -42,6 +43,7 @@ silhouette_measures = []
 thresholds = []
 current_threshold = 0
 
+proper_start = False
 while True:
     brc = Birch(threshold=current_threshold, branching_factor=50, n_clusters=None, compute_labels=True, copy=True)
     brc.fit(X)
@@ -50,14 +52,22 @@ while True:
     v_measure = homogeneity_completeness_v_measure(clusters, labels)[2]
     try:
         silhouette_measure = silhouette_score(X, labels)
+        proper_start = True
     except ValueError:
-        print("Data is clustered into one cluster")
-        break
+        if not proper_start:
+            current_threshold += step
+            continue
+        else:
+            print("Data is clustered into one cluster")
+            break
 
     thresholds.append(current_threshold)
     v_measures.append(v_measure)
     silhouette_measures.append(silhouette_measure)
     current_threshold += step
+
+    # if current_threshold > 30:
+    #     break
 
 plt.plot(thresholds, v_measures, label="v-measure")
 plt.plot(thresholds, silhouette_measures, label="silhouette")
@@ -67,7 +77,7 @@ plt.legend()
 plt.show()
 
 selected_threshold = thresholds[silhouette_measures.index(max(silhouette_measures))]
-print("Threshold giving highest v-measure :", selected_threshold)
+print("Threshold giving highest silhouette measure :", selected_threshold)
 brc = Birch(threshold=selected_threshold, branching_factor=50, n_clusters=None, compute_labels=True, copy=True)
 brc.fit(X)
 predicted_labels = brc.predict(X)
