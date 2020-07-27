@@ -1,0 +1,44 @@
+,EventId,EventTemplate
+0,E25.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=175.102.13.6
+1,E24.0,<*> <*> <*> <*> <*> <*> <*> <*>
+2,E10.0,<*> <*> <*> <*> <*>
+3,E3.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.234.31.186
+4,E31.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.190.58.151
+5,E32.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122
+6,E20.0,<*> password for <*> <*> <*> <*> <*> <*>
+7,E33.0,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth]
+8,E18.0,<*> <*> <*> <*> <*>
+9,E29.0,<*> <*> <*> <*> <*>
+10,E1.0,<*> <*> <*> <*> <*>
+11,E22.0,<*> <*> <*> <*> <*>
+12,E4.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ec2-52-80-34-196.cn-north-1.compute.amazonaws.com.cn
+13,E19.0,<*> <*> <*> <*> <*>
+14,E12.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*>
+15,E28.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180
+16,E13.0,<*> <*> <*> <*> <*>
+17,E41.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.136.162.51
+18,E34.0,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=185.190.58.151
+19,E42.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253
+20,E6.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*>
+21,E14.0,<*> <*> <*> <*> <*>
+22,E39.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.4.203.64
+23,E16.0,Failed <*> for <*> <*> <*> <*> <*> <*>
+24,E17.0,reverse mapping checking getaddrinfo for <*> <*> failed - POSSIBLE BREAK-IN ATTEMPT!
+25,E8.0,message repeated 5 times: [ Failed password for root from <*> port <*> ssh2]
+26,E0.0,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+27,E35.0,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!
+28,E11.0,<*> <*> <*> <*> <*>
+29,E30.0,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+30,E26.0,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+31,E36.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.207.39.16
+32,E2.0,<*> <*> <*> <*> <*>
+33,E40.0,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.4.203.64
+34,E21.0,Connection closed by <*> [preauth]
+35,E38.0,<*> <*> <*> <*> <*>
+36,E23.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*>
+37,E9.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*>
+38,E5.0,Received disconnect from <*> 11: <*> <*> <*>
+39,E7.0,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+40,E15.0,<*> <*> <*> <*> <*>
+41,E37.0,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=60.2.12.12  user=root
+42,E27.0,Failed <*> for <*> <*> <*> <*> <*> <*>
