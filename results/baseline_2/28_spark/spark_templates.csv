@@ -1,0 +1,17 @@
+,EventId,EventTemplate
+0,E7.0,<*> <*> <*> <*> <*>
+1,E11.0,Times: total = <*> boot = <*> init = <*> finish = <*>
+2,E0.0,<*> <*>
+3,E9.0,Input split: <*>
+4,E3.0,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4
+5,E14.0,Saved output of task <*> to <*>
+6,E5.0,Starting executor ID 5 on host mesos-slave-07
+7,E15.0,<*> Committed
+8,E6.0,Block <*> stored as <*> in memory (estimated size <*> <*> free <*> KB)
+9,E8.0,<*> <*> <*> <*>
+10,E13.0,Finished task <*> in stage <*> (TID <*> <*> bytes result sent to driver
+11,E2.0,<*> <*> <*> <*>
+12,E10.0,<*> <*> <*> <*> <*> <*>
+13,E1.0,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)"
+14,E4.0,<*> <*>
+15,E12.0,Running task <*> in stage <*> (TID <*>
