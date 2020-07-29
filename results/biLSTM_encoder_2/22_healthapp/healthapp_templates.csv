@@ -1,0 +1,37 @@
+,EventId,EventTemplate
+0,E4.0,<*> <*>
+1,E8.0,calculateCaloriesWithCache <*>
+2,E14.0,"insertHiHealthData() size = <*> = 1,One Data Type = <*> = com.huawei.health,writeStatType = 0"
+3,E7.0,calculateAltitudeWithCache totalAltitude=240
+4,E23.0,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+5,E21.0,insertHiHealthData() end totalTime = <*>
+6,E25.0,<*> <*> <*>
+7,E34.0,"<*> the <*> switch is open, start push <*> data!"
+8,E6.0,<*>
+9,E32.0,<*>
+10,E2.0,<*> <*>
+11,E28.0,"startInsertSportSync first 500 steps sync,do all sync"
+12,E26.0,startListenerChange subscribeList = [1]
+13,E13.0,insertHiHealthData() checkAppType  0 appID = 1
+14,E29.0,<*>
+15,E19.0,<*> size = <*> = <*>
+16,E31.0,<*>
+17,E3.0,<*> <*> <*>
+18,E5.0,<*> <*> <*>
+19,E18.0,"saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = <*>"
+20,E27.0,<*> <*> <*> <*> <*> <*>
+21,E35.0,<*> <*>
+22,E30.0,<*>
+23,E10.0,upLoadOneMinuteDataToEngine <*>
+24,E11.0,getBinderPackageName packageName = com.huawei.health
+25,E0.0,<*>
+26,E20.0,"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT"
+27,E15.0,"saveHealthDetailData() deviceID = 2,clientID=1,id=1"
+28,E22.0,<*> <*>  type = <*> <*>
+29,E9.0,Alarm uploadStaticsToDB totalSteps=7163Calories:153367Floor:240Distance:5112
+30,E16.0,"saveStatData() type <*> = 1513958400000,statClient = 2,who is 1"
+31,E12.0,"getAppContext() isAppValid health or wear, packageName = com.huawei.health"
+32,E24.0,"startSync hiSyncOption = <*> syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"
+33,E33.0,"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 20171224 oldDay is 20171223"
+34,E17.0,"new date =20171223, <*>"
+35,E1.0,<*> <*> 0 <*>
