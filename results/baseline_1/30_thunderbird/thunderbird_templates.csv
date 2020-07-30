@@ -1,0 +1,133 @@
+,EventId,EventTemplate
+0,E26.0,probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0
+1,E31.0,"i8042 <*> port at 0x60,0x64 irq <*>"
+2,E40.0,Mounting NFS filesystems: succeeded
+3,E113.0,DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1
+4,E111.0,"<*> from=root, <*> class=0, nrcpts=1, <*> relay=#7#@localhost"
+5,E131.0,Warning: we failed to resolve data source name <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+6,E35.0,Using HPET based timekeeping.
+7,E39.0,"User #29#, coming from #30#, authenticated."
+8,E78.0,<*> used by override.
+9,E21.0,... autorun DONE.
+10,E51.0,connection lost: 'Connection closed.'
+11,E128.0,"<*> to=root, ctladdr=root (0/0), <*> xdelay=00:00:00, mailer=relay, <*> relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+12,E8.0,CentOS-4 (Kernel Module GPG key)
+13,E37.0,probe of vesafb0 failed with error -6
+14,E20.0,<*> <*> <*>
+15,E33.0,Detected 3591.360 MHz processor.
+16,E105.0,Now running on #29#'s privileges.
+17,E102.0,asking for cache data failed
+18,E130.0,"root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr"
+19,E18.0,Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+20,E9.0,PCI Hot Plug PCI Core version: 0.5
+21,E98.0,no floppy controllers found
+22,E17.0,<*> <*> <*> <*> <*> <*> <*>
+23,E117.0,PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12)
+24,E0.0,session closed for user root
+25,E60.0,LAPIC_NMI <*> high edge lint[0x1])
+26,E75.0,(supports S0 S4 S5)
+27,E69.0,START: tftp pid=16563 from=10.100.4.251
+28,E42.0,Warning: we failed to resolve <*> <*> name <*> <*>
+29,E72.0,Received SNMP packet(s) from #34#
+30,E52.0,(root) CMD (run-parts /etc/cron.hourly)
+31,E92.0,<*> <*> <*> <*> <*>
+32,E83.0,<*> <*> <*> <*>
+33,E19.0,Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda
+34,E126.0,Reading included configuration file: /etc/xinetd.d/krb5-telnet [file=/etc/xinetd.d/krb5-telnet] [line=13]
+35,E4.0,Using IOAPIC for interrupt routing
+36,E15.0,eth0: e1000_watchdog: NIC Link is Up 1000 Mbps Full Duplex
+37,E76.0,<*> (v001 DELL PE BKC 0x00000001 MSFT <*> @ <*>
+38,E74.0,My unqualified host name <*> unknown; sleeping for retry
+39,E104.0,registered new driver <*>
+40,E67.0,Local disconnected: Connection closed.
+41,E43.0,<*>
+42,E121.0,"Trace cache: 12K uops, L1 D cache: 16K"
+43,E95.0,allocating divert_blk for eth0
+44,E59.0,LAPIC <*> <*> enabled)
+45,E22.0,<*> <*> <*>
+46,E24.0,<*> (Release Date: <*> <*> <*> <*> <*> 2004)
+47,E7.0,<*> netfilter hooks
+48,E58.0,(root) CMD (/projects/tbird/temps/get_temps c)
+49,E110.0,unable to qualify my own domain name <*> -- using short name
+50,E84.0,"routing cache hash table of 65536 buckets, 1024Kbytes"
+51,E70.0,kernel time sync <*> <*>
+52,E106.0,connection lost: 'Connection closed.'
+53,E122.0,"sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $"
+54,E6.0,Using ACPI for IRQ routing
+55,E116.0,PCI Interrupt Link <*> (IRQs 3 4 5 6 7 10 11 12) <*>
+56,E64.0,"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27"
+57,E89.0,Starting in permissive mode
+58,E108.0,removing <*>
+59,E41.0,Mounting other filesystems: failed
+60,E123.0,"apic_id <*> version 32, address <*> GSI <*>"
+61,E1.0,session opened for user root by (uid=0)
+62,E25.0,fw version:[516A] bios version:[H418]
+63,E118.0,"PCI Interrupt Link <*> (IRQs 3 4 5 6 7 10 11 12) *0, disabled."
+64,E88.0,Initializing.
+65,E107.0,Cannot open file /dev/logsurfer for writing (No such file or directory)
+66,E47.0,Changing permissions on special file /dev/logsurfer
+67,E48.0,Started working: 1 available service
+68,E32.0,syslog-ng startup succeeded
+69,E54.0,<*> No <*> change
+70,E71.0,time reset +0.182379 s
+71,E11.0,MegaRAID Model: LD 0 RAID1 139G Rev: 516A
+72,E82.0,<*> <*> <*>
+73,E114.0,DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.
+74,E14.0,v2.0:USB HID core driver
+75,E46.0,error: Bind to port 22 on 0.0.0.0 failed: Address already in use.
+76,E86.0,Probing PCI hardware (bus 00)
+77,E38.0,"connection from ""#28#"""
+78,E53.0,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************
+79,E62.0,"PCI interrupt <*> -> GSI 16 (level, low) -> IRQ 169"
+80,E103.0,Registering secondary module capability
+81,E73.0,"synchronized to #3#, stratum 1"
+82,E13.0,4.1.0-ioctl (2003-12-10) initialised: #36#@#37#
+83,E49.0,xinetd Version 2.3.13 started with libwrap loadavg options compiled in.
+84,E100.0,(C) 2000-2002 Netfilter core team
+85,E94.0,initializing netlink socket (disabled)
+86,E125.0,Reading included configuration file: <*> <*> <*>
+87,E115.0,IOAPIC <*> <*> <*>
+88,E97.0,not allocating divert_blk for non-ethernet device lo
+89,E34.0,Using 14.318180 MHz HPET timer.
+90,E10.0,Transparent bridge - 0000:00:1e.0
+91,E101.0,Starting ts_fixup: succeeded
+92,E61.0,PCI Interrupt Routing Table <*>
+93,E57.0,(root) CMD (/projects/tbird/temps/get_temps <*>
+94,E99.0,RNG not detected
+95,E50.0,unable to qualify my own domain name <*> -- using short name
+96,E23.0,autorun ...
+97,E80.0,<*> <*> <*> <*>
+98,E3.0,Local APIC address 0xfee00000
+99,E79.0,<*> <*>
+100,E63.0,eth0: e1000_probe: Intel(R) PRO/1000 Network Connection
+101,E29.0,scanning scsi channel <*> <*> <*> <*> <*>
+102,E112.0,<*> on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1
+103,E124.0,Reading included configuration file: <*> <*> <*>
+104,E2.0,INT_SRC_OVR (bus 0 bus_irq <*> global_irq <*> <*> <*>
+105,E91.0,<*>
+106,E56.0,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases
+107,E129.0,RRD_update (/var/lib/ganglia/rrds/D Nodes/dn731/pkts_out.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+108,E87.0,Using MMCONFIG at e0000000
+109,E28.0,<*> <*> <*>
+110,E120.0,Intel(R) Xeon(TM) CPU 3.60GHz stepping 03
+111,E5.0,<*> <*> <*> <*>
+112,E30.0,<*> <*> <*>
+113,E127.0,RRD_update <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+114,E109.0,data_thread() got not answer from any <*> datasource
+115,E68.0,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1
+116,E119.0,"PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>"
+117,E12.0,PE/PV Model: 1x2 SCSI BP Rev: 1.0
+118,E65.0,"Device: /dev/sda, Temperature changed -2 Celsius to 26 Celsius since last report"
+119,E45.0,Server listening on :: port 22.
+120,E90.0,Hash tables configured (established 262144 bind 65536)
+121,E96.0,allocating divert_blk for eth1
+122,E66.0,synchronized to <*> stratum <*>
+123,E16.0,eth1: e1000_probe: Intel(R) PRO/1000 Network Connection
+124,E81.0,Processor <*> (supports C1)
+125,E93.0,Disk quotas dquot_6.5.1
+126,E44.0,not allocating divert_blk for non-ethernet device sit0
+127,E36.0,Creating Topspin /dev entries:
+128,E77.0,<*> <*> <*> <*> <*>
+129,E55.0,connection lost: 'Connection closed.'
+130,E27.0,v2.0 (20020519)
+131,E85.0,Using software bounce buffering for IO (SWIOTLB)
