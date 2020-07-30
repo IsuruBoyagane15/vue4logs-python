@@ -1,0 +1,80 @@
+,EventId,EventTemplate
+0,E55.0,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
+1,E0.0,machine check enable..............0
+2,E4.0,<*> <*> <*>
+3,E16.0,<*> <*> <*>
+4,E66.0,"ciod: Received signal 15, code=0, errno=0, <*>"
+5,E76.0,ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error
+6,E34.0,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit 0"
+7,E33.0,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+8,E5.0,program interrupt: fp cr <*>
+9,E2.0,store operation.............................1
+10,E3.0,<*> <*> <*>
+11,E8.0,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.
+12,E58.0,ciod: LOGIN <*> failed: No such file or directory
+13,E13.0,"<*> ddr errors(s) detected and corrected on rank 0, symbol <*> bit <*>"
+14,E50.0,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+15,E74.0,"Kernel detected <*> integer alignment exceptions <*> iar 0x00544ea8, dear <*> <*> iar 0x00544eb8, dear <*> <*> iar 0x00544ea8, dear <*> <*> iar 0x00544eb8, dear <*> <*> iar 0x00544ee0, dear <*> <*> iar 0x00544ef0, dear <*> <*> iar 0x00544ee0, dear <*> <*> iar 0x00544ef0, dear <*>"
+16,E26.0,<*> <*> <*> <*> <*>
+17,E57.0,ciod: generated <*> core files for program <*>
+18,E49.0,ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map
+19,E1.0,machine check: i-fetch......................0
+20,E43.0,ciod: failed to read message prefix on control stream (CioStream socket to <*>
+21,E24.0,"ciod: Error loading <*> invalid or missing program image, <*> <*>"
+22,E63.0,"<*> ddr error(s) detected and corrected on rank 0, symbol <*> over <*> seconds"
+23,E71.0,"Kernel detected 35591540 integer alignment exceptions (35591533) iar 0x0023f108, dear 0x1feaa260 (35591534) iar 0x00265564, dear 0x1feaa1c0 (35591535) iar 0x00265574, dear 0x1feaa1e0 (35591536) iar 0x00265578, dear 0x1feaa200 (35591537) iar 0x00265588, dear 0x1feaa220 (35591538) iar 0x0026558c, dear 0x1feaa240 (35591539) iar 0x00265594, dear 0x1feaa260 (35591540) iar 0x00265598, dear 0x1feaa280"
+24,E67.0,Lustre mount FAILED : <*> : block_id : location
+25,E70.0,"<*> total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt."
+26,E61.0,ciod: LOGIN <*> failed: No such file or directory
+27,E65.0,ciod: generated 64 core files for program /bgl/apps/followup/hellow/a.out.1111
+28,E25.0,ciod: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+29,E17.0,<*> <*> <*>
+30,E44.0,ciod: LOGIN <*> failed: No such file or directory
+31,E48.0,Ido chip status changed: <*> <*> <*> <*> status=M <*> <*> <*> <*> PDT 2005
+32,E22.0,special purpose registers:
+33,E51.0,ciod: <*> <*> <*> <*> <*> <*> <*>
+34,E12.0,generating <*>
+35,E30.0,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+36,E78.0,"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160"
+37,E32.0,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+38,E39.0,iar <*> dear <*>
+39,E23.0,total of <*> ddr error(s) detected and corrected
+40,E15.0,<*> <*> <*> <*>
+41,E28.0,<*> <*> <*> <*>
+42,E75.0,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+43,E36.0,Lustre mount FAILED : <*> : point /p/gb1
+44,E29.0,<*> floating point alignment exceptions
+45,E14.0,instruction address: 0x00004ed8
+46,E7.0,"Node card status: ALERT 0, ALERT 1, ALERT 2, ALERT 3 is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK."
+47,E73.0,size of scratchpad portion of L3.........0 (0M)
+48,E10.0,<*> double-hummer alignment exceptions
+49,E68.0,ciod: Error reading message prefix on CioStream socket to <*> <*> <*> <*>
+50,E21.0,critical input interrupt enable...0
+51,E31.0,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+52,E41.0,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)
+53,E18.0,program interrupt: <*> <*>
+54,E20.0,guaranteed instruction cache block touch.0
+55,E45.0,"problem state (0=sup,1=usr).......0"
+56,E46.0,ciod: Error creating node map from file <*> <*> <*> <*>
+57,E6.0,<*> <*>
+58,E53.0,New ido chip inserted into the database: <*> <*> <*> <*>
+59,E9.0,<*> <*>
+60,E52.0,"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015"
+61,E64.0,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+62,E38.0,<*> <*> <*> <*> <*>
+63,E77.0,"critical input interrupt (unit=0x0b <*> warning for <*> <*> wire, suppressing further interrupts of same type"
+64,E37.0,data cache search parity error detected. attempting to correct
+65,E35.0,ciod: generated <*> core files for program <*>
+66,E69.0,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.
+67,E40.0,iar <*> dear <*>
+68,E54.0,PrepareForService shutting down <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+69,E47.0,ciod: Error <*> <*> <*> <*> <*> <*> <*> <*>
+70,E27.0,<*> <*> <*> <*> <*>
+71,E60.0,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+72,E42.0,<*> <*> <*>
+73,E19.0,<*> <*> <*> <*>
+74,E59.0,"ciod: In packet from node 91.0 (R62-M1-Nf-C:J03-U11), message code 2 is not 3 or 4294967295 (softheader=003b005b 00030000 00000001 00000000)"
+75,E62.0,ciod: generated <*> core files for program <*>
+76,E11.0,<*> <*> <*> <*> <*> <*>
+77,E56.0,ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/mapfiles/bgl.128mps.f64.map
+78,E72.0,total of <*> ddr error(s) detected and corrected over <*> seconds
