@@ -4,6 +4,7 @@ gt/
 *.pyc
 results/*/*/baseline_*
 results/*/*/biLSTM_encoder_*
+results/sil_1/*
 *.processed
 index_to_word.json
 tokenized_loglines.json
