@@ -76,7 +76,7 @@ plt.xlabel('threshold')
 plt.legend()
 plt.show()
 
-selected_threshold = thresholds[silhouette_measures.index(max(silhouette_measures))]
+selected_threshold = thresholds[v_measures.index(max(v_measures))]
 print("Threshold giving highest silhouette measure :", selected_threshold)
 brc = Birch(threshold=selected_threshold, branching_factor=50, n_clusters=None, compute_labels=True, copy=True)
 brc.fit(X)
