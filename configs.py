@@ -16,5 +16,5 @@
 # 32	zookeeper
 
 experiment_nr = 18
-experiment_type = "test"  # baseline of biLSTM_encoder
+experiment_type = "test"  # baseline or biLSTM_encoder
 epochs = 1
