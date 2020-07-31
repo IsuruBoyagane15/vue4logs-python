@@ -1,0 +1,38 @@
+,EventId,EventTemplate
+0,E9.0,<*> <*> <*> <*> <*>
+1,E26.0,Closed socket connection for client <*> (no session established for client)
+2,E6.0,Closed socket connection for client <*> which had sessionid <*>
+3,E16.0,<*> <*> <*> <*> <*>
+4,E15.0,<*>
+5,E14.0,******* GOODBYE <*> ********
+6,E29.0,Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper
+7,E30.0,Expiring session <*> timeout of <*> exceeded
+8,E13.0,Processed session termination for sessionid: <*>
+9,E23.0,Server <*>
+10,E31.0,Snapshotting: <*> to <*>
+11,E19.0,"New election. My id =  1, proposed zxid=0x700000000"
+12,E0.0,<*> <*> <*> <*>
+13,E2.0,<*> <*> <*> <*>
+14,E28.0,Unexpected exception causing shutdown while sock still open
+15,E5.0,<*> <*>
+16,E27.0,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running
+17,E8.0,Client attempting to <*> <*> <*> at <*>
+18,E36.0,Sending DIFF
+19,E12.0,Server environment:user.dir=/
+20,E35.0,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084
+21,E33.0,Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000
+22,E4.0,Connection broken for id <*> my id = <*> error =
+23,E34.0,First is 0x0
+24,E10.0,Established session <*> with negotiated timeout <*> for client <*>
+25,E22.0,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)"
+26,E11.0,<*> <*>
+27,E32.0,Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar
+28,E7.0,caught end of stream exception
+29,E1.0,Received connection request <*>
+30,E18.0,"Have smaller server identifier, so dropping the connection: (2, 1)"
+31,E25.0,Revalidating client: <*>
+32,E21.0,FOLLOWING - LEADER ELECTION TOOK - <*>
+33,E24.0,"Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT"
+34,E17.0,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+35,E3.0,Interrupted while waiting for message on queue
+36,E20.0,Server environment:host.name=mesos-master-1

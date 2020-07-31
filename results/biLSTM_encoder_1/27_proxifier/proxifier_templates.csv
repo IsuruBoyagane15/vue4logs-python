@@ -1,0 +1,1706 @@
+,EventId,EventTemplate
+0,E1068.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1,E284.0,"lh3.googleusercontent.com:443 close, 471 bytes sent, 4694 bytes (4.58 KB) received, lifetime 00:29"
+2,E345.0,"long.open.weixin.qq.com:443 close, 1985 bytes (1.93 KB) sent, 4832 bytes (4.71 KB) received, lifetime 00:02"
+3,E152.0,"proxy.cse.cuhk.edu.hk:5070 close, 1127 bytes (1.10 KB) sent, 4317 bytes (4.21 KB) received, lifetime 00:20"
+4,E294.0,"wn.pos.baidu.com:443 close, 330 bytes sent, 4169 bytes (4.07 KB) received, lifetime 00:22"
+5,E852.0,"proxy.cse.cuhk.edu.hk:5070 close, 1007 bytes sent, 355 bytes received, lifetime 00:08"
+6,E329.0,"play.google.com:443 close, 8399 bytes (8.20 KB) sent, 9521 bytes (9.29 KB) received, lifetime 09:01"
+7,E1033.0,xf-com-update-doctor.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+8,E1538.0,c.trello.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+9,E1541.0,clients4.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+10,E465.0,"proxy.cse.cuhk.edu.hk:5070 close, 2126 bytes (2.07 KB) sent, 816 bytes received, lifetime 00:08"
+11,E906.0,"proxy.cse.cuhk.edu.hk:5070 close, 493 bytes sent, 523 bytes received, lifetime <1 sec"
+12,E1230.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+13,E621.0,"proxy.cse.cuhk.edu.hk:5070 close, 1359 bytes (1.32 KB) sent, 378 bytes received, lifetime <1 sec"
+14,E259.0,"lh6.googleusercontent.com:443 close, 471 bytes sent, 4693 bytes (4.58 KB) received, lifetime 00:12"
+15,E1106.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+16,E36.0,"proxy.cse.cuhk.edu.hk:5070 close, 3684 bytes (3.59 KB) sent, 8009 bytes (7.82 KB) received, lifetime 02:02"
+17,E1515.0,s2.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+18,E234.0,"user-images.githubusercontent.com:443 close, 335 bytes sent, 4369 bytes (4.26 KB) received, lifetime 03:15"
+19,E562.0,"proxy.cse.cuhk.edu.hk:5070 close, 1080 bytes (1.05 KB) sent, 4111 bytes (4.01 KB) received, lifetime <1 sec"
+20,E545.0,"proxy.cse.cuhk.edu.hk:5070 close, 1034 bytes (1.00 KB) sent, 17383 bytes (16.9 KB) received, lifetime <1 sec"
+21,E517.0,"proxy.cse.cuhk.edu.hk:5070 close, 1536 bytes (1.50 KB) sent, 5325 bytes (5.20 KB) received, lifetime 00:01"
+22,E158.0,"proxy.cse.cuhk.edu.hk:5070 close, 6996 bytes (6.83 KB) sent, 2055 bytes (2.00 KB) received, lifetime 00:57"
+23,E4.0,"proxy.cse.cuhk.edu.hk:5070 close, 3637 bytes (3.55 KB) sent, 1432 bytes (1.39 KB) received, lifetime 00:01"
+24,E25.0,"proxy.cse.cuhk.edu.hk:5070 close, 4528 bytes (4.42 KB) sent, 648 bytes received, lifetime 01:03"
+25,E1372.0,clients4.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+26,E1101.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+27,E121.0,"127.0.0.1:135 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+28,E1049.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+29,E1628.0,cidian.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+30,E267.0,"intf.zsall.mobilem.360.cn:80 close, 314 bytes sent, 1035 bytes (1.01 KB) received, lifetime 00:30"
+31,E1041.0,r5---sn-i3b7kn7z.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+32,E103.0,"www.googleapis.com:443 close, 1736 bytes (1.69 KB) sent, 1052 bytes (1.02 KB) received, lifetime 04:00"
+33,E548.0,"proxy.cse.cuhk.edu.hk:5070 close, 1293 bytes (1.26 KB) sent, 2440 bytes (2.38 KB) received, lifetime <1 sec"
+34,E504.0,"proxy.cse.cuhk.edu.hk:5070 close, 877 bytes sent, 3806 bytes (3.71 KB) received, lifetime 00:01"
+35,E677.0,"proxy.cse.cuhk.edu.hk:5070 close, 534 bytes sent, 388 bytes received, lifetime 00:05"
+36,E700.0,"cidian.youdao.com:80 close, 923 bytes sent, 456 bytes received, lifetime 09:53"
+37,E1161.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+38,E1447.0,apis.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+39,E1050.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+40,E291.0,"r6---sn-i3b7knl6.googlevideo.com:443 close, 733 bytes sent, 151 bytes received, lifetime 00:15"
+41,E353.0,"f12.baidu.com:80 close, 1634 bytes (1.59 KB) sent, 15284 bytes (14.9 KB) received, lifetime 00:21"
+42,E340.0,"www.google.com.hk:443 close, 2411 bytes (2.35 KB) sent, 2093 bytes (2.04 KB) received, lifetime 04:01"
+43,E1220.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+44,E1179.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+45,E196.0,"long.open.weixin.qq.com:443 close, 1910 bytes (1.86 KB) sent, 276 bytes received, lifetime 00:27"
+46,E1675.0,at.mct01.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+47,E1059.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+48,E1199.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+49,E864.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+50,E68.0,"proxy.cse.cuhk.edu.hk:5070 close, 1368 bytes (1.33 KB) sent, 20811 bytes (20.3 KB) received, lifetime 01:00"
+51,E942.0,"cnzz.mmstat.com:80 close, 686 bytes sent, 579 bytes received, lifetime <1 sec"
+52,E1037.0,r3---sn-i3belnez.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+53,E1416.0,client-lb.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+54,E1386.0,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+55,E867.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+56,E1184.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+57,E404.0,"avatars3.githubusercontent.com:443 close, 2194 bytes (2.14 KB) sent, 11695 bytes (11.4 KB) received, lifetime 05:29"
+58,E1459.0,safebrowsing.googleapis.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+59,E377.0,"www.google.com.hk:443 close, 4710 bytes (4.59 KB) sent, 71939 bytes (70.2 KB) received, lifetime 03:10"
+60,E721.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:33"
+61,E513.0,"proxy.cse.cuhk.edu.hk:5070 close, 1318 bytes (1.28 KB) sent, 427 bytes received, lifetime 00:01"
+62,E1673.0,css.sohu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+63,E88.0,"www.evernote.com:443 close, 2486 bytes (2.42 KB) sent, 2336 bytes (2.28 KB) received, lifetime 04:00"
+64,E1363.0,clients5.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+65,E928.0,"tcpconn6.tencent.com:80 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+66,E563.0,"proxy.cse.cuhk.edu.hk:5070 close, 1077 bytes (1.05 KB) sent, 2610 bytes (2.54 KB) received, lifetime <1 sec"
+67,E556.0,"proxy.cse.cuhk.edu.hk:5070 close, 5248 bytes (5.12 KB) sent, 1114 bytes (1.08 KB) received, lifetime <1 sec"
+68,E740.0,"b1.bdstatic.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:14"
+69,E670.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:05"
+70,E1367.0,ss.bdimg.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+71,E1218.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+72,E785.0,"mtalk.google.com:443 close, 985 bytes sent, 463 bytes received, lifetime 14:59"
+73,E379.0,"13.client-channel.google.com:443 close, 14267 bytes (13.9 KB) sent, 36698 bytes (35.8 KB) received, lifetime 48:06"
+74,E591.0,"proxy.cse.cuhk.edu.hk:5070 close, 1293 bytes (1.26 KB) sent, 2247 bytes (2.19 KB) received, lifetime <1 sec"
+75,E346.0,"www.google.com:443 close, 2564 bytes (2.50 KB) sent, 2035 bytes (1.98 KB) received, lifetime 04:37"
+76,E293.0,"imgsrc.baidu.com:80 close, 867 bytes sent, 23546 bytes (22.9 KB) received, lifetime 00:10"
+77,E935.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+78,E274.0,"ssl.gstatic.com:443 close, 461 bytes sent, 4786 bytes (4.67 KB) received, lifetime 00:10"
+79,E1387.0,qbwup.imtt.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+80,E916.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+81,E825.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:20"
+82,E877.0,"proxy.cse.cuhk.edu.hk:5070 close, 1165 bytes (1.13 KB) sent, 815 bytes received, lifetime <1 sec"
+83,E1345.0,d3cv4a9a9wh0bt.cloudfront.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+84,E703.0,"xin.4399.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21"
+85,E1704.0,oimagec7.ydstatic.com:80 error : A connection request was canceled before the completion.
+86,E1080.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+87,E386.0,"css.sohu.com:80 close, 3549 bytes (3.46 KB) sent, 108371 bytes (105 KB) received, lifetime 00:21"
+88,E1074.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+89,E22.0,"proxy.cse.cuhk.edu.hk:5070 close, 2224 bytes (2.17 KB) sent, 659 bytes received, lifetime 00:03"
+90,E586.0,"proxy.cse.cuhk.edu.hk:5070 close, 1325 bytes (1.29 KB) sent, 514 bytes received, lifetime <1 sec"
+91,E1019.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+92,E636.0,"puui.qpic.cn:80 close, 379 bytes sent, 9409 bytes (9.18 KB) received, lifetime <1 sec"
+93,E491.0,"proxy.cse.cuhk.edu.hk:5070 close, 950 bytes sent, 3559 bytes (3.47 KB) received, lifetime 01:01"
+94,E1478.0,clients4.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+95,E1674.0,bx.optimix.asia:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+96,E510.0,"proxy.cse.cuhk.edu.hk:5070 close, 513 bytes sent, 22162 bytes (21.6 KB) received, lifetime 00:01"
+97,E342.0,"i9.baidu.com:80 close, 1671 bytes (1.63 KB) sent, 4659 bytes (4.54 KB) received, lifetime 00:26"
+98,E617.0,"proxy.cse.cuhk.edu.hk:5070 close, 1920 bytes (1.87 KB) sent, 338 bytes received, lifetime <1 sec"
+99,E1626.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+100,E1200.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+101,E1336.0,ogs.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+102,E93.0,"www.googleapis.com:443 close, 1792 bytes (1.75 KB) sent, 6591 bytes (6.43 KB) received, lifetime 04:00"
+103,E771.0,"gtms03.alicdn.com:80 close, 399 bytes sent, 498 bytes received, lifetime 02:06"
+104,E809.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:07"
+105,E170.0,"proxy.cse.cuhk.edu.hk:5070 close, 3029 bytes (2.95 KB) sent, 65994 bytes (64.4 KB) received, lifetime 00:27"
+106,E1016.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+107,E1294.0,cm.g.doubleclick.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+108,E1529.0,xueshu.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+109,E817.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:17"
+110,E116.0,"d3cv4a9a9wh0bt.cloudfront.net:443 close, 820 bytes sent, 5619 bytes (5.48 KB) received, lifetime 02:00"
+111,E1020.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+112,E119.0,"clients4.google.com:443 close, 4552 bytes (4.44 KB) sent, 1616 bytes (1.57 KB) received, lifetime 04:00"
+113,E26.0,"i.ytimg.com:443 close, 2836 bytes (2.76 KB) sent, 125622 bytes (122 KB) received, lifetime 06:33"
+114,E687.0,"info.pinyin.sogou.com:80 close, 1020 bytes sent, 607 bytes received, lifetime 00:30"
+115,E316.0,"clients6.google.com:443 close, 16089 bytes (15.7 KB) sent, 12420 bytes (12.1 KB) received, lifetime 20:10"
+116,E623.0,"proxy.cse.cuhk.edu.hk:5070 close, 259 bytes sent, 5197 bytes (5.07 KB) received, lifetime <1 sec"
+117,E1499.0,tpc.googlesyndication.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+118,E711.0,"info.pinyin.sogou.com:80 close, 1020 bytes sent, 607 bytes received, lifetime 00:30"
+119,E595.0,"proxy.cse.cuhk.edu.hk:5070 close, 458 bytes sent, 1781 bytes (1.73 KB) received, lifetime <1 sec"
+120,E907.0,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 353 bytes received, lifetime <1 sec"
+121,E1583.0,www.zhihu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+122,E804.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:03"
+123,E1465.0,www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+124,E1105.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+125,E1713.0,csdnimg.cn:80 error : A connection request was canceled before the completion.
+126,E497.0,"proxy.cse.cuhk.edu.hk:5070 close, 2842 bytes (2.77 KB) sent, 282 bytes received, lifetime 00:01"
+127,E450.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+128,E1052.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+129,E163.0,"proxy.cse.cuhk.edu.hk:5070 close, 2018 bytes (1.97 KB) sent, 1298 bytes (1.26 KB) received, lifetime 00:04"
+130,E132.0,"mtalk.google.com:5228 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+131,E282.0,"fonts.gstatic.com:443 close, 463 bytes sent, 4787 bytes (4.67 KB) received, lifetime 00:31"
+132,E114.0,"clients4.google.com:443 close, 2570 bytes (2.50 KB) sent, 626 bytes received, lifetime 04:00"
+133,E59.0,"proxy.cse.cuhk.edu.hk:5070 close, 6409 bytes (6.25 KB) sent, 2466 bytes (2.40 KB) received, lifetime 02:44"
+134,E89.0,"www.google-analytics.com:443 close, 1430 bytes (1.39 KB) sent, 4938 bytes (4.82 KB) received, lifetime 04:00"
+135,E772.0,"collector.githubapp.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:16"
+136,E1497.0,pic01.ishuhui.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+137,E1264.0,qbwup.imtt.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+138,E1652.0,puui.qpic.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+139,E356.0,"www.evernote.com:443 close, 7238 bytes (7.06 KB) sent, 12813 bytes (12.5 KB) received, lifetime 05:46"
+140,E1660.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+141,E368.0,"clients6.google.com:443 close, 3504 bytes (3.42 KB) sent, 7037 bytes (6.87 KB) received, lifetime 06:52"
+142,E79.0,"w.cnzz.com:80 close, 570 bytes sent, 11519 bytes (11.2 KB) received, lifetime 02:00"
+143,E1530.0,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+144,E360.0,"r16---sn-i3b7knez.googlevideo.com:443 close, 6014 bytes (5.87 KB) sent, 904350 bytes (883 KB) received, lifetime 00:30"
+145,E1606.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+146,E1501.0,hangouts.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+147,E414.0,"r2---sn-i3b7kne6.googlevideo.com:443 close, 17742 bytes (17.3 KB) sent, 11581393 bytes (11.0 MB) received, lifetime 01:08"
+148,E1603.0,gtms03.alicdn.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+149,E1083.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+150,E1701.0,oimageb5.ydstatic.com:80 error : A connection request was canceled before the completion.
+151,E1243.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+152,E1692.0,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.
+153,E320.0,"client-cf.dropbox.com:443 close, 5129 bytes (5.00 KB) sent, 17057 bytes (16.6 KB) received, lifetime 01:01"
+154,E583.0,101.226.211.46:8080 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+155,E768.0,"api.github.com:443 close, 0 bytes sent, 0 bytes received, lifetime 02:02"
+156,E1532.0,eclick.baidu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+157,E1338.0,ssl.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+158,E418.0,"client-cf.dropbox.com:443 close, 22083 bytes (21.5 KB) sent, 71944 bytes (70.2 KB) received, lifetime 01:28"
+159,E1571.0,collector.githubapp.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+160,E1304.0,timg.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+161,E566.0,86.99.222.235:443 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.
+162,E457.0,"proxy.cse.cuhk.edu.hk:5070 close, 1222 bytes (1.19 KB) sent, 604 bytes received, lifetime 00:38"
+163,E197.0,"long.open.weixin.qq.com:443 close, 1910 bytes (1.86 KB) sent, 276 bytes received, lifetime 00:28"
+164,E622.0,"proxy.cse.cuhk.edu.hk:5070 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime <1 sec"
+165,E1274.0,people-pa.clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+166,E1376.0,clients1.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+167,E248.0,"clients6.google.com:443 close, 2867 bytes (2.79 KB) sent, 1014 bytes received, lifetime 05:39"
+168,E446.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+169,E1661.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+170,E1098.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+171,E1189.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+172,E352.0,"www.baidu.com:80 close, 11662 bytes (11.3 KB) sent, 7986 bytes (7.79 KB) received, lifetime 00:02"
+173,E1569.0,avatars3.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+174,E919.0,"cgi.qqweb.qq.com:80 close, 477 bytes sent, 448 bytes received, lifetime <1 sec"
+175,E1335.0,ssl.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+176,E400.0,"www.google.com.hk:443 close, 24256 bytes (23.6 KB) sent, 434160 bytes (423 KB) received, lifetime 08:56"
+177,E1594.0,wx3.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+178,E838.0,"proxy.cse.cuhk.edu.hk:5070 close, 519 bytes sent, 313 bytes received, lifetime 00:01"
+179,E304.0,"clients4.google.com:443 close, 11736 bytes (11.4 KB) sent, 8496 bytes (8.29 KB) received, lifetime 08:46"
+180,E1170.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+181,E1627.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+182,E1614.0,tools.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+183,E1156.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+184,E1321.0,dup.baidustatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+185,E995.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+186,E1632.0,dict.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+187,E126.0,"local-p2p.qq.com:443 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 503"
+188,E1437.0,avatars3.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+189,E279.0,"puui.qpic.cn:80 close, 384 bytes sent, 8601 bytes (8.39 KB) received, lifetime 00:01"
+190,E1655.0,d.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+191,E1584.0,pic4.zhimg.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+192,E1250.0,182.254.114.110:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+193,E397.0,"capi.grammarly.com:443 close, 4974 bytes (4.85 KB) sent, 8661 bytes (8.45 KB) received, lifetime 02:13"
+194,E1554.0,sclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+195,E943.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+196,E638.0,"tc.dl.pinyin.sogoucdn.com:80 close, 158 bytes sent, 46624 bytes (45.5 KB) received, lifetime <1 sec"
+197,E1147.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+198,E122.0,"127.0.0.1:135 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+199,E401.0,"www.zhihu.com:443 close, 1685 bytes (1.64 KB) sent, 10151 bytes (9.91 KB) received, lifetime 05:03"
+200,E625.0,"proxy.cse.cuhk.edu.hk:5070 close, 1054 bytes (1.02 KB) sent, 366 bytes received, lifetime <1 sec"
+201,E246.0,"d.dropbox.com:443 close, 1021 bytes sent, 4906 bytes (4.79 KB) received, lifetime 01:01"
+202,E1234.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+203,E589.0,"proxy.cse.cuhk.edu.hk:5070 close, 508 bytes sent, 47293 bytes (46.1 KB) received, lifetime <1 sec"
+204,E1528.0,suggestion.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+205,E1038.0,r3---sn-i3b7kn7s.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+206,E433.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+207,E408.0,"static.blog.csdn.net:80 close, 2188 bytes (2.13 KB) sent, 41402 bytes (40.4 KB) received, lifetime 02:03"
+208,E718.0,"s1.bdstatic.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:13"
+209,E134.0,"qd-update.qq.com:8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+210,E1206.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+211,E256.0,"lh6.googleusercontent.com:443 close, 471 bytes sent, 4694 bytes (4.58 KB) received, lifetime 00:13"
+212,E1226.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+213,E915.0,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 353 bytes received, lifetime <1 sec"
+214,E61.0,"proxy.cse.cuhk.edu.hk:5070 close, 7685 bytes (7.50 KB) sent, 51839 bytes (50.6 KB) received, lifetime 09:54"
+215,E324.0,"video-hkg3-2.xx.fbcdn.net:443 close, 58373 bytes (57.0 KB) sent, 8896991 bytes (8.48 MB) received, lifetime 02:25"
+216,E264.0,"clients4.google.com:443 close, 3547 bytes (3.46 KB) sent, 918 bytes received, lifetime 06:12"
+217,E1082.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+218,E786.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:02"
+219,E1560.0,mail.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+220,E124.0,"mtalk.google.com:5228 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+221,E289.0,"p2.qhimg.com:80 close, 230 bytes sent, 1125 bytes (1.09 KB) received, lifetime 00:09"
+222,E1007.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+223,E422.0,"clients6.google.com:443 close, 6895 bytes (6.73 KB) sent, 3475 bytes (3.39 KB) received, lifetime 01:39"
+224,E1601.0,strip.alicdn.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+225,E141.0,"proxy.cse.cuhk.edu.hk:5070 close, 1396 bytes (1.36 KB) sent, 5669 bytes (5.53 KB) received, lifetime 00:05"
+226,E900.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+227,E719.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:38"
+228,E1411.0,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+229,E1481.0,clients4.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+230,E1029.0,video-hkg3-2.xx.fbcdn.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+231,E1640.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+232,E713.0,"i9.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:27"
+233,E107.0,"www.evernote.com:443 close, 2214 bytes (2.16 KB) sent, 5451 bytes (5.32 KB) received, lifetime 04:00"
+234,E335.0,"client-cf.dropbox.com:443 close, 5129 bytes (5.00 KB) sent, 17049 bytes (16.6 KB) received, lifetime 01:01"
+235,E205.0,"www.weibo.com:80 close, 11058 bytes (10.7 KB) sent, 451 bytes received, lifetime 00:07"
+236,E66.0,"proxy.cse.cuhk.edu.hk:5070 close, 2553 bytes (2.49 KB) sent, 2221 bytes (2.16 KB) received, lifetime 04:00"
+237,E156.0,"proxy.cse.cuhk.edu.hk:5070 close, 3254 bytes (3.17 KB) sent, 5295 bytes (5.17 KB) received, lifetime 00:04"
+238,E960.0,"client-lb.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+239,E416.0,"plus.google.com:443 close, 2130 bytes (2.08 KB) sent, 1035 bytes (1.01 KB) received, lifetime 05:41"
+240,E818.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:18"
+241,E355.0,"clients4.google.com:443 close, 20249 bytes (19.7 KB) sent, 20243 bytes (19.7 KB) received, lifetime 10:34"
+242,E1579.0,www.gmail.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+243,E1303.0,sclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+244,E1657.0,bolt.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+245,E405.0,"www.google.com:443 close, 4012 bytes (3.91 KB) sent, 6761 bytes (6.60 KB) received, lifetime 04:07"
+246,E1446.0,collector.githubapp.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+247,E729.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:35"
+248,E917.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+249,E1398.0,qbwup.imtt.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+250,E1639.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+251,E1690.0,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.
+252,E870.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+253,E651.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+254,E865.0,"proxy.cse.cuhk.edu.hk:5070 close, 941 bytes sent, 401 bytes received, lifetime 00:01"
+255,E983.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+256,E1697.0,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.
+257,E49.0,"proxy.cse.cuhk.edu.hk:5070 close, 1309 bytes (1.27 KB) sent, 34052 bytes (33.2 KB) received, lifetime 01:57"
+258,E1483.0,www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+259,E228.0,"15.client-channel.google.com:443 close, 474 bytes sent, 4464 bytes (4.35 KB) received, lifetime 00:11"
+260,E1516.0,notifications.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+261,E1469.0,mtalk.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+262,E1144.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+263,E925.0,"get.sogou.com:80 close, 651 bytes sent, 346 bytes received, lifetime <1 sec"
+264,E463.0,"proxy.cse.cuhk.edu.hk:5070 close, 715 bytes sent, 4417 bytes (4.31 KB) received, lifetime 00:10"
+265,E568.0,mtalk.google.com:5228 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+266,E1113.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+267,E1492.0,clientservices.googleapis.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+268,E251.0,"dj1.baidu.com:80 close, 1369 bytes (1.33 KB) sent, 289 bytes received, lifetime 00:30"
+269,E567.0,223.167.104.147:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+270,E55.0,"proxy.cse.cuhk.edu.hk:5070 close, 5510 bytes (5.38 KB) sent, 2436 bytes (2.37 KB) received, lifetime 02:03"
+271,E803.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:02"
+272,E1045.0,r8---sn-i3b7knez.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+273,E722.0,"c.trello.com:443 close, 568 bytes sent, 156 bytes received, lifetime 00:12"
+274,E217.0,"github.com:443 close, 2774 bytes (2.70 KB) sent, 27608 bytes (26.9 KB) received, lifetime 00:12"
+275,E84.0,"clients1.google.com:443 close, 939 bytes sent, 5532 bytes (5.40 KB) received, lifetime 04:00"
+276,E847.0,"proxy.cse.cuhk.edu.hk:5070 close, 705 bytes sent, 492 bytes received, lifetime 00:01"
+277,E373.0,"f-log-extension.grammarly.io:443 close, 1363 bytes (1.33 KB) sent, 3549 bytes (3.46 KB) received, lifetime 00:33"
+278,E986.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+279,E1561.0,mtalk.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+280,E555.0,"proxy.cse.cuhk.edu.hk:5070 close, 745 bytes sent, 4661 bytes (4.55 KB) received, lifetime <1 sec"
+281,E483.0,"proxy.cse.cuhk.edu.hk:5070 close, 1590 bytes (1.55 KB) sent, 472 bytes received, lifetime 00:01"
+282,E898.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+283,E1266.0,assets.changyan.sohu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+284,E388.0,"v.admaster.com.cn:80 close, 4121 bytes (4.02 KB) sent, 4104 bytes (4.00 KB) received, lifetime 00:02"
+285,E959.0,"p3p.sogou.com:80 close, 441 bytes sent, 139 bytes received, lifetime <1 sec"
+286,E1522.0,d3cv4a9a9wh0bt.cloudfront.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+287,E745.0,"sestat.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+288,E366.0,"www.evernote.com:443 close, 4733 bytes (4.62 KB) sent, 8179 bytes (7.98 KB) received, lifetime 04:12"
+289,E1636.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+290,E28.0,"proxy.cse.cuhk.edu.hk:5070 close, 1190 bytes (1.16 KB) sent, 1671 bytes (1.63 KB) received, lifetime 00:02"
+291,E650.0,"proxy.cse.cuhk.edu.hk:5070 close, 694 bytes sent, 892 bytes received, lifetime <1 sec"
+292,E175.0,"proxy.cse.cuhk.edu.hk:5070 close, 3094 bytes (3.02 KB) sent, 1014 bytes received, lifetime 00:05"
+293,E185.0,"suggestion.baidu.com:80 close, 1829 bytes (1.78 KB) sent, 1039 bytes (1.01 KB) received, lifetime 00:35"
+294,E805.0,"proxy.cse.cuhk.edu.hk:5070 close, 555 bytes sent, 400 bytes received, lifetime 00:04"
+295,E524.0,"proxy.cse.cuhk.edu.hk:5070 close, 1501 bytes (1.46 KB) sent, 601 bytes received, lifetime 00:01"
+296,E1121.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+297,E598.0,"proxy.cse.cuhk.edu.hk:5070 close, 1301 bytes (1.27 KB) sent, 434 bytes received, lifetime <1 sec"
+298,E87.0,"safebrowsing.googleapis.com:443 close, 1848 bytes (1.80 KB) sent, 3191 bytes (3.11 KB) received, lifetime 04:00"
+299,E781.0,"clients2.google.com:443 close, 733 bytes sent, 292 bytes received, lifetime 04:00"
+300,E1299.0,rssgov.windows.microsoft.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+301,E518.0,"proxy.cse.cuhk.edu.hk:5070 close, 1730 bytes (1.68 KB) sent, 4796 bytes (4.68 KB) received, lifetime 00:01"
+302,E984.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+303,E892.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+304,E1558.0,cpro.baidustatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+305,E541.0,"proxy.cse.cuhk.edu.hk:5070 close, 1327 bytes (1.29 KB) sent, 3250 bytes (3.17 KB) received, lifetime <1 sec"
+306,E684.0,"pv.mini.sohu.com:80 close, 816 bytes sent, 264 bytes received, lifetime 00:05"
+307,E1025.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+308,E235.0,"dslb.cdn.krcom.cn:80 close, 446 bytes sent, 195160 bytes (190 KB) received, lifetime 00:59"
+309,E680.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:05"
+310,E168.0,"proxy.cse.cuhk.edu.hk:5070 close, 2842 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:05"
+311,E1495.0,mail.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+312,E1081.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+313,E1334.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+314,E1691.0,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.
+315,E456.0,"proxy.cse.cuhk.edu.hk:5070 close, 2455 bytes (2.39 KB) sent, 727 bytes received, lifetime 00:43"
+316,E179.0,"proxy.cse.cuhk.edu.hk:5070 close, 3757 bytes (3.66 KB) sent, 1307 bytes (1.27 KB) received, lifetime 00:15"
+317,E1630.0,cidian.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+318,E349.0,"pixel.facebook.com:443 close, 1491 bytes (1.45 KB) sent, 5027 bytes (4.90 KB) received, lifetime 01:05"
+319,E207.0,"api.github.com:443 close, 797 bytes sent, 4670 bytes (4.56 KB) received, lifetime 00:11"
+320,E395.0,"client-cf.dropbox.com:443 close, 3934 bytes (3.84 KB) sent, 5647 bytes (5.51 KB) received, lifetime 01:03"
+321,E1417.0,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+322,E1196.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+323,E172.0,"proxy.cse.cuhk.edu.hk:5070 close, 2756 bytes (2.69 KB) sent, 39055 bytes (38.1 KB) received, lifetime 00:05"
+324,E1102.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+325,E572.0,c.baidu.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+326,E808.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:02"
+327,E875.0,"proxy.cse.cuhk.edu.hk:5070 close, 445 bytes sent, 5174 bytes (5.05 KB) received, lifetime <1 sec"
+328,E1693.0,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.
+329,E97.0,"www.google.com:443 close, 1747 bytes (1.70 KB) sent, 1218 bytes (1.18 KB) received, lifetime 04:00"
+330,E1173.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+331,E1048.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+332,E1071.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+333,E1471.0,www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+334,E1576.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+335,E171.0,"proxy.cse.cuhk.edu.hk:5070 close, 1376 bytes (1.34 KB) sent, 13653 bytes (13.3 KB) received, lifetime 00:05"
+336,E577.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+337,E319.0,"client-cf.dropbox.com:443 close, 1573 bytes (1.53 KB) sent, 16743 bytes (16.3 KB) received, lifetime 01:01"
+338,E449.0,16.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+339,E1163.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+340,E1040.0,r18---sn-vgqsenes.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+341,E1079.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+342,E1057.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+343,E811.0,"proxy.cse.cuhk.edu.hk:5070 close, 787 bytes sent, 348 bytes received, lifetime 00:03"
+344,E341.0,"3.client-channel.google.com:443 close, 27694 bytes (27.0 KB) sent, 165991 bytes (162 KB) received, lifetime 01:07:37"
+345,E1062.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+346,E607.0,"proxy.cse.cuhk.edu.hk:5070 close, 101 bytes sent, 3449 bytes (3.36 KB) received, lifetime <1 sec"
+347,E21.0,"proxy.cse.cuhk.edu.hk:5070 close, 1624 bytes (1.58 KB) sent, 375 bytes received, lifetime 00:03"
+348,E839.0,"proxy.cse.cuhk.edu.hk:5070 close, 811 bytes sent, 186 bytes received, lifetime 00:01"
+349,E836.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+350,E888.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+351,E762.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:37"
+352,E1287.0,assets-cdn.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+353,E448.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+354,E82.0,"play.google.com:443 close, 33864 bytes (33.0 KB) sent, 22082 bytes (21.5 KB) received, lifetime 19:00"
+355,E1656.0,d.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+356,E424.0,"play.google.com:443 close, 3874 bytes (3.78 KB) sent, 2186 bytes (2.13 KB) received, lifetime 08:13"
+357,E467.0,"proxy.cse.cuhk.edu.hk:5070 close, 2842 bytes (2.77 KB) sent, 282 bytes received, lifetime 00:02"
+358,E199.0,"notifications.google.com:443 close, 470 bytes sent, 4794 bytes (4.68 KB) received, lifetime 00:10"
+359,E982.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+360,E1572.0,clients1.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+361,E1707.0,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.
+362,E1063.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+363,E958.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+364,E351.0,"clients4.google.com:443 close, 8395 bytes (8.19 KB) sent, 4455 bytes (4.35 KB) received, lifetime 05:31"
+365,E675.0,"24.135.95.248:443 close, 131 bytes sent, 153 bytes received, lifetime 00:12"
+366,E1689.0,oimagec7.ydstatic.com:80 error : A connection request was canceled before the completion.
+367,E1540.0,ssl.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+368,E218.0,"api.github.com:443 close, 781 bytes sent, 6147 bytes (6.00 KB) received, lifetime 00:11"
+369,E242.0,"play.google.com:443 close, 2130 bytes (2.08 KB) sent, 1009 bytes received, lifetime 03:24"
+370,E1327.0,a.img4399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+371,E1546.0,suggestion.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+372,E712.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:32"
+373,E976.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+374,E325.0,"ssl.google-analytics.com:443 close, 974 bytes sent, 4680 bytes (4.57 KB) received, lifetime 04:02"
+375,E1646.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+376,E1353.0,sestat.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+377,E1514.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+378,E653.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+379,E130.0,"mtalk.google.com:5228 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+380,E117.0,"www.googleapis.com:443 close, 1046 bytes (1.02 KB) sent, 5463 bytes (5.33 KB) received, lifetime 04:00"
+381,E54.0,"proxy.cse.cuhk.edu.hk:5070 close, 1477 bytes (1.44 KB) sent, 1431 bytes (1.39 KB) received, lifetime 02:01"
+382,E908.0,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 353 bytes received, lifetime <1 sec"
+383,E893.0,"proxy.cse.cuhk.edu.hk:5070 close, 697 bytes sent, 324 bytes received, lifetime <1 sec"
+384,E1621.0,trello.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+385,E573.0,s1.bdstatic.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+386,E1375.0,img.3367.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+387,E374.0,"hangouts.google.com:443 close, 13281 bytes (12.9 KB) sent, 19539 bytes (19.0 KB) received, lifetime 04:17"
+388,E154.0,"proxy.cse.cuhk.edu.hk:5070 close, 4186 bytes (4.08 KB) sent, 2888 bytes (2.82 KB) received, lifetime 00:06"
+389,E382.0,"clients6.google.com:443 close, 5304 bytes (5.17 KB) sent, 4396 bytes (4.29 KB) received, lifetime 09:38"
+390,E1649.0,dict.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+391,E731.0,"avatars0.githubusercontent.com:443 close, 568 bytes sent, 160 bytes received, lifetime 00:39"
+392,E303.0,"client-cf.dropbox.com:443 close, 4478 bytes (4.37 KB) sent, 16913 bytes (16.5 KB) received, lifetime 01:01"
+393,E1095.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+394,E1500.0,clients5.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+395,E415.0,"pagead2.googlesyndication.com:443 close, 8439 bytes (8.24 KB) sent, 41643 bytes (40.6 KB) received, lifetime 07:44"
+396,E751.0,"js.passport.qihucdn.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21"
+397,E102.0,"tc.dl.pinyin.sogoucdn.com:80 close, 1537 bytes (1.50 KB) sent, 7856 bytes (7.67 KB) received, lifetime 01:00"
+398,E1464.0,mtalk.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+399,E1015.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+400,E1708.0,oimageb8.ydstatic.com:80 error : A connection request was canceled before the completion.
+401,E390.0,"r2---sn-i3b7kn7r.googlevideo.com:443 close, 2883 bytes (2.81 KB) sent, 90785 bytes (88.6 KB) received, lifetime 00:30"
+402,E557.0,"proxy.cse.cuhk.edu.hk:5070 close, 1986 bytes (1.93 KB) sent, 1180 bytes (1.15 KB) received, lifetime <1 sec"
+403,E1341.0,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+404,E40.0,"proxy.cse.cuhk.edu.hk:5070 close, 18242 bytes (17.8 KB) sent, 10525 bytes (10.2 KB) received, lifetime 02:58"
+405,E522.0,"proxy.cse.cuhk.edu.hk:5070 close, 1584 bytes (1.54 KB) sent, 256548 bytes (250 KB) received, lifetime 00:01"
+406,E851.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:14"
+407,E966.0,"client-cf.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+408,E169.0,"proxy.cse.cuhk.edu.hk:5070 close, 4126 bytes (4.02 KB) sent, 43096 bytes (42.0 KB) received, lifetime 00:11"
+409,E1642.0,bolt.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+410,E501.0,"proxy.cse.cuhk.edu.hk:5070 close, 416 bytes sent, 10670 bytes (10.4 KB) received, lifetime 00:01"
+411,E1358.0,dj1.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+412,E58.0,"proxy.cse.cuhk.edu.hk:5070 close, 4498 bytes (4.39 KB) sent, 654 bytes received, lifetime 02:17"
+413,E508.0,"proxy.cse.cuhk.edu.hk:5070 close, 3115 bytes (3.04 KB) sent, 1252 bytes (1.22 KB) received, lifetime 00:01"
+414,E957.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+415,E1631.0,dict.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+416,E1318.0,ecmb.bdimg.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+417,E882.0,"proxy.cse.cuhk.edu.hk:5070 close, 1118 bytes (1.09 KB) sent, 340 bytes received, lifetime <1 sec"
+418,E436.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+419,E1662.0,p3p.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+420,E105.0,"www.googletagservices.com:443 close, 983 bytes sent, 4752 bytes (4.64 KB) received, lifetime 04:00"
+421,E106.0,"people-pa.clients6.google.com:443 close, 1836 bytes (1.79 KB) sent, 4868 bytes (4.75 KB) received, lifetime 03:00"
+422,E3.0,"proxy.cse.cuhk.edu.hk:5070 close, 1285 bytes (1.25 KB) sent, 1490 bytes (1.45 KB) received, lifetime 00:01"
+423,E632.0,"apis.google.com:443 close, 461 bytes sent, 4217 bytes (4.11 KB) received, lifetime <1 sec"
+424,E310.0,"www.google-analytics.com:443 close, 1770 bytes (1.72 KB) sent, 5146 bytes (5.02 KB) received, lifetime 04:02"
+425,E1444.0,live.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+426,E364.0,"p.inte.sogou.com:80 close, 5061 bytes (4.94 KB) sent, 1248 bytes (1.21 KB) received, lifetime 00:15"
+427,E200.0,"www.gmail.com:443 close, 459 bytes sent, 4187 bytes (4.08 KB) received, lifetime 00:17"
+428,E665.0,"proxy.cse.cuhk.edu.hk:5070 close, 964 bytes sent, 848 bytes received, lifetime <1 sec"
+429,E220.0,"api.github.com:443 close, 845 bytes sent, 4814 bytes (4.70 KB) received, lifetime 00:11"
+430,E273.0,"lh6.googleusercontent.com:443 close, 471 bytes sent, 4693 bytes (4.58 KB) received, lifetime 00:10"
+431,E643.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+432,E1278.0,www.google-analytics.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+433,E203.0,"zhihu-web-analytics.zhihu.com:443 close, 343 bytes sent, 3122 bytes (3.04 KB) received, lifetime 00:11"
+434,E233.0,"pubads.g.doubleclick.net:443 close, 476 bytes sent, 4417 bytes (4.31 KB) received, lifetime 00:14"
+435,E717.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:32"
+436,E1371.0,sestat.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+437,E1235.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+438,E204.0,"fonts.gstatic.com:443 close, 463 bytes sent, 4786 bytes (4.67 KB) received, lifetime 00:23"
+439,E1136.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+440,E480.0,"odr.mookie1.com:443 close, 361 bytes sent, 4839 bytes (4.72 KB) received, lifetime 00:11"
+441,E1533.0,xueshu.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+442,E540.0,"proxy.cse.cuhk.edu.hk:5070 close, 1268 bytes (1.23 KB) sent, 6274 bytes (6.12 KB) received, lifetime <1 sec"
+443,E110.0,"client-cf.dropbox.com:443 close, 913 bytes sent, 3881 bytes (3.79 KB) received, lifetime 01:00"
+444,E393.0,"www.youtube.com:443 close, 30789 bytes (30.0 KB) sent, 164940 bytes (161 KB) received, lifetime 07:44"
+445,E1023.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+446,E1433.0,mhfm7.us.cdndm5.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+447,E1608.0,live.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+448,E80.0,"notifications.google.com:443 close, 470 bytes sent, 4856 bytes (4.74 KB) received, lifetime 04:00"
+449,E15.0,"proxy.cse.cuhk.edu.hk:5070 close, 2928 bytes (2.85 KB) sent, 567520 bytes (554 KB) received, lifetime 01:55"
+450,E1706.0,oimageb8.ydstatic.com:80 error : A connection request was canceled before the completion.
+451,E681.0,"m.news.4399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19"
+452,E695.0,"g.msn.com:80 close, 170 bytes sent, 370 bytes received, lifetime 00:01"
+453,E1527.0,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+454,E9.0,"proxy.cse.cuhk.edu.hk:5070 close, 1990 bytes (1.94 KB) sent, 23862 bytes (23.3 KB) received, lifetime 00:03"
+455,E1232.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+456,E1380.0,yt3.ggpht.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+457,E198.0,"lh4.googleusercontent.com:443 close, 471 bytes sent, 4692 bytes (4.58 KB) received, lifetime 00:11"
+458,E1237.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+459,E1017.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+460,E1103.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+461,E1602.0,strip.alicdn.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+462,E413.0,"qa.sockets.stackexchange.com:443 close, 1603 bytes (1.56 KB) sent, 527 bytes received, lifetime 22:32"
+463,E261.0,"strip.alicdn.com:443 close, 330 bytes sent, 3332 bytes (3.25 KB) received, lifetime 00:30"
+464,E1205.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+465,E1587.0,notifications.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+466,E215.0,"drive-thirdparty.googleusercontent.com:443 close, 484 bytes sent, 4707 bytes (4.59 KB) received, lifetime 00:17"
+467,E672.0,"91.190.218.40:443 close, 497 bytes sent, 302 bytes received, lifetime 00:12"
+468,E429.0,www.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+469,E862.0,"proxy.cse.cuhk.edu.hk:5070 close, 722 bytes sent, 310 bytes received, lifetime 00:01"
+470,E1300.0,www.google.com.hk:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+471,E1279.0,user-images.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+472,E1479.0,d.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+473,E487.0,"proxy.cse.cuhk.edu.hk:5070 close, 494 bytes sent, 2218 bytes (2.16 KB) received, lifetime 00:01"
+474,E1374.0,www.3367.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+475,E1714.0,hm.baidu.com:443 error : A connection request was canceled before the completion.
+476,E266.0,"clients4.google.com:443 close, 3548 bytes (3.46 KB) sent, 919 bytes received, lifetime 06:56"
+477,E1247.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+478,E1490.0,pki.google.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+479,E146.0,"proxy.cse.cuhk.edu.hk:5070 close, 2017 bytes (1.96 KB) sent, 52284 bytes (51.0 KB) received, lifetime 00:02"
+480,E394.0,"www.qulishi.com:80 close, 1581 bytes (1.54 KB) sent, 79427 bytes (77.5 KB) received, lifetime 02:01"
+481,E581.0,get.sogou.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+482,E973.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+483,E86.0,"www.evernote.com:443 close, 2487 bytes (2.42 KB) sent, 2361 bytes (2.30 KB) received, lifetime 04:00"
+484,E1340.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+485,E442.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+486,E1523.0,www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+487,E376.0,"www.google.com:443 close, 13303 bytes (12.9 KB) sent, 2325 bytes (2.27 KB) received, lifetime 04:53"
+488,E709.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:33"
+489,E427.0,13.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+490,E23.0,"proxy.cse.cuhk.edu.hk:5070 close, 1008 bytes sent, 21970 bytes (21.4 KB) received, lifetime 00:03"
+491,E1135.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+492,E547.0,"proxy.cse.cuhk.edu.hk:5070 close, 1293 bytes (1.26 KB) sent, 2460 bytes (2.40 KB) received, lifetime <1 sec"
+493,E692.0,"avatar.csdn.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30"
+494,E438.0,www.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+495,E225.0,"suggestion.baidu.com:80 close, 3808 bytes (3.71 KB) sent, 2035 bytes (1.98 KB) received, lifetime 00:35"
+496,E339.0,"www.google.com:443 close, 9034 bytes (8.82 KB) sent, 3696 bytes (3.60 KB) received, lifetime 07:26"
+497,E311.0,"apis.google.com:443 close, 2498 bytes (2.43 KB) sent, 5835 bytes (5.69 KB) received, lifetime 04:02"
+498,E1534.0,fclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+499,E1194.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+500,E118.0,"www.gstatic.com:443 close, 1239 bytes (1.20 KB) sent, 20185 bytes (19.7 KB) received, lifetime 04:00"
+501,E222.0,"secure.quantserve.com:443 close, 643 bytes sent, 3323 bytes (3.24 KB) received, lifetime 00:11"
+502,E1625.0,block.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+503,E1605.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+504,E148.0,"proxy.cse.cuhk.edu.hk:5070 close, 715 bytes sent, 4417 bytes (4.31 KB) received, lifetime 00:05"
+505,E646.0,"proxy.cse.cuhk.edu.hk:5070 close, 939 bytes sent, 398 bytes received, lifetime <1 sec"
+506,E191.0,"ocsp.digicert.com:80 close, 942 bytes sent, 3184 bytes (3.10 KB) received, lifetime 00:07"
+507,E1377.0,s.360.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+508,E6.0,"proxy.cse.cuhk.edu.hk:5070 close, 3585 bytes (3.50 KB) sent, 56498 bytes (55.1 KB) received, lifetime 01:57"
+509,E1325.0,video.5054399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+510,E1568.0,lh4.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+511,E1462.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+512,E1295.0,tc.dl.pinyin.sogoucdn.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+513,E602.0,"proxy.cse.cuhk.edu.hk:5070 close, 1180 bytes (1.15 KB) sent, 337 bytes received, lifetime <1 sec"
+514,E1193.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+515,E221.0,"api.github.com:443 close, 781 bytes sent, 6728 bytes (6.57 KB) received, lifetime 00:11"
+516,E1171.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+517,E1204.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+518,E1285.0,rm.api.weibo.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+519,E115.0,"client-cf.dropbox.com:443 close, 1573 bytes (1.53 KB) sent, 16743 bytes (16.3 KB) received, lifetime 01:00"
+520,E1351.0,clients2.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+521,E1487.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+522,E1463.0,s.youtube.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+523,E75.0,"www.googletagservices.com:443 close, 1257 bytes (1.22 KB) sent, 540 bytes received, lifetime 04:00"
+524,E657.0,"proxy.cse.cuhk.edu.hk:5070 close, 725 bytes sent, 310 bytes received, lifetime <1 sec"
+525,E1712.0,hm.baidu.com:443 error : A connection request was canceled before the completion.
+526,E206.0,"www.weibo.com:80 close, 2741 bytes (2.67 KB) sent, 4016 bytes (3.92 KB) received, lifetime 00:08"
+527,E1485.0,play.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+528,E887.0,"proxy.cse.cuhk.edu.hk:5070 close, 431 bytes sent, 9780 bytes (9.55 KB) received, lifetime <1 sec"
+529,E868.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+530,E153.0,"proxy.cse.cuhk.edu.hk:5070 close, 1481 bytes (1.44 KB) sent, 1804 bytes (1.76 KB) received, lifetime 00:32"
+531,E604.0,"proxy.cse.cuhk.edu.hk:5070 close, 1325 bytes (1.29 KB) sent, 511 bytes received, lifetime <1 sec"
+532,E1343.0,sestat.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+533,E849.0,"proxy.cse.cuhk.edu.hk:5070 close, 576 bytes sent, 649 bytes received, lifetime 00:01"
+534,E1084.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+535,E873.0,"proxy.cse.cuhk.edu.hk:5070 close, 403 bytes sent, 426 bytes received, lifetime <1 sec"
+536,E844.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+537,E1450.0,collector.githubapp.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+538,E1181.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+539,E452.0,"proxy.cse.cuhk.edu.hk:5070 close, 7829 bytes (7.64 KB) sent, 578548 bytes (564 KB) received, lifetime 00:18"
+540,E453.0,"proxy.cse.cuhk.edu.hk:5070 close, 3425 bytes (3.34 KB) sent, 212164 bytes (207 KB) received, lifetime 00:18"
+541,E1680.0,tcpconn3.tencent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+542,E285.0,"www.zhihu.com:443 close, 327 bytes sent, 3699 bytes (3.61 KB) received, lifetime 00:18"
+543,E1686.0,oimagea5.ydstatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+544,E123.0,"203.205.129.102:8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+545,E344.0,"i7.baidu.com:80 close, 2813 bytes (2.74 KB) sent, 23975 bytes (23.4 KB) received, lifetime 00:26"
+546,E714.0,"cbjs.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19"
+547,E1069.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+548,E223.0,"mtalk.google.com:443 close, 696 bytes sent, 5005 bytes (4.88 KB) received, lifetime 00:07"
+549,E1410.0,info.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+550,E16.0,"proxy.cse.cuhk.edu.hk:5070 close, 1028 bytes (1.00 KB) sent, 4559 bytes (4.45 KB) received, lifetime 00:08"
+551,E378.0,"play.google.com:443 close, 6339 bytes (6.19 KB) sent, 3969 bytes (3.87 KB) received, lifetime 04:22"
+552,E1401.0,input.shouji.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+553,E816.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:20"
+554,E1612.0,clients5.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+555,E769.0,"notifications.google.com:443 close, 733 bytes sent, 229 bytes received, lifetime 00:13"
+556,E432.0,16.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+557,E184.0,"i9.baidu.com:80 close, 1915 bytes (1.87 KB) sent, 12764 bytes (12.4 KB) received, lifetime 00:21"
+558,E56.0,"proxy.cse.cuhk.edu.hk:5070 close, 1576 bytes (1.53 KB) sent, 702 bytes received, lifetime 02:19"
+559,E1221.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+560,E988.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+561,E1290.0,user-images.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+562,E371.0,"f12.baidu.com:80 close, 3281 bytes (3.20 KB) sent, 102173 bytes (99.7 KB) received, lifetime 00:22"
+563,E853.0,"proxy.cse.cuhk.edu.hk:5070 close, 634 bytes sent, 538 bytes received, lifetime 00:01"
+564,E755.0,"dblp.uni-trier.de:80 close, 0 bytes sent, 0 bytes received, lifetime 00:15"
+565,E1259.0,www.google.com.hk:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+566,E950.0,"security.ie.sogou.com:80 close, 691 bytes sent, 184 bytes received, lifetime <1 sec"
+567,E485.0,"proxy.cse.cuhk.edu.hk:5070 close, 1006 bytes sent, 6198 bytes (6.05 KB) received, lifetime 00:01"
+568,E1493.0,clients4.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+569,E464.0,"proxy.cse.cuhk.edu.hk:5070 close, 1354 bytes (1.32 KB) sent, 902 bytes received, lifetime 00:15"
+570,E302.0,"cm.g.doubleclick.net:443 close, 2197 bytes (2.14 KB) sent, 1527 bytes (1.49 KB) received, lifetime 06:13"
+571,E767.0,"mtalk.google.com:443 close, 985 bytes sent, 447 bytes received, lifetime 14:59"
+572,E1618.0,trello.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+573,E1647.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+574,E732.0,"go.microsoft.com:80 close, 717 bytes sent, 357 bytes received, lifetime 00:01"
+575,E57.0,"proxy.cse.cuhk.edu.hk:5070 close, 1578 bytes (1.54 KB) sent, 702 bytes received, lifetime 02:19"
+576,E1339.0,lh3.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+577,E910.0,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 353 bytes received, lifetime <1 sec"
+578,E295.0,"cpro.baidustatic.com:443 close, 334 bytes sent, 3713 bytes (3.62 KB) received, lifetime 00:22"
+579,E1162.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+580,E881.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+581,E707.0,"z13.cnzz.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19"
+582,E232.0,"www.baidu.com:80 close, 2590 bytes (2.52 KB) sent, 621 bytes received, lifetime 01:06"
+583,E753.0,"news.sina.com.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21"
+584,E1132.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+585,E277.0,"d.agkn.com:443 close, 324 bytes sent, 2764 bytes (2.69 KB) received, lifetime 00:12"
+586,E1088.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+587,E343.0,"www.baidu.com:80 close, 9987 bytes (9.75 KB) sent, 148343 bytes (144 KB) received, lifetime 00:03"
+588,E669.0,"fs-conn-doctor.qq.com:443 close, 184 bytes sent, 134 bytes received, lifetime <1 sec"
+589,E858.0,"proxy.cse.cuhk.edu.hk:5070 close, 726 bytes sent, 310 bytes received, lifetime 00:01"
+590,E1027.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+591,E258.0,"api.github.com:443 close, 328 bytes sent, 3642 bytes (3.55 KB) received, lifetime 00:16"
+592,E336.0,"r6---sn-p5qs7n7s.googlevideo.com:443 close, 1175 bytes (1.14 KB) sent, 11041 bytes (10.7 KB) received, lifetime 00:01"
+593,E1477.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+594,E655.0,"proxy.cse.cuhk.edu.hk:5070 close, 941 bytes sent, 398 bytes received, lifetime <1 sec"
+595,E176.0,"proxy.cse.cuhk.edu.hk:5070 close, 2813 bytes (2.74 KB) sent, 1241 bytes (1.21 KB) received, lifetime 00:05"
+596,E944.0,"short.weixin.qq.com:80 close, 425 bytes sent, 161 bytes received, lifetime <1 sec"
+597,E1666.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+598,E1087.0,f-log-extension.grammarly.io:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+599,E1507.0,clients2.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+600,E361.0,"yt3.ggpht.com:443 close, 7886 bytes (7.70 KB) sent, 69275 bytes (67.6 KB) received, lifetime 07:05"
+601,E252.0,"t12.baidu.com:80 close, 837 bytes sent, 4059 bytes (3.96 KB) received, lifetime 00:27"
+602,E389.0,"r1---sn-i3belnez.googlevideo.com:443 close, 10046 bytes (9.81 KB) sent, 5657896 bytes (5.39 MB) received, lifetime 00:54"
+603,E419.0,"play.google.com:443 close, 40925 bytes (39.9 KB) sent, 33398 bytes (32.6 KB) received, lifetime 30:55"
+604,E1427.0,ping.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+605,E1711.0,hm.baidu.com:80 error : A connection request was canceled before the completion.
+606,E1356.0,sclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+607,E484.0,"proxy.cse.cuhk.edu.hk:5070 close, 397 bytes sent, 3558 bytes (3.47 KB) received, lifetime 00:01"
+608,E1396.0,203.205.151.204:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+609,E1389.0,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+610,E1034.0,r2---sn-i3b7kne6.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+611,E1511.0,play.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+612,E770.0,"csi.gstatic.com:443 close, 733 bytes sent, 229 bytes received, lifetime 00:13"
+613,E1076.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+614,E186.0,"eclick.baidu.com:80 close, 1037 bytes (1.01 KB) sent, 311 bytes received, lifetime 00:05"
+615,E64.0,"proxy.cse.cuhk.edu.hk:5070 close, 469 bytes sent, 1617 bytes (1.57 KB) received, lifetime 02:00"
+616,E1129.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+617,E1480.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+618,E1192.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+619,E1270.0,long.open.weixin.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+620,E1140.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+621,E526.0,"proxy.cse.cuhk.edu.hk:5070 close, 1173 bytes (1.14 KB) sent, 375 bytes received, lifetime 00:01"
+622,E1665.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+623,E245.0,"clients5.google.com:443 close, 465 bytes sent, 4790 bytes (4.67 KB) received, lifetime 01:08"
+624,E71.0,"proxy.cse.cuhk.edu.hk:5070 close, 1400 bytes (1.36 KB) sent, 3900 bytes (3.80 KB) received, lifetime 02:00"
+625,E674.0,"91.190.216.125:443 close, 5 bytes sent, 0 bytes received, lifetime 00:04"
+626,E137.0,"proxy.cse.cuhk.edu.hk:5070 close, 1578 bytes (1.54 KB) sent, 392726 bytes (383 KB) received, lifetime 00:31"
+627,E45.0,"proxy.cse.cuhk.edu.hk:5070 close, 2697 bytes (2.63 KB) sent, 14638 bytes (14.2 KB) received, lifetime 02:09"
+628,E637.0,"tc.dl.pinyin.sogoucdn.com:80 close, 158 bytes sent, 33899 bytes (33.1 KB) received, lifetime <1 sec"
+629,E1288.0,www.google.com.hk:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+630,E412.0,"ogs.google.com:443 close, 2476 bytes (2.41 KB) sent, 2643 bytes (2.58 KB) received, lifetime 04:28"
+631,E652.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+632,E1663.0,block.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+633,E654.0,"proxy.cse.cuhk.edu.hk:5070 close, 722 bytes sent, 310 bytes received, lifetime <1 sec"
+634,E793.0,"proxy.cse.cuhk.edu.hk:5070 close, 415 bytes sent, 599 bytes received, lifetime 00:04"
+635,E634.0,"puui.qpic.cn:80 close, 379 bytes sent, 7852 bytes (7.66 KB) received, lifetime <1 sec"
+636,E1342.0,www.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+637,E94.0,"safebrowsing.googleapis.com:443 close, 1848 bytes (1.80 KB) sent, 2419 bytes (2.36 KB) received, lifetime 04:00"
+638,E533.0,"proxy.cse.cuhk.edu.hk:5070 close, 1225 bytes (1.19 KB) sent, 1093 bytes (1.06 KB) received, lifetime 00:01"
+639,E1239.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+640,E183.0,"pos.baidu.com:80 close, 3783 bytes (3.69 KB) sent, 38448 bytes (37.5 KB) received, lifetime 00:11"
+641,E8.0,"proxy.cse.cuhk.edu.hk:5070 close, 2717 bytes (2.65 KB) sent, 1911 bytes (1.86 KB) received, lifetime 04:50"
+642,E1513.0,www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+643,E1521.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+644,E1349.0,xin.4399.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+645,E1678.0,183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:5070 SOCKS5
+646,E1211.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+647,E496.0,"proxy.cse.cuhk.edu.hk:5070 close, 2177 bytes (2.12 KB) sent, 279 bytes received, lifetime 00:01"
+648,E1127.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+649,E384.0,"pv.mini.sohu.com:80 close, 1941 bytes (1.89 KB) sent, 1363 bytes (1.33 KB) received, lifetime 00:05"
+650,E1289.0,f-log-extension.grammarly.io:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+651,E936.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+652,E1131.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+653,E1575.0,www.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+654,E822.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:15"
+655,E848.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+656,E1506.0,mtalk.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+657,E226.0,"pubads.g.doubleclick.net:443 close, 476 bytes sent, 4417 bytes (4.31 KB) received, lifetime 00:23"
+658,E798.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:02"
+659,E1699.0,oimagea3.ydstatic.com:80 error : A connection request was canceled before the completion.
+660,E948.0,"short.weixin.qq.com:80 close, 425 bytes sent, 161 bytes received, lifetime <1 sec"
+661,E1141.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+662,E1570.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+663,E620.0,"proxy.cse.cuhk.edu.hk:5070 close, 2587 bytes (2.52 KB) sent, 317 bytes received, lifetime <1 sec"
+664,E505.0,"proxy.cse.cuhk.edu.hk:5070 close, 1277 bytes (1.24 KB) sent, 15408 bytes (15.0 KB) received, lifetime 00:01"
+665,E278.0,"puui.qpic.cn:80 close, 379 bytes sent, 6983 bytes (6.81 KB) received, lifetime 00:01"
+666,E912.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+667,E1028.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+668,E1651.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+669,E69.0,"proxy.cse.cuhk.edu.hk:5070 close, 952 bytes sent, 13595 bytes (13.2 KB) received, lifetime 03:00"
+670,E270.0,"www.gstatic.com:443 close, 461 bytes sent, 4784 bytes (4.67 KB) received, lifetime 00:12"
+671,E1246.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+672,E272.0,"trello.com:443 close, 2168 bytes (2.11 KB) sent, 605 bytes received, lifetime 00:34"
+673,E1030.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+674,E814.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:15"
+675,E550.0,"proxy.cse.cuhk.edu.hk:5070 close, 1292 bytes (1.26 KB) sent, 2457 bytes (2.39 KB) received, lifetime <1 sec"
+676,E469.0,"proxy.cse.cuhk.edu.hk:5070 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:02"
+677,E1512.0,clients4.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+678,E860.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+679,E237.0,"dict.youdao.com:80 close, 447 bytes sent, 2122 bytes (2.07 KB) received, lifetime 10:01"
+680,E437.0,16.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+681,E884.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+682,E937.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+683,E1169.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+684,E536.0,"r6---sn-i3b7kn7d.googlevideo.com:443 close, 12789 bytes (12.4 KB) sent, 13833013 bytes (13.1 MB) received, lifetime 01:01"
+685,E189.0,"get.sogou.com:80 close, 759 bytes sent, 51462 bytes (50.2 KB) received, lifetime 00:05"
+686,E530.0,"proxy.cse.cuhk.edu.hk:5070 close, 1107 bytes (1.08 KB) sent, 406 bytes received, lifetime 00:01"
+687,E0.0,"proxy.cse.cuhk.edu.hk:5070 close, 1165 bytes (1.13 KB) sent, 3098 bytes (3.02 KB) received, lifetime 00:01"
+688,E145.0,"proxy.cse.cuhk.edu.hk:5070 close, 4567 bytes (4.45 KB) sent, 1432 bytes (1.39 KB) received, lifetime 00:29"
+689,E1563.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+690,E136.0,"proxy.cse.cuhk.edu.hk:5070 close, 1769 bytes (1.72 KB) sent, 61234 bytes (59.7 KB) received, lifetime 00:02"
+691,E863.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+692,E503.0,"proxy.cse.cuhk.edu.hk:5070 close, 1987 bytes (1.94 KB) sent, 51801 bytes (50.5 KB) received, lifetime 00:01"
+693,E1277.0,github-windows.s3.amazonaws.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+694,E821.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:03"
+695,E224.0,"t12.baidu.com:80 close, 1915 bytes (1.87 KB) sent, 4198 bytes (4.09 KB) received, lifetime 00:24"
+696,E932.0,"bolt.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+697,E193.0,"long.open.weixin.qq.com:443 close, 1910 bytes (1.86 KB) sent, 276 bytes received, lifetime 00:29"
+698,E337.0,"clients6.google.com:443 close, 3216 bytes (3.14 KB) sent, 2391 bytes (2.33 KB) received, lifetime 05:04"
+699,E1013.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+700,E1622.0,github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+701,E1473.0,collector.githubapp.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+702,E1536.0,clients4.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+703,E1143.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+704,E1133.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+705,E1362.0,eclick.baidu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+706,E312.0,"people-pa.clients6.google.com:443 close, 4301 bytes (4.20 KB) sent, 15401 bytes (15.0 KB) received, lifetime 04:01"
+707,E696.0,"get.sogou.com:80 close, 651 bytes sent, 328 bytes received, lifetime 00:01"
+708,E1265.0,www.google.com.hk:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+709,E455.0,"proxy.cse.cuhk.edu.hk:5070 close, 1248 bytes (1.21 KB) sent, 331 bytes received, lifetime 00:02"
+710,E1320.0,ubmcmm.baidustatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+711,E1021.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+712,E240.0,"clients6.google.com:443 close, 2242 bytes (2.18 KB) sent, 1014 bytes received, lifetime 06:52"
+713,E609.0,"proxy.cse.cuhk.edu.hk:5070 close, 780 bytes sent, 1401 bytes (1.36 KB) received, lifetime <1 sec"
+714,E519.0,"proxy.cse.cuhk.edu.hk:5070 close, 2737 bytes (2.67 KB) sent, 1375 bytes (1.34 KB) received, lifetime 00:01"
+715,E823.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:02"
+716,E661.0,"proxy.cse.cuhk.edu.hk:5070 close, 435 bytes sent, 356 bytes received, lifetime <1 sec"
+717,E1607.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+718,E1384.0,qbwup.imtt.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+719,E317.0,"csdnimg.cn:80 close, 1278 bytes (1.24 KB) sent, 6854 bytes (6.69 KB) received, lifetime 02:02"
+720,E1458.0,play.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+721,E490.0,"proxy.cse.cuhk.edu.hk:5070 close, 1002 bytes sent, 12309 bytes (12.0 KB) received, lifetime 00:01"
+722,E1440.0,notifications.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+723,E551.0,"proxy.cse.cuhk.edu.hk:5070 close, 1292 bytes (1.26 KB) sent, 1500 bytes (1.46 KB) received, lifetime <1 sec"
+724,E81.0,"www.googleapis.com:443 close, 1733 bytes (1.69 KB) sent, 1288 bytes (1.25 KB) received, lifetime 04:00"
+725,E1039.0,r6---sn-i3b7knl6.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+726,E914.0,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 353 bytes received, lifetime <1 sec"
+727,E989.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+728,E1672.0,log.getdropbox.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+729,E985.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+730,E578.0,wpad:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+731,E1403.0,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+732,E850.0,"proxy.cse.cuhk.edu.hk:5070 close, 628 bytes sent, 466 bytes received, lifetime 00:01"
+733,E12.0,"proxy.cse.cuhk.edu.hk:5070 close, 1417 bytes (1.38 KB) sent, 4631 bytes (4.52 KB) received, lifetime 01:05"
+734,E891.0,"proxy.cse.cuhk.edu.hk:5070 close, 1210 bytes (1.18 KB) sent, 366 bytes received, lifetime <1 sec"
+735,E532.0,"proxy.cse.cuhk.edu.hk:5070 close, 2230 bytes (2.17 KB) sent, 659 bytes received, lifetime 00:01"
+736,E869.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+737,E1581.0,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+738,E1240.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+739,E181.0,"pos.baidu.com:80 close, 1822 bytes (1.77 KB) sent, 1370 bytes (1.33 KB) received, lifetime 00:10"
+740,E580.0,203.205.151.204:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+741,E1491.0,safebrowsing.googleapis.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+742,E1117.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+743,E1008.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+744,E775.0,"cpro.baidustatic.com:80 close, 0 bytes sent, 0 bytes received, lifetime 01:00"
+745,E588.0,"proxy.cse.cuhk.edu.hk:5070 close, 508 bytes sent, 29786 bytes (29.0 KB) received, lifetime <1 sec"
+746,E521.0,"proxy.cse.cuhk.edu.hk:5070 close, 383 bytes sent, 1303 bytes (1.27 KB) received, lifetime 00:01"
+747,E431.0,qa.sockets.stackexchange.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+748,E594.0,"proxy.cse.cuhk.edu.hk:5070 close, 1119 bytes (1.09 KB) sent, 3210 bytes (3.13 KB) received, lifetime <1 sec"
+749,E1097.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+750,E708.0,"www.4399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21"
+751,E18.0,"proxy.cse.cuhk.edu.hk:5070 close, 983 bytes sent, 268665 bytes (262 KB) received, lifetime 01:57"
+752,E1682.0,tcpconn6.tencent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+753,E748.0,"ss.bdimg.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+754,E1005.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+755,E913.0,"proxy.cse.cuhk.edu.hk:5070 close, 435 bytes sent, 353 bytes received, lifetime <1 sec"
+756,E338.0,"f10.baidu.com:80 close, 6956 bytes (6.79 KB) sent, 101059 bytes (98.6 KB) received, lifetime 00:20"
+757,E599.0,"proxy.cse.cuhk.edu.hk:5070 close, 1682 bytes (1.64 KB) sent, 472 bytes received, lifetime <1 sec"
+758,E1436.0,eclick.baidu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+759,E128.0,"qd-update.qq.com:8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+760,E666.0,"proxy.cse.cuhk.edu.hk:5070 close, 948 bytes sent, 782 bytes received, lifetime <1 sec"
+761,E17.0,"proxy.cse.cuhk.edu.hk:5070 close, 983 bytes sent, 308385 bytes (301 KB) received, lifetime 01:57"
+762,E265.0,"api.github.com:443 close, 754 bytes sent, 3108 bytes (3.03 KB) received, lifetime 00:10"
+763,E150.0,"BAYMSGR2012806.gateway.messenger.live.com:443 close, 13155 bytes (12.8 KB) sent, 21737 bytes (21.2 KB) received, lifetime 00:35"
+764,E1128.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+765,E1159.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+766,E744.0,"t11.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+767,E1298.0,0-edge-chat.facebook.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+768,E1248.0,people-pa.clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+769,E135.0,"qd-update.qq.com:8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+770,E896.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+771,E739.0,"www.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:06"
+772,E1617.0,dict.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+773,E1067.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+774,E992.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+775,E965.0,"security.ie.sogou.com:80 close, 691 bytes sent, 184 bytes received, lifetime <1 sec"
+776,E1262.0,mail-attachment.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+777,E1275.0,11.client-channel.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+778,E754.0,"m.simba.taobao.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:26"
+779,E482.0,"proxy.cse.cuhk.edu.hk:5070 close, 1093 bytes (1.06 KB) sent, 1006 bytes received, lifetime 00:01"
+780,E759.0,"googleads.g.doubleclick.net:443 close, 749 bytes sent, 229 bytes received, lifetime 00:11"
+781,E140.0,"proxy.cse.cuhk.edu.hk:5070 close, 1840 bytes (1.79 KB) sent, 1212 bytes (1.18 KB) received, lifetime 03:05"
+782,E76.0,"dup.baidustatic.com:443 close, 814 bytes sent, 4145 bytes (4.04 KB) received, lifetime 01:00"
+783,E930.0,"get.sogou.com:80 close, 724 bytes sent, 516 bytes received, lifetime <1 sec"
+784,E790.0,"proxy.cse.cuhk.edu.hk:5070 close, 952 bytes sent, 782 bytes received, lifetime 00:10"
+785,E1653.0,btrace.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+786,E263.0,"ssl.gstatic.com:443 close, 461 bytes sent, 4784 bytes (4.67 KB) received, lifetime 00:10"
+787,E425.0,"clients6.google.com:443 close, 7738 bytes (7.55 KB) sent, 8620 bytes (8.41 KB) received, lifetime 07:17"
+788,E1700.0,oimagec1.ydstatic.com:80 error : A connection request was canceled before the completion.
+789,E807.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:10"
+790,E14.0,"proxy.cse.cuhk.edu.hk:5070 close, 47856 bytes (46.7 KB) sent, 4090387 bytes (3.90 MB) received, lifetime 01:01"
+791,E929.0,"tcpconn3.tencent.com:443 close, 149 bytes sent, 121 bytes received, lifetime <1 sec"
+792,E773.0,"collector.githubapp.com:443 close, 0 bytes sent, 0 bytes received, lifetime 01:01"
+793,E1710.0,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.
+794,E411.0,"engine.adzerk.net:443 close, 2419 bytes (2.36 KB) sent, 4742 bytes (4.63 KB) received, lifetime 01:07"
+795,E1222.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+796,E85.0,"strip.alicdn.com:80 close, 1596 bytes (1.55 KB) sent, 29034 bytes (28.3 KB) received, lifetime 02:00"
+797,E1633.0,avatars.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+798,E789.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:19"
+799,E1326.0,comment.5054399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+800,E1107.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+801,E553.0,"proxy.cse.cuhk.edu.hk:5070 close, 1292 bytes (1.26 KB) sent, 429 bytes received, lifetime 00:01"
+802,E332.0,"clients4.google.com:443 close, 2302 bytes (2.24 KB) sent, 5187 bytes (5.06 KB) received, lifetime 02:02"
+803,E1347.0,news.4399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+804,E897.0,"proxy.cse.cuhk.edu.hk:5070 close, 489 bytes sent, 566 bytes received, lifetime <1 sec"
+805,E1089.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+806,E1419.0,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+807,E535.0,"www.google.com:443 close, 1740 bytes (1.69 KB) sent, 21911 bytes (21.3 KB) received, lifetime 04:01"
+808,E834.0,"contentrecommend-out.uve.weibo.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:10"
+809,E231.0,"sclick.baidu.com:80 close, 1971 bytes (1.92 KB) sent, 401 bytes received, lifetime 00:08"
+810,E1044.0,r2---sn-i3b7kn7r.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+811,E42.0,"proxy.cse.cuhk.edu.hk:5070 close, 14623 bytes (14.2 KB) sent, 124877 bytes (121 KB) received, lifetime 02:41"
+812,E1167.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+813,E1043.0,r5---sn-i3b7kn7r.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+814,E1324.0,app.4399.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+815,E1537.0,secure.quantserve.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+816,E1564.0,www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+817,E1609.0,ssl.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+818,E610.0,"proxy.cse.cuhk.edu.hk:5070 close, 1119 bytes (1.09 KB) sent, 417 bytes received, lifetime <1 sec"
+819,E1703.0,oimageb4.ydstatic.com:80 error : A connection request was canceled before the completion.
+820,E296.0,"rs.sinajs.cn:80 close, 1187 bytes (1.15 KB) sent, 472 bytes received, lifetime 00:12"
+821,E515.0,"proxy.cse.cuhk.edu.hk:5070 close, 1341 bytes (1.30 KB) sent, 290 bytes received, lifetime 00:01"
+822,E1208.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+823,E1610.0,183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:5070 SOCKS5
+824,E1488.0,www.googleapis.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+825,E1543.0,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+826,E101.0,"www.evernote.com:443 close, 2487 bytes (2.42 KB) sent, 2361 bytes (2.30 KB) received, lifetime 04:00"
+827,E1180.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+828,E826.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+829,E1160.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+830,E210.0,"api.github.com:443 close, 797 bytes sent, 4814 bytes (4.70 KB) received, lifetime 00:11"
+831,E1615.0,github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+832,E292.0,"zhstatic.zhihu.com:443 close, 332 bytes sent, 3763 bytes (3.67 KB) received, lifetime 00:18"
+833,E1597.0,tva1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+834,E1574.0,apis.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+835,E1124.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+836,E1600.0,api.weibo.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+837,E1638.0,block.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+838,E918.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+839,E212.0,"api.github.com:443 close, 781 bytes sent, 6147 bytes (6.00 KB) received, lifetime 00:11"
+840,E734.0,"txt.go.sohu.com:80 close, 606 bytes sent, 857 bytes received, lifetime 00:07"
+841,E970.0,"get.sogou.com:80 close, 651 bytes sent, 328 bytes received, lifetime <1 sec"
+842,E477.0,"oimageb6.ydstatic.com:80 close, 358 bytes sent, 38960 bytes (38.0 KB) received, lifetime 00:30"
+843,E262.0,"api.github.com:443 close, 781 bytes sent, 6147 bytes (6.00 KB) received, lifetime 00:10"
+844,E667.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+845,E1467.0,tpc.googlesyndication.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+846,E593.0,"proxy.cse.cuhk.edu.hk:5070 close, 974 bytes sent, 9624 bytes (9.39 KB) received, lifetime <1 sec"
+847,E1209.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+848,E698.0,"info.pinyin.sogou.com:80 close, 548 bytes sent, 166 bytes received, lifetime 00:30"
+849,E693.0,"csdnimg.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+850,E564.0,"proxy.cse.cuhk.edu.hk:5070 close, 5349 bytes (5.22 KB) sent, 1767 bytes (1.72 KB) received, lifetime <1 sec"
+851,E1489.0,safebrowsing.googleapis.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+852,E828.0,"proxy.cse.cuhk.edu.hk:5070 close, 952 bytes sent, 782 bytes received, lifetime 00:10"
+853,E211.0,"api.github.com:443 close, 797 bytes sent, 4814 bytes (4.70 KB) received, lifetime 00:11"
+854,E173.0,"proxy.cse.cuhk.edu.hk:5070 close, 2798 bytes (2.73 KB) sent, 15599 bytes (15.2 KB) received, lifetime 04:05"
+855,E1269.0,long.open.weixin.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+856,E1100.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+857,E1453.0,c.trello.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+858,E276.0,"fonts.gstatic.com:443 close, 463 bytes sent, 4786 bytes (4.67 KB) received, lifetime 00:33"
+859,E1683.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+860,E1496.0,www.youtube.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+861,E1191.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+862,E1072.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+863,E1022.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+864,E288.0,"info.pinyin.sogou.com:80 close, 1041 bytes (1.01 KB) sent, 607 bytes received, lifetime 00:04"
+865,E1060.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+866,E257.0,"plus.google.com:443 close, 470 bytes sent, 4793 bytes (4.68 KB) received, lifetime 00:16"
+867,E534.0,"proxy.cse.cuhk.edu.hk:5070 close, 1978 bytes (1.93 KB) sent, 29237 bytes (28.5 KB) received, lifetime 00:01"
+868,E1223.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+869,E1142.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+870,E230.0,"dup.baidustatic.com:443 close, 333 bytes sent, 3697 bytes (3.61 KB) received, lifetime 00:14"
+871,E1388.0,config.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+872,E1110.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+873,E67.0,"proxy.cse.cuhk.edu.hk:5070 close, 3319 bytes (3.24 KB) sent, 2402 bytes (2.34 KB) received, lifetime 04:00"
+874,E454.0,"proxy.cse.cuhk.edu.hk:5070 close, 1248 bytes (1.21 KB) sent, 334 bytes received, lifetime 00:20"
+875,E1145.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+876,E1405.0,qbwup.imtt.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+877,E592.0,"proxy.cse.cuhk.edu.hk:5070 close, 2380 bytes (2.32 KB) sent, 678 bytes received, lifetime <1 sec"
+878,E757.0,"t12.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+879,E1616.0,trello.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+880,E375.0,"www.google.com:443 close, 3218 bytes (3.14 KB) sent, 24541 bytes (23.9 KB) received, lifetime 10:42"
+881,E213.0,"api.github.com:443 close, 781 bytes sent, 6147 bytes (6.00 KB) received, lifetime 00:11"
+882,E1373.0,sclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+883,E1174.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+884,E743.0,"ss.bdimg.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+885,E899.0,"proxy.cse.cuhk.edu.hk:5070 close, 896 bytes sent, 375 bytes received, lifetime <1 sec"
+886,E219.0,"user-images.githubusercontent.com:443 close, 335 bytes sent, 4369 bytes (4.26 KB) received, lifetime 00:40"
+887,E1486.0,play.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+888,E871.0,"fs-conn-doctor.qq.com:443 close, 184 bytes sent, 134 bytes received, lifetime 00:01"
+889,E996.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+890,E194.0,"long.open.weixin.qq.com:443 close, 1910 bytes (1.86 KB) sent, 276 bytes received, lifetime 00:27"
+891,E683.0,"rm.api.weibo.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:05"
+892,E1696.0,oimageb3.ydstatic.com:80 error : A connection request was canceled before the completion.
+893,E582.0,120.204.0.139:8080 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+894,E392.0,"f-log-extension.grammarly.io:443 close, 643 bytes sent, 3276 bytes (3.19 KB) received, lifetime 00:19"
+895,E365.0,"r6---sn-i3b7knez.googlevideo.com:443 close, 13118 bytes (12.8 KB) sent, 3242984 bytes (3.09 MB) received, lifetime 00:31"
+896,E779.0,"tc.dl.pinyin.sogoucdn.com:80 close, 799 bytes sent, 346 bytes received, lifetime 01:00"
+897,E330.0,"d.dropbox.com:443 close, 1821 bytes (1.77 KB) sent, 4970 bytes (4.85 KB) received, lifetime 01:01"
+898,E1212.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+899,E1317.0,sclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+900,E752.0,"csi.gstatic.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+901,E1394.0,info.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+902,E902.0,"proxy.cse.cuhk.edu.hk:5070 close, 946 bytes sent, 783 bytes received, lifetime <1 sec"
+903,E701.0,"b1.bdstatic.com:80 close, 389 bytes sent, 409 bytes received, lifetime 00:21"
+904,E1525.0,www.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+905,E1242.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+906,E90.0,"f-log-extension.grammarly.io:443 close, 1364 bytes (1.33 KB) sent, 3626 bytes (3.54 KB) received, lifetime 01:00"
+907,E1645.0,avatars.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+908,E520.0,"proxy.cse.cuhk.edu.hk:5070 close, 806 bytes sent, 1407 bytes (1.37 KB) received, lifetime 00:01"
+909,E74.0,"proxy.cse.cuhk.edu.hk:5070 close, 2001 bytes (1.95 KB) sent, 18018 bytes (17.5 KB) received, lifetime 04:00"
+910,E799.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:13"
+911,E357.0,"client-cf.dropbox.com:443 close, 3460 bytes (3.37 KB) sent, 5211 bytes (5.08 KB) received, lifetime 01:04"
+912,E528.0,"proxy.cse.cuhk.edu.hk:5070 close, 2862 bytes (2.79 KB) sent, 282 bytes received, lifetime 00:01"
+913,E628.0,"c.baidu.com:80 close, 1052 bytes (1.02 KB) sent, 113 bytes received, lifetime <1 sec"
+914,E1445.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+915,E1629.0,d.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+916,E167.0,"proxy.cse.cuhk.edu.hk:5070 close, 5280 bytes (5.15 KB) sent, 6808 bytes (6.64 KB) received, lifetime 00:04"
+917,E611.0,"proxy.cse.cuhk.edu.hk:5070 close, 474 bytes sent, 1047 bytes (1.02 KB) received, lifetime <1 sec"
+918,E1046.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+919,E1153.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+920,E1470.0,static.zhihu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+921,E800.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:03"
+922,E945.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+923,E720.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:38"
+924,E178.0,"proxy.cse.cuhk.edu.hk:5070 close, 1066 bytes (1.04 KB) sent, 3042 bytes (2.97 KB) received, lifetime 00:10"
+925,E161.0,"proxy.cse.cuhk.edu.hk:5070 close, 1236 bytes (1.20 KB) sent, 408 bytes received, lifetime 00:06"
+926,E1685.0,oimagec7.ydstatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+927,E923.0,"tcpconn.tencent.com:80 close, 133 bytes sent, 0 bytes received, lifetime <1 sec"
+928,E1190.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+929,E559.0,"proxy.cse.cuhk.edu.hk:5070 close, 3205 bytes (3.12 KB) sent, 15704 bytes (15.3 KB) received, lifetime <1 sec"
+930,E1677.0,block.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+931,E1406.0,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+932,E327.0,"client-lb.dropbox.com:443 close, 1531 bytes (1.49 KB) sent, 16765 bytes (16.3 KB) received, lifetime 01:01"
+933,E358.0,"clients4.google.com:443 close, 7063 bytes (6.89 KB) sent, 15399 bytes (15.0 KB) received, lifetime 00:21"
+934,E144.0,"proxy.cse.cuhk.edu.hk:5070 close, 1457 bytes (1.42 KB) sent, 5146 bytes (5.02 KB) received, lifetime 00:10"
+935,E905.0,"proxy.cse.cuhk.edu.hk:5070 close, 435 bytes sent, 353 bytes received, lifetime <1 sec"
+936,E1307.0,cbjs.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+937,E30.0,"proxy.cse.cuhk.edu.hk:5070 close, 2473 bytes (2.41 KB) sent, 1926 bytes (1.88 KB) received, lifetime 00:20"
+938,E479.0,"oimagec3.ydstatic.com:80 close, 358 bytes sent, 48647 bytes (47.5 KB) received, lifetime 00:30"
+939,E894.0,"proxy.cse.cuhk.edu.hk:5070 close, 704 bytes sent, 2476 bytes (2.41 KB) received, lifetime <1 sec"
+940,E286.0,"api.github.com:443 close, 328 bytes sent, 3642 bytes (3.55 KB) received, lifetime 00:15"
+941,E1001.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+942,E742.0,"t12.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:17"
+943,E51.0,"proxy.cse.cuhk.edu.hk:5070 close, 2813 bytes (2.74 KB) sent, 11743 bytes (11.4 KB) received, lifetime 02:02"
+944,E321.0,"play.google.com:443 close, 4837 bytes (4.72 KB) sent, 7412 bytes (7.23 KB) received, lifetime 14:02"
+945,E1301.0,www.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+946,E1254.0,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+947,E1421.0,xy.brand.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+948,E1241.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+949,E1036.0,r17---sn-p5qlsn67.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+950,E846.0,"proxy.cse.cuhk.edu.hk:5070 close, 493 bytes sent, 523 bytes received, lifetime 00:01"
+951,E645.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+952,E1116.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+953,E512.0,"proxy.cse.cuhk.edu.hk:5070 close, 2464 bytes (2.40 KB) sent, 1010 bytes received, lifetime 02:01"
+954,E1671.0,block.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+955,E668.0,"www.google.com.hk:443 close, 734 bytes sent, 160 bytes received, lifetime <1 sec"
+956,E1644.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+957,E618.0,"proxy.cse.cuhk.edu.hk:5070 close, 1808 bytes (1.76 KB) sent, 346 bytes received, lifetime <1 sec"
+958,E806.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:02"
+959,E1011.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+960,E649.0,"proxy.cse.cuhk.edu.hk:5070 close, 968 bytes sent, 272 bytes received, lifetime <1 sec"
+961,E587.0,"proxy.cse.cuhk.edu.hk:5070 close, 1293 bytes (1.26 KB) sent, 2439 bytes (2.38 KB) received, lifetime <1 sec"
+962,E855.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+963,E1472.0,avatars0.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+964,E354.0,"c.csdnimg.cn:80 close, 1314 bytes (1.28 KB) sent, 27289 bytes (26.6 KB) received, lifetime 03:09"
+965,E1475.0,collector.githubapp.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+966,E385.0,"pv.mini.sohu.com:80 close, 1510 bytes (1.47 KB) sent, 1293 bytes (1.26 KB) received, lifetime 00:06"
+967,E1031.0,r1---sn-i3beln7k.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+968,E1352.0,mtalk.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+969,E1539.0,www.googletagmanager.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+970,E1681.0,tcpconn6.tencent.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+971,E796.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:03"
+972,E275.0,"www.gstatic.com:443 close, 461 bytes sent, 4785 bytes (4.67 KB) received, lifetime 00:12"
+973,E874.0,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 18846 bytes (18.4 KB) received, lifetime <1 sec"
+974,E571.0,www.baidu.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+975,E73.0,"proxy.cse.cuhk.edu.hk:5070 close, 1237 bytes (1.20 KB) sent, 1164 bytes (1.13 KB) received, lifetime 04:00"
+976,E498.0,"proxy.cse.cuhk.edu.hk:5070 close, 1173 bytes (1.14 KB) sent, 375 bytes received, lifetime 00:01"
+977,E1382.0,mtalk.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+978,E1595.0,wx1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+979,E1705.0,oimagec4.ydstatic.com:80 error : A connection request was canceled before the completion.
+980,E1619.0,trello.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+981,E383.0,"clients6.google.com:443 close, 5015 bytes (4.89 KB) sent, 2599 bytes (2.53 KB) received, lifetime 06:47"
+982,E1415.0,info.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+983,E1404.0,203.205.151.164:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+984,E131.0,"mtalk.google.com:5228 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+985,E1009.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+986,E1565.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+987,E475.0,"proxy.cse.cuhk.edu.hk:5070 close, 4496 bytes (4.39 KB) sent, 648 bytes received, lifetime 00:18"
+988,E1323.0,news.4399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+989,E1203.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+990,E1004.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+991,E909.0,"proxy.cse.cuhk.edu.hk:5070 close, 293 bytes sent, 514 bytes received, lifetime <1 sec"
+992,E1214.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+993,E1555.0,cpro.baidustatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+994,E797.0,"proxy.cse.cuhk.edu.hk:5070 close, 793 bytes sent, 180 bytes received, lifetime 00:20"
+995,E686.0,"c.cnzz.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30"
+996,E301.0,"yt3.ggpht.com:443 close, 10542 bytes (10.2 KB) sent, 356545 bytes (348 KB) received, lifetime 09:54"
+997,E1333.0,csi.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+998,E1350.0,newsapp.5054399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+999,E658.0,"proxy.cse.cuhk.edu.hk:5070 close, 942 bytes sent, 398 bytes received, lifetime <1 sec"
+1000,E627.0,"showxml.qq.com:80 close, 600 bytes sent, 1716 bytes (1.67 KB) received, lifetime <1 sec"
+1001,E737.0,"clients4.google.com:443 close, 733 bytes sent, 229 bytes received, lifetime 00:13"
+1002,E574.0,ss.bdimg.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+1003,E600.0,"proxy.cse.cuhk.edu.hk:5070 close, 1198 bytes (1.16 KB) sent, 344 bytes received, lifetime <1 sec"
+1004,E1504.0,ssl.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1005,E1310.0,d.agkn.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1006,E27.0,"odr.mookie1.com:443 close, 1045 bytes (1.02 KB) sent, 5662 bytes (5.52 KB) received, lifetime 01:06"
+1007,E1255.0,api.share.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1008,E924.0,"get.sogou.com:80 close, 651 bytes sent, 346 bytes received, lifetime <1 sec"
+1009,E866.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+1010,E269.0,"eclick.baidu.com:443 close, 338 bytes sent, 3597 bytes (3.51 KB) received, lifetime 00:50"
+1011,E978.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1012,E1441.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1013,E1329.0,www.4399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1014,E1086.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1015,E1667.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1016,E802.0,"proxy.cse.cuhk.edu.hk:5070 close, 453 bytes sent, 352 bytes received, lifetime 00:02"
+1017,E380.0,"bolt.dropbox.com:443 close, 15427 bytes (15.0 KB) sent, 8268 bytes (8.07 KB) received, lifetime 15:31"
+1018,E590.0,"proxy.cse.cuhk.edu.hk:5070 close, 1190 bytes (1.16 KB) sent, 367 bytes received, lifetime <1 sec"
+1019,E529.0,"proxy.cse.cuhk.edu.hk:5070 close, 2842 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:01"
+1020,E244.0,"mtalk.google.com:443 close, 696 bytes sent, 5004 bytes (4.88 KB) received, lifetime 14:59"
+1021,E35.0,"proxy.cse.cuhk.edu.hk:5070 close, 2636 bytes (2.57 KB) sent, 2279 bytes (2.22 KB) received, lifetime 01:05"
+1022,E584.0,config.pinyin.sogou.com:80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.
+1023,E1542.0,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1024,E901.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1025,E1146.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1026,E202.0,"pic4.zhimg.com:443 close, 330 bytes sent, 3763 bytes (3.67 KB) received, lifetime 00:11"
+1027,E180.0,"www.baidu.com:80 close, 6719 bytes (6.56 KB) sent, 644545 bytes (629 KB) received, lifetime 00:05"
+1028,E109.0,"clients4.google.com:443 close, 1738 bytes (1.69 KB) sent, 487 bytes received, lifetime 04:00"
+1029,E1428.0,tc.dl.pinyin.sogoucdn.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1030,E24.0,"proxy.cse.cuhk.edu.hk:5070 close, 588 bytes sent, 215882 bytes (210 KB) received, lifetime 00:03"
+1031,E516.0,"proxy.cse.cuhk.edu.hk:5070 close, 1023 bytes sent, 4076 bytes (3.98 KB) received, lifetime 00:01"
+1032,E1225.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1033,E644.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1034,E879.0,"proxy.cse.cuhk.edu.hk:5070 close, 408 bytes sent, 421 bytes received, lifetime 00:03"
+1035,E1378.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1036,E1078.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1037,E603.0,"proxy.cse.cuhk.edu.hk:5070 close, 2035 bytes (1.98 KB) sent, 469 bytes received, lifetime <1 sec"
+1038,E260.0,"tvax1.sinaimg.cn:80 close, 909 bytes sent, 3467 bytes (3.38 KB) received, lifetime 00:16"
+1039,E92.0,"clients6.google.com:443 close, 1915 bytes (1.87 KB) sent, 842 bytes received, lifetime 04:00"
+1040,E1066.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1041,E1669.0,block.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1042,E166.0,"proxy.cse.cuhk.edu.hk:5070 close, 10069 bytes (9.83 KB) sent, 4062 bytes (3.96 KB) received, lifetime 00:45"
+1043,E859.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:08"
+1044,E1544.0,s1.bdstatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1045,E1526.0,s1.bdstatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1046,E39.0,"proxy.cse.cuhk.edu.hk:5070 close, 3553 bytes (3.46 KB) sent, 71424 bytes (69.7 KB) received, lifetime 01:34"
+1047,E347.0,"notifications.google.com:443 close, 19334 bytes (18.8 KB) sent, 8031 bytes (7.84 KB) received, lifetime 09:21"
+1048,E420.0,"qa.sockets.stackexchange.com:443 close, 4755 bytes (4.64 KB) sent, 4917 bytes (4.80 KB) received, lifetime 02:02:11"
+1049,E396.0,"block-edge.dropbox.com:443 close, 861480 bytes (841 KB) sent, 5464 bytes (5.33 KB) received, lifetime 01:45"
+1050,E381.0,"info.pinyin.sogou.com:80 close, 1035 bytes (1.01 KB) sent, 40820 bytes (39.8 KB) received, lifetime 00:30"
+1051,E139.0,"proxy.cse.cuhk.edu.hk:5070 close, 1237 bytes (1.20 KB) sent, 676064 bytes (660 KB) received, lifetime 00:07"
+1052,E391.0,"pubads.g.doubleclick.net:443 close, 22150 bytes (21.6 KB) sent, 60543 bytes (59.1 KB) received, lifetime 17:27"
+1053,E100.0,"safebrowsing.googleapis.com:443 close, 1571 bytes (1.53 KB) sent, 7822 bytes (7.63 KB) received, lifetime 04:00"
+1054,E1114.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1055,E159.0,"proxy.cse.cuhk.edu.hk:5070 close, 1522 bytes (1.48 KB) sent, 1765 bytes (1.72 KB) received, lifetime 00:53"
+1056,E1293.0,fs-conn-doctor.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1057,E308.0,"dl-debug.dropbox.com:443 close, 163539 bytes (159 KB) sent, 4712 bytes (4.60 KB) received, lifetime 01:02"
+1058,E688.0,"github.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:30"
+1059,E506.0,"proxy.cse.cuhk.edu.hk:5070 close, 1312 bytes (1.28 KB) sent, 2783 bytes (2.71 KB) received, lifetime 00:01"
+1060,E538.0,"proxy.cse.cuhk.edu.hk:5070 close, 1036 bytes (1.01 KB) sent, 4343 bytes (4.24 KB) received, lifetime 00:02"
+1061,E62.0,"proxy.cse.cuhk.edu.hk:5070 close, 1770 bytes (1.72 KB) sent, 1297 bytes (1.26 KB) received, lifetime 02:12"
+1062,E1258.0,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1063,E716.0,"s1.img4399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21"
+1064,E845.0,"proxy.cse.cuhk.edu.hk:5070 close, 1015 bytes sent, 590 bytes received, lifetime 00:01"
+1065,E1104.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1066,E160.0,"proxy.cse.cuhk.edu.hk:5070 close, 5992 bytes (5.85 KB) sent, 74512 bytes (72.7 KB) received, lifetime 00:51"
+1067,E1047.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1068,E459.0,"proxy.cse.cuhk.edu.hk:5070 close, 592 bytes sent, 4760 bytes (4.64 KB) received, lifetime 00:16"
+1069,E1364.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1070,E746.0,"s1.bdstatic.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+1071,E749.0,"t12.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+1072,E702.0,"i9.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:27"
+1073,E495.0,"proxy.cse.cuhk.edu.hk:5070 close, 468 bytes sent, 3515 bytes (3.43 KB) received, lifetime 00:01"
+1074,E1054.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1075,E1637.0,mmbiz.qpic.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1076,E462.0,"proxy.cse.cuhk.edu.hk:5070 close, 1535 bytes (1.49 KB) sent, 972 bytes received, lifetime 00:07"
+1077,E143.0,"proxy.cse.cuhk.edu.hk:5070 close, 2034 bytes (1.98 KB) sent, 4206 bytes (4.10 KB) received, lifetime 00:39"
+1078,E1430.0,tc.dl.pinyin.sogoucdn.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1079,E307.0,"www.google.com:443 close, 2020 bytes (1.97 KB) sent, 17986 bytes (17.5 KB) received, lifetime 04:01"
+1080,E1253.0,qbwup.imtt.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1081,E1590.0,lh6.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1082,E499.0,"proxy.cse.cuhk.edu.hk:5070 close, 1081 bytes (1.05 KB) sent, 401 bytes received, lifetime 00:01"
+1083,E1423.0,src.wei.focus.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1084,E1099.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1085,E473.0,"proxy.cse.cuhk.edu.hk:5070 close, 1010 bytes sent, 21976 bytes (21.4 KB) received, lifetime 00:02"
+1086,E1484.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1087,E1215.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1088,E1296.0,f-log-extension.grammarly.io:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1089,E878.0,"proxy.cse.cuhk.edu.hk:5070 close, 1165 bytes (1.13 KB) sent, 783 bytes received, lifetime <1 sec"
+1090,E1366.0,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1091,E247.0,"static.doubleclick.net:443 close, 2553 bytes (2.49 KB) sent, 641 bytes received, lifetime 06:39"
+1092,E1676.0,bolt.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1093,E673.0,"91.190.218.125:80 close, 5 bytes sent, 0 bytes received, lifetime 00:05"
+1094,E1284.0,rm.api.weibo.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1095,E1202.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1096,E613.0,"proxy.cse.cuhk.edu.hk:5070 close, 935 bytes sent, 6675 bytes (6.51 KB) received, lifetime <1 sec"
+1097,E671.0,"impservice.dictapp.youdao.com:80 close, 666 bytes sent, 709 bytes received, lifetime 00:10"
+1098,E1399.0,203.205.150.89:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1099,E951.0,"security.ie.sogou.com:80 close, 735 bytes sent, 184 bytes received, lifetime <1 sec"
+1100,E782.0,"config.pinyin.sogou.com:80 close, 545 bytes sent, 278 bytes received, lifetime 01:05"
+1101,E32.0,"proxy.cse.cuhk.edu.hk:5070 close, 2437 bytes (2.37 KB) sent, 842 bytes received, lifetime 02:04"
+1102,E387.0,"i2.itc.cn:80 close, 1330 bytes (1.29 KB) sent, 62141 bytes (60.6 KB) received, lifetime 00:33"
+1103,E1257.0,client-lb.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1104,E991.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1105,E367.0,"proxy.cse.cuhk.edu.hk:5070 close, 999 bytes sent, 4582 bytes (4.47 KB) received, lifetime 00:02"
+1106,E560.0,"proxy.cse.cuhk.edu.hk:5070 close, 1448 bytes (1.41 KB) sent, 1794 bytes (1.75 KB) received, lifetime <1 sec"
+1107,E52.0,"proxy.cse.cuhk.edu.hk:5070 close, 2501 bytes (2.44 KB) sent, 4848 bytes (4.73 KB) received, lifetime 01:01"
+1108,E1407.0,203.205.148.84:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1109,E147.0,"proxy.cse.cuhk.edu.hk:5070 close, 5065 bytes (4.94 KB) sent, 2368 bytes (2.31 KB) received, lifetime 00:48"
+1110,E1694.0,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.
+1111,E1348.0,comment.5054399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1112,E1695.0,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.
+1113,E1186.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1114,E1185.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1115,E440.0,www.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1116,E313.0,"people-pa.clients6.google.com:443 close, 5267 bytes (5.14 KB) sent, 17802 bytes (17.3 KB) received, lifetime 04:01"
+1117,E1314.0,static.doubleclick.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1118,E1623.0,github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1119,E29.0,"proxy.cse.cuhk.edu.hk:5070 close, 19904 bytes (19.4 KB) sent, 27629 bytes (26.9 KB) received, lifetime 02:19"
+1120,E1596.0,wx2.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1121,E691.0,"c.csdnimg.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30"
+1122,E963.0,"client-cf.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1123,E1056.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1124,E1397.0,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1125,E236.0,"13.client-channel.google.com:443 close, 474 bytes sent, 4464 bytes (4.35 KB) received, lifetime 01:30"
+1126,E31.0,"proxy.cse.cuhk.edu.hk:5070 close, 1180 bytes (1.15 KB) sent, 421 bytes received, lifetime 02:01"
+1127,E664.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1128,E445.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1129,E1524.0,drive.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1130,E911.0,"proxy.cse.cuhk.edu.hk:5070 close, 429 bytes sent, 318 bytes received, lifetime <1 sec"
+1131,E1070.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1132,E678.0,"proxy.cse.cuhk.edu.hk:5070 close, 542 bytes sent, 388 bytes received, lifetime 00:05"
+1133,E492.0,"proxy.cse.cuhk.edu.hk:5070 close, 388 bytes sent, 2501 bytes (2.44 KB) received, lifetime 00:01"
+1134,E1654.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1135,E305.0,"upload.3367.com:80 close, 2331 bytes (2.27 KB) sent, 440133 bytes (429 KB) received, lifetime 01:01"
+1136,E531.0,"proxy.cse.cuhk.edu.hk:5070 close, 1455 bytes (1.42 KB) sent, 1794 bytes (1.75 KB) received, lifetime 00:01"
+1137,E792.0,"proxy.cse.cuhk.edu.hk:5070 close, 791 bytes sent, 778 bytes received, lifetime 00:10"
+1138,E726.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:39"
+1139,E403.0,"lh3.googleusercontent.com:443 close, 2694 bytes (2.63 KB) sent, 8050 bytes (7.86 KB) received, lifetime 07:03"
+1140,E287.0,"avatars0.githubusercontent.com:443 close, 335 bytes sent, 4369 bytes (4.26 KB) received, lifetime 00:39"
+1141,E1408.0,security.ie.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1142,E741.0,"t12.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:17"
+1143,E1245.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1144,E730.0,"fonts.gstatic.com:443 close, 733 bytes sent, 229 bytes received, lifetime 00:17"
+1145,E1164.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1146,E409.0,"fonts.gstatic.com:443 close, 461 bytes sent, 4786 bytes (4.67 KB) received, lifetime 01:03"
+1147,E820.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:12"
+1148,E1552.0,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1149,E96.0,"f-log-extension.grammarly.io:443 close, 1364 bytes (1.33 KB) sent, 3597 bytes (3.51 KB) received, lifetime 01:00"
+1150,E949.0,"clients6.google.com:443 close, 568 bytes sent, 156 bytes received, lifetime <1 sec"
+1151,E50.0,"proxy.cse.cuhk.edu.hk:5070 close, 2531 bytes (2.47 KB) sent, 59451 bytes (58.0 KB) received, lifetime 02:00"
+1152,E1283.0,show.re.taobao.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1153,E1412.0,client-lb.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1154,E47.0,"proxy.cse.cuhk.edu.hk:5070 close, 1731 bytes (1.69 KB) sent, 864 bytes received, lifetime 02:53"
+1155,E421.0,"clients6.google.com:443 close, 3215 bytes (3.13 KB) sent, 1174 bytes (1.14 KB) received, lifetime 06:07"
+1156,E1268.0,long.open.weixin.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1157,E1586.0,www.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1158,E1085.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1159,E886.0,"proxy.cse.cuhk.edu.hk:5070 close, 431 bytes sent, 7896 bytes (7.71 KB) received, lifetime <1 sec"
+1160,E1210.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1161,E43.0,"proxy.cse.cuhk.edu.hk:5070 close, 2800 bytes (2.73 KB) sent, 17757 bytes (17.3 KB) received, lifetime 01:07"
+1162,E190.0,"lh6.googleusercontent.com:443 close, 471 bytes sent, 4694 bytes (4.58 KB) received, lifetime 00:11"
+1163,E777.0,"engine.adzerk.net:443 close, 0 bytes sent, 0 bytes received, lifetime 01:00"
+1164,E428.0,13.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1165,E1588.0,avatars3.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1166,E1591.0,csi.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1167,E1150.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1168,E981.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1169,E1461.0,fonts.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1170,E1227.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1171,E481.0,"proxy.cse.cuhk.edu.hk:5070 close, 1143 bytes (1.11 KB) sent, 365 bytes received, lifetime 00:01"
+1172,E946.0,"client-lb.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1173,E1148.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1174,E127.0,"mtalk.google.com:5228 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+1175,E1432.0,mhfm5.us.cdndm5.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1176,E151.0,"proxy.cse.cuhk.edu.hk:5070 close, 1069 bytes (1.04 KB) sent, 776 bytes received, lifetime 00:05"
+1177,E188.0,"app.4399.cn:80 close, 1381 bytes (1.34 KB) sent, 38524 bytes (37.6 KB) received, lifetime 00:52"
+1178,E1292.0,f-log-extension.grammarly.io:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1179,E1244.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1180,E1138.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1181,E1393.0,security.ie.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1182,E33.0,"proxy.cse.cuhk.edu.hk:5070 close, 1853 bytes (1.80 KB) sent, 4179 bytes (4.08 KB) received, lifetime 02:00"
+1183,E417.0,"pagead2.googlesyndication.com:443 close, 16398 bytes (16.0 KB) sent, 93642 bytes (91.4 KB) received, lifetime 07:56"
+1184,E1315.0,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1185,E1460.0,www.googleadservices.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1186,E704.0,"newsimg.5054399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19"
+1187,E705.0,"comment.5054399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21"
+1188,E7.0,"proxy.cse.cuhk.edu.hk:5070 close, 2636 bytes (2.57 KB) sent, 2279 bytes (2.22 KB) received, lifetime 01:05"
+1189,E885.0,"proxy.cse.cuhk.edu.hk:5070 close, 845 bytes sent, 12076 bytes (11.7 KB) received, lifetime <1 sec"
+1190,E348.0,"live.github.com:443 close, 2931 bytes (2.86 KB) sent, 2089 bytes (2.04 KB) received, lifetime 47:52"
+1191,E478.0,"oimagea7.ydstatic.com:80 close, 414 bytes sent, 41182 bytes (40.2 KB) received, lifetime 00:30"
+1192,E60.0,"proxy.cse.cuhk.edu.hk:5070 close, 4763 bytes (4.65 KB) sent, 1421 bytes (1.38 KB) received, lifetime 02:15"
+1193,E290.0,"pv.mini.sohu.com:80 close, 512 bytes sent, 15495 bytes (15.1 KB) received, lifetime 00:05"
+1194,E1641.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1195,E1556.0,dc.csdn.net:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1196,E633.0,"short.weixin.qq.com:80 close, 484 bytes sent, 30152 bytes (29.4 KB) received, lifetime <1 sec"
+1197,E1207.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1198,E1026.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1199,E1452.0,www.ieeeconfpublishing.org:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1200,E331.0,"www.evernote.com:443 close, 2485 bytes (2.42 KB) sent, 2359 bytes (2.30 KB) received, lifetime 04:01"
+1201,E1439.0,gm1.ggpht.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1202,E780.0,"dict.youdao.com:80 close, 941 bytes sent, 163 bytes received, lifetime 05:00"
+1203,E889.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:17"
+1204,E1308.0,dup.baidustatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1205,E1510.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1206,E1183.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1207,E1420.0,info.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1208,E791.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:17"
+1209,E833.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:02"
+1210,E876.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1211,E1385.0,security.ie.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1212,E1122.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1213,E322.0,"r17---sn-p5qlsn67.googlevideo.com:443 close, 1173 bytes (1.14 KB) sent, 11041 bytes (10.7 KB) received, lifetime 00:01"
+1214,E1125.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1215,E774.0,"b1.bdstatic.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:23"
+1216,E1679.0,tcpconn.tencent.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1217,E1272.0,long.open.weixin.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1218,E34.0,"proxy.cse.cuhk.edu.hk:5070 close, 3690 bytes (3.60 KB) sent, 1306 bytes (1.27 KB) received, lifetime 02:03"
+1219,E369.0,"accounts.google.com:443 close, 2834 bytes (2.76 KB) sent, 1881 bytes (1.83 KB) received, lifetime 04:05"
+1220,E155.0,"proxy.cse.cuhk.edu.hk:5070 close, 7437 bytes (7.26 KB) sent, 2235596 bytes (2.13 MB) received, lifetime 00:07"
+1221,E1598.0,mu1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1222,E1418.0,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1223,E1449.0,avatars2.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1224,E1306.0,www.4399.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1225,E635.0,"puui.qpic.cn:80 close, 384 bytes sent, 8537 bytes (8.33 KB) received, lifetime <1 sec"
+1226,E1260.0,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1227,E1643.0,log.getdropbox.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1228,E1580.0,csi.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1229,E537.0,"proxy.cse.cuhk.edu.hk:5070 close, 2279 bytes (2.22 KB) sent, 279 bytes received, lifetime 00:02"
+1230,E955.0,"log.getdropbox.com:80 close, 739 bytes sent, 404 bytes received, lifetime <1 sec"
+1231,E612.0,"proxy.cse.cuhk.edu.hk:5070 close, 675 bytes sent, 7178 bytes (7.00 KB) received, lifetime <1 sec"
+1232,E1177.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1233,E710.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:32"
+1234,E78.0,"clients6.google.com:443 close, 1891 bytes (1.84 KB) sent, 811 bytes received, lifetime 04:00"
+1235,E458.0,"proxy.cse.cuhk.edu.hk:5070 close, 1060 bytes (1.03 KB) sent, 358 bytes received, lifetime 00:11"
+1236,E315.0,"csi.gstatic.com:443 close, 1397 bytes (1.36 KB) sent, 5154 bytes (5.03 KB) received, lifetime 04:01"
+1237,E5.0,"proxy.cse.cuhk.edu.hk:5070 close, 35850 bytes (35.0 KB) sent, 13903 bytes (13.5 KB) received, lifetime 04:12"
+1238,E182.0,"timg.baidu.com:80 close, 1299 bytes (1.26 KB) sent, 4993 bytes (4.87 KB) received, lifetime 00:30"
+1239,E493.0,"proxy.cse.cuhk.edu.hk:5070 close, 326 bytes sent, 103039 bytes (100 KB) received, lifetime 00:01"
+1240,E323.0,"scontent-hkg3-2.xx.fbcdn.net:443 close, 3732 bytes (3.64 KB) sent, 804155 bytes (785 KB) received, lifetime 01:10"
+1241,E1519.0,clients1.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1242,E410.0,"engine.adzerk.net:443 close, 2508 bytes (2.44 KB) sent, 7073 bytes (6.90 KB) received, lifetime 01:03"
+1243,E558.0,"proxy.cse.cuhk.edu.hk:5070 close, 1299 bytes (1.26 KB) sent, 1029 bytes (1.00 KB) received, lifetime <1 sec"
+1244,E1402.0,203.205.150.89:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1245,E1090.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1246,E142.0,"proxy.cse.cuhk.edu.hk:5070 close, 2087 bytes (2.03 KB) sent, 4643 bytes (4.53 KB) received, lifetime 00:20"
+1247,E1361.0,ubmcmm.baidustatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1248,E819.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:08"
+1249,E46.0,"proxy.cse.cuhk.edu.hk:5070 close, 8673 bytes (8.46 KB) sent, 116640 bytes (113 KB) received, lifetime 02:55"
+1250,E1123.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1251,E1425.0,pv.mini.sohu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1252,E647.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1253,E1553.0,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1254,E1094.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1255,E1611.0,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1256,E841.0,"proxy.cse.cuhk.edu.hk:5070 close, 595 bytes sent, 269 bytes received, lifetime 00:01"
+1257,E1684.0,cidian.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1258,E994.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1259,E1224.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1260,E280.0,"suggestion.baidu.com:80 close, 1383 bytes (1.35 KB) sent, 392 bytes received, lifetime 00:31"
+1261,E1282.0,d0.sina.com.cn:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1262,E514.0,"proxy.cse.cuhk.edu.hk:5070 close, 1205 bytes (1.17 KB) sent, 391 bytes received, lifetime 00:01"
+1263,E1482.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1264,E328.0,"client-cf.dropbox.com:443 close, 5129 bytes (5.00 KB) sent, 17049 bytes (16.6 KB) received, lifetime 01:01"
+1265,E922.0,"get.sogou.com:80 close, 859 bytes sent, 316 bytes received, lifetime <1 sec"
+1266,E1251.0,183.60.49.182:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1267,E1476.0,go.microsoft.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1268,E471.0,"proxy.cse.cuhk.edu.hk:5070 close, 618 bytes sent, 3235 bytes (3.15 KB) received, lifetime 00:41"
+1269,E1395.0,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1270,E363.0,"clients6.google.com:443 close, 2987 bytes (2.91 KB) sent, 5913 bytes (5.77 KB) received, lifetime 07:04"
+1271,E1400.0,pdlxf-doctor.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1272,E1494.0,crl.microsoft.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1273,E883.0,"proxy.cse.cuhk.edu.hk:5070 close, 428 bytes sent, 5365 bytes (5.23 KB) received, lifetime <1 sec"
+1274,E1508.0,play.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1275,E629.0,"update.googleapis.com:443 close, 298 bytes sent, 4250 bytes (4.15 KB) received, lifetime <1 sec"
+1276,E13.0,"proxy.cse.cuhk.edu.hk:5070 close, 1644 bytes (1.60 KB) sent, 388 bytes received, lifetime 01:06"
+1277,E795.0,"proxy.cse.cuhk.edu.hk:5070 close, 463 bytes sent, 426 bytes received, lifetime 00:09"
+1278,E642.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1279,E1328.0,w.cnzz.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1280,E565.0,tcpconn4.tencent.com:80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.
+1281,E125.0,"update.hicloud.com:8180 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+1282,E760.0,"www.google.com.hk:443 close, 734 bytes sent, 229 bytes received, lifetime 00:12"
+1283,E1547.0,ss.bdimg.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1284,E619.0,"proxy.cse.cuhk.edu.hk:5070 close, 1104 bytes (1.07 KB) sent, 406 bytes received, lifetime <1 sec"
+1285,E626.0,"proxy.cse.cuhk.edu.hk:5070 close, 564 bytes sent, 28902 bytes (28.2 KB) received, lifetime <1 sec"
+1286,E399.0,"clients6.google.com:443 close, 3025 bytes (2.95 KB) sent, 6726 bytes (6.56 KB) received, lifetime 05:20"
+1287,E297.0,"r1---sn-i3beln7k.googlevideo.com:443 close, 733 bytes sent, 151 bytes received, lifetime 00:12"
+1288,E1551.0,www.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1289,E1316.0,timg.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1290,E407.0,"play.google.com:443 close, 35212 bytes (34.3 KB) sent, 22125 bytes (21.6 KB) received, lifetime 32:07"
+1291,E474.0,"proxy.cse.cuhk.edu.hk:5070 close, 2535 bytes (2.47 KB) sent, 750 bytes received, lifetime 00:15"
+1292,E585.0,client.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+1293,E1216.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1294,E1359.0,ss0.baidu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1295,E1003.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1296,E1648.0,p3p.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1297,E1687.0,oimagec4.ydstatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1298,E1000.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1299,E614.0,"proxy.cse.cuhk.edu.hk:5070 close, 553 bytes sent, 1424 bytes (1.39 KB) received, lifetime <1 sec"
+1300,E1585.0,clients1.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1301,E831.0,"proxy.cse.cuhk.edu.hk:5070 close, 643 bytes sent, 442 bytes received, lifetime 00:45"
+1302,E334.0,"client-cf.dropbox.com:443 close, 1573 bytes (1.53 KB) sent, 16750 bytes (16.3 KB) received, lifetime 01:02"
+1303,E314.0,"assets-cdn.github.com:443 close, 1227 bytes (1.19 KB) sent, 4890 bytes (4.77 KB) received, lifetime 06:19"
+1304,E1435.0,dup.baidustatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1305,E1213.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1306,E1228.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1307,E112.0,"www.evernote.com:443 close, 2486 bytes (2.42 KB) sent, 2337 bytes (2.28 KB) received, lifetime 04:00"
+1308,E1370.0,dj1.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1309,E435.0,www.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1310,E423.0,"13.client-channel.google.com:443 close, 16473 bytes (16.0 KB) sent, 42641 bytes (41.6 KB) received, lifetime 01:07:47"
+1311,E1390.0,server26401.teamviewer.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1312,E1454.0,secure.quantserve.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1313,E761.0,"f-log-extension.grammarly.io:443 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+1314,E239.0,"avatars1.githubusercontent.com:443 close, 1145 bytes (1.11 KB) sent, 666 bytes received, lifetime 05:03"
+1315,E447.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1316,E624.0,"proxy.cse.cuhk.edu.hk:5070 close, 1408 bytes (1.37 KB) sent, 0 bytes received, lifetime <1 sec"
+1317,E1118.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1318,E1531.0,pagead2.googlesyndication.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1319,E539.0,"proxy.cse.cuhk.edu.hk:5070 close, 1217 bytes (1.18 KB) sent, 592 bytes received, lifetime 01:02"
+1320,E1434.0,ubmcmm.baidustatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1321,E1.0,"proxy.cse.cuhk.edu.hk:5070 close, 4512 bytes (4.40 KB) sent, 82166 bytes (80.2 KB) received, lifetime 00:01"
+1322,E201.0,"api.github.com:443 close, 674 bytes sent, 2132 bytes (2.08 KB) received, lifetime 00:11"
+1323,E1217.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1324,E1613.0,github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1325,E1032.0,r3---sn-i3b7kn7r.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1326,E679.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:05"
+1327,E476.0,"oimageb7.ydstatic.com:80 close, 357 bytes sent, 24275 bytes (23.7 KB) received, lifetime 00:30"
+1328,E527.0,"proxy.cse.cuhk.edu.hk:5070 close, 1155 bytes (1.12 KB) sent, 378 bytes received, lifetime 00:01"
+1329,E1520.0,clients5.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1330,E1545.0,c.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1331,E1058.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1332,E162.0,"proxy.cse.cuhk.edu.hk:5070 close, 1845 bytes (1.80 KB) sent, 402 bytes received, lifetime 00:02"
+1333,E1172.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1334,E1231.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1335,E964.0,"security.ie.sogou.com:80 close, 691 bytes sent, 184 bytes received, lifetime <1 sec"
+1336,E370.0,"f12.baidu.com:80 close, 1640 bytes (1.60 KB) sent, 17802 bytes (17.3 KB) received, lifetime 00:22"
+1337,E362.0,"client-cf.dropbox.com:443 close, 9985 bytes (9.75 KB) sent, 9719 bytes (9.49 KB) received, lifetime 01:27"
+1338,E1312.0,static.doubleclick.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1339,E954.0,"security.ie.sogou.com:80 close, 735 bytes sent, 184 bytes received, lifetime <1 sec"
+1340,E1115.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1341,E1175.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1342,E1261.0,203.205.146.15:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1343,E494.0,"proxy.cse.cuhk.edu.hk:5070 close, 960 bytes sent, 8386 bytes (8.18 KB) received, lifetime 03:01"
+1344,E938.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1345,E968.0,"get.sogou.com:80 close, 651 bytes sent, 328 bytes received, lifetime <1 sec"
+1346,E543.0,"proxy.cse.cuhk.edu.hk:5070 close, 1133 bytes (1.10 KB) sent, 11393 bytes (11.1 KB) received, lifetime <1 sec"
+1347,E931.0,"get.sogou.com:80 close, 967 bytes sent, 316 bytes received, lifetime <1 sec"
+1348,E1053.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1349,E507.0,"proxy.cse.cuhk.edu.hk:5070 close, 1398 bytes (1.36 KB) sent, 11654 bytes (11.3 KB) received, lifetime 00:01"
+1350,E41.0,"proxy.cse.cuhk.edu.hk:5070 close, 18965 bytes (18.5 KB) sent, 9771 bytes (9.54 KB) received, lifetime 02:05"
+1351,E98.0,"beacon.tingyun.com:80 close, 42307 bytes (41.3 KB) sent, 279 bytes received, lifetime 01:00"
+1352,E842.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+1353,E1650.0,dict.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1354,E1559.0,beacon.tingyun.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1355,E113.0,"www.evernote.com:443 close, 2486 bytes (2.42 KB) sent, 2337 bytes (2.28 KB) received, lifetime 04:00"
+1356,E763.0,"t12.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:10"
+1357,E656.0,"proxy.cse.cuhk.edu.hk:5070 close, 696 bytes sent, 889 bytes received, lifetime <1 sec"
+1358,E952.0,"short.weixin.qq.com:80 close, 357 bytes sent, 468 bytes received, lifetime <1 sec"
+1359,E1012.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1360,E1281.0,dslb.cdn.krcom.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1361,E1276.0,3.client-channel.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1362,E1392.0,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1363,E1311.0,odr.mookie1.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1364,E1166.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1365,E784.0,"www.evernote.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:10"
+1366,E10.0,"183.62.156.108:22 close, 89652 bytes (87.5 KB) sent, 599249 bytes (585 KB) received, lifetime 37:51"
+1367,E1168.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1368,E406.0,"c.trello.com:443 close, 18252 bytes (17.8 KB) sent, 4768 bytes (4.65 KB) received, lifetime 02:08"
+1369,E993.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1370,E832.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:13"
+1371,E601.0,"proxy.cse.cuhk.edu.hk:5070 close, 1166 bytes (1.13 KB) sent, 336 bytes received, lifetime <1 sec"
+1372,E1187.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1373,E299.0,"googleads.g.doubleclick.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:12"
+1374,E934.0,"get.sogou.com:80 close, 671 bytes sent, 328 bytes received, lifetime <1 sec"
+1375,E1658.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1376,E83.0,"content.googleapis.com:443 close, 2094 bytes (2.04 KB) sent, 623 bytes received, lifetime 04:00"
+1377,E660.0,"proxy.cse.cuhk.edu.hk:5070 close, 697 bytes sent, 889 bytes received, lifetime <1 sec"
+1378,E801.0,"proxy.cse.cuhk.edu.hk:5070 close, 530 bytes sent, 546 bytes received, lifetime 00:02"
+1379,E1549.0,b1.bdstatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1380,E1330.0,www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1381,E1337.0,ssl.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1382,E903.0,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 353 bytes received, lifetime <1 sec"
+1383,E1509.0,mail.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1384,E1077.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1385,E489.0,"qqmail.tencent.com:80 close, 336 bytes sent, 2854 bytes (2.78 KB) received, lifetime 00:01"
+1386,E971.0,"qdun-data.qq.com:443 close, 261 bytes sent, 70 bytes received, lifetime <1 sec"
+1387,E318.0,"sb.scorecardresearch.com:443 close, 3818 bytes (3.72 KB) sent, 6276 bytes (6.12 KB) received, lifetime 11:02"
+1388,E1582.0,block-edge.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1389,E1249.0,f-log-extension.grammarly.io:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1390,E1322.0,eclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1391,E1659.0,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1392,E1535.0,q1.cnzz.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1393,E138.0,"proxy.cse.cuhk.edu.hk:5070 close, 1432 bytes (1.39 KB) sent, 44376 bytes (43.3 KB) received, lifetime 00:31"
+1394,E1716.0,client-cf.dropbox.com:443 error : A connection request was canceled before the completion.
+1395,E254.0,"live.github.com:443 close, 1207 bytes (1.17 KB) sent, 452 bytes received, lifetime 00:01"
+1396,E639.0,"proxy.cse.cuhk.edu.hk:5070 close, 303 bytes sent, 275 bytes received, lifetime <1 sec"
+1397,E1219.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1398,E736.0,"lh3.googleusercontent.com:443 close, 745 bytes sent, 229 bytes received, lifetime 00:14"
+1399,E208.0,"data.grammarly.com:443 close, 1277 bytes (1.24 KB) sent, 3833 bytes (3.74 KB) received, lifetime 00:11"
+1400,E812.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:03"
+1401,E511.0,"proxy.cse.cuhk.edu.hk:5070 close, 2413 bytes (2.35 KB) sent, 324 bytes received, lifetime 02:01"
+1402,E1024.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1403,E920.0,"short.weixin.qq.com:80 close, 357 bytes sent, 484 bytes received, lifetime <1 sec"
+1404,E37.0,"proxy.cse.cuhk.edu.hk:5070 close, 16493 bytes (16.1 KB) sent, 315731 bytes (308 KB) received, lifetime 02:37"
+1405,E1457.0,odr.mookie1.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1406,E659.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1407,E99.0,"fonts.gstatic.com:443 close, 909 bytes sent, 12593 bytes (12.2 KB) received, lifetime 04:00"
+1408,E1201.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1409,E398.0,"cidian.youdao.com:80 close, 2369 bytes (2.31 KB) sent, 1583 bytes (1.54 KB) received, lifetime 02:59"
+1410,E164.0,"proxy.cse.cuhk.edu.hk:5070 close, 1672 bytes (1.63 KB) sent, 771 bytes received, lifetime 00:05"
+1411,E1456.0,fonts.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1412,E402.0,"www.google.com:443 close, 2285 bytes (2.23 KB) sent, 1184 bytes (1.15 KB) received, lifetime 04:03"
+1413,E509.0,"proxy.cse.cuhk.edu.hk:5070 close, 409 bytes sent, 52645 bytes (51.4 KB) received, lifetime 00:01"
+1414,E1414.0,info.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1415,E857.0,"proxy.cse.cuhk.edu.hk:5070 close, 848 bytes sent, 310 bytes received, lifetime 00:01"
+1416,E975.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1417,E904.0,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 353 bytes received, lifetime <1 sec"
+1418,E1178.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1419,E1139.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1420,E359.0,"pubads.g.doubleclick.net:443 close, 6044 bytes (5.90 KB) sent, 22964 bytes (22.4 KB) received, lifetime 05:24"
+1421,E104.0,"www.googleapis.com:443 close, 1106 bytes (1.08 KB) sent, 1167 bytes (1.13 KB) received, lifetime 04:00"
+1422,E1233.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1423,E1709.0,oimagec1.ydstatic.com:80 error : A connection request was canceled before the completion.
+1424,E120.0,"formi.baidu.com:843 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+1425,E1517.0,yt3.ggpht.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1426,E895.0,"proxy.cse.cuhk.edu.hk:5070 close, 934 bytes sent, 5869 bytes (5.73 KB) received, lifetime <1 sec"
+1427,E309.0,"clients6.google.com:443 close, 4318 bytes (4.21 KB) sent, 1951 bytes (1.90 KB) received, lifetime 09:43"
+1428,E616.0,"proxy.cse.cuhk.edu.hk:5070 close, 1680 bytes (1.64 KB) sent, 935 bytes received, lifetime <1 sec"
+1429,E835.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+1430,E1256.0,pubads.g.doubleclick.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1431,E750.0,"js.passport.qihucdn.com:80 close, 496 bytes sent, 426 bytes received, lifetime 00:16"
+1432,E1566.0,fonts.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1433,E1573.0,config.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1434,E1149.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1435,E1503.0,play.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1436,E1018.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1437,E1698.0,oimageb1.ydstatic.com:80 error : A connection request was canceled before the completion.
+1438,E243.0,"securepubads.g.doubleclick.net:443 close, 476 bytes sent, 4417 bytes (4.31 KB) received, lifetime 00:33"
+1439,E1120.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1440,E1688.0,tcpconn6.tencent.com:443 error : A connection request was canceled before the completion.
+1441,E747.0,"www.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11"
+1442,E699.0,"cdn.e9377f.com:80 close, 575 bytes sent, 243 bytes received, lifetime 00:30"
+1443,E576.0,clients4.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+1444,E72.0,"proxy.cse.cuhk.edu.hk:5070 close, 3090 bytes (3.01 KB) sent, 1093 bytes (1.06 KB) received, lifetime 04:00"
+1445,E1442.0,pixel.facebook.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1446,E488.0,"proxy.cse.cuhk.edu.hk:5070 close, 492 bytes sent, 2898 bytes (2.83 KB) received, lifetime 00:01"
+1447,E776.0,"dc.csdn.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:10"
+1448,E133.0,"i2.itc.cn:80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 503"
+1449,E1715.0,csdnimg.cn:80 error : A connection request was canceled before the completion.
+1450,E927.0,"tcpconn6.tencent.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1451,E1305.0,comment.5054399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1452,E549.0,"proxy.cse.cuhk.edu.hk:5070 close, 1372 bytes (1.33 KB) sent, 1224 bytes (1.19 KB) received, lifetime <1 sec"
+1453,E690.0,"p3p.sogou.com:80 close, 441 bytes sent, 139 bytes received, lifetime 01:05"
+1454,E20.0,"proxy.cse.cuhk.edu.hk:5070 close, 902 bytes sent, 15242 bytes (14.8 KB) received, lifetime 00:03"
+1455,E1280.0,js.t.sinajs.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1456,E271.0,"c.trello.com:443 close, 326 bytes sent, 5710 bytes (5.57 KB) received, lifetime 00:12"
+1457,E1035.0,r3---sn-i3beln7k.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1458,E372.0,"clients6.google.com:443 close, 6703 bytes (6.54 KB) sent, 5167 bytes (5.04 KB) received, lifetime 10:52"
+1459,E192.0,"changyan.sohu.com:80 close, 6361 bytes (6.21 KB) sent, 6197 bytes (6.05 KB) received, lifetime 00:08"
+1460,E630.0,"12.client-channel.google.com:443 close, 474 bytes sent, 4042 bytes (3.94 KB) received, lifetime <1 sec"
+1461,E238.0,"assets-cdn.github.com:443 close, 335 bytes sent, 4369 bytes (4.26 KB) received, lifetime 02:24"
+1462,E1668.0,block.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1463,E552.0,"proxy.cse.cuhk.edu.hk:5070 close, 1292 bytes (1.26 KB) sent, 1490 bytes (1.45 KB) received, lifetime <1 sec"
+1464,E1042.0,r13---sn-vgqsenee.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1465,E1055.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1466,E255.0,"lh6.googleusercontent.com:443 close, 471 bytes sent, 4693 bytes (4.58 KB) received, lifetime 00:13"
+1467,E758.0,"wn.pos.baidu.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:48"
+1468,E706.0,"www.4399.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21"
+1469,E715.0,"ubmcmm.baidustatic.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19"
+1470,E1474.0,avatars0.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1471,E306.0,"res.wx.qq.com:443 close, 1582 bytes (1.54 KB) sent, 40194 bytes (39.2 KB) received, lifetime 03:01"
+1472,E1297.0,securepubads.g.doubleclick.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1473,E641.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1474,E1365.0,s1.bdstatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1475,E1108.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1476,E685.0,"get.sogou.com:80 close, 899 bytes sent, 348 bytes received, lifetime 00:03"
+1477,E1188.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1478,E1505.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1479,E735.0,"ping.pinyin.sogou.com:80 close, 634 bytes sent, 166 bytes received, lifetime 00:01"
+1480,E1151.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1481,E1093.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1482,E70.0,"proxy.cse.cuhk.edu.hk:5070 close, 1010 bytes sent, 5219 bytes (5.09 KB) received, lifetime 04:00"
+1483,E1391.0,block-edge.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1484,E606.0,"2052.flash2-http.qq.com:80 close, 466 bytes sent, 125682 bytes (122 KB) received, lifetime <1 sec"
+1485,E1502.0,clientservices.googleapis.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1486,E1548.0,t11.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1487,E1635.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1488,E967.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1489,E570.0,awqiizxequsixgr:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+1490,E1443.0,auth.grammarly.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1491,E596.0,"proxy.cse.cuhk.edu.hk:5070 close, 1188 bytes (1.16 KB) sent, 421 bytes received, lifetime <1 sec"
+1492,E724.0,"dj1.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:33"
+1493,E1073.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1494,E689.0,"icauh.youdao.com:80 close, 413 bytes sent, 534 bytes received, lifetime 00:05"
+1495,E1091.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1496,E249.0,"s2.googleusercontent.com:443 close, 470 bytes sent, 4691 bytes (4.58 KB) received, lifetime 00:14"
+1497,E810.0,"proxy.cse.cuhk.edu.hk:5070 close, 786 bytes sent, 348 bytes received, lifetime 00:03"
+1498,E466.0,"proxy.cse.cuhk.edu.hk:5070 close, 1572 bytes (1.53 KB) sent, 696 bytes received, lifetime 00:42"
+1499,E788.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:17"
+1500,E640.0,"proxy.cse.cuhk.edu.hk:5070 close, 301 bytes sent, 278 bytes received, lifetime <1 sec"
+1501,E1002.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1502,E947.0,"short.weixin.qq.com:80 close, 785 bytes sent, 145 bytes received, lifetime <1 sec"
+1503,E1198.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1504,E824.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:18"
+1505,E738.0,"www.zhihu.com:443 close, 568 bytes sent, 152 bytes received, lifetime 00:18"
+1506,E470.0,"proxy.cse.cuhk.edu.hk:5070 close, 2532 bytes (2.47 KB) sent, 750 bytes received, lifetime 00:41"
+1507,E38.0,"proxy.cse.cuhk.edu.hk:5070 close, 2933 bytes (2.86 KB) sent, 11721005 bytes (11.1 MB) received, lifetime 02:48"
+1508,E65.0,"proxy.cse.cuhk.edu.hk:5070 close, 2123 bytes (2.07 KB) sent, 11355 bytes (11.0 KB) received, lifetime 04:00"
+1509,E525.0,"proxy.cse.cuhk.edu.hk:5070 close, 2442 bytes (2.38 KB) sent, 9401 bytes (9.18 KB) received, lifetime 00:01"
+1510,E486.0,"proxy.cse.cuhk.edu.hk:5070 close, 860 bytes sent, 3314 bytes (3.23 KB) received, lifetime 00:01"
+1511,E1381.0,eclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1512,E987.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1513,E972.0,"yt3.ggpht.com:443 close, 733 bytes sent, 229 bytes received, lifetime <1 sec"
+1514,E1355.0,suggestion.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1515,E1369.0,www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1516,E227.0,"zhihu-web-analytics.zhihu.com:443 close, 343 bytes sent, 3122 bytes (3.04 KB) received, lifetime 00:17"
+1517,E95.0,"d.dropbox.com:443 close, 1337 bytes (1.30 KB) sent, 4946 bytes (4.83 KB) received, lifetime 01:00"
+1518,E1599.0,s.weibo.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1519,E434.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1520,E1634.0,avatars3.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1521,E177.0,"proxy.cse.cuhk.edu.hk:5070 close, 2301 bytes (2.24 KB) sent, 9442 bytes (9.22 KB) received, lifetime 00:07"
+1522,E1291.0,bdimg.share.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1523,E1379.0,s.youtube.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1524,E648.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1525,E1064.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1526,E1557.0,ubmcmm.baidustatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1527,E1466.0,clients1.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1528,E1119.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1529,E1271.0,long.open.weixin.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1530,E827.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:19"
+1531,E1455.0,s.youtube.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1532,E283.0,"ogs.google.com:443 close, 461 bytes sent, 4217 bytes (4.11 KB) received, lifetime 00:29"
+1533,E961.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1534,E468.0,"proxy.cse.cuhk.edu.hk:5070 close, 2132 bytes (2.08 KB) sent, 822 bytes received, lifetime 00:29"
+1535,E766.0,"q7.cnzz.com:80 close, 0 bytes sent, 0 bytes received, lifetime 01:00"
+1536,E837.0,"proxy.cse.cuhk.edu.hk:5070 close, 809 bytes sent, 186 bytes received, lifetime 00:06"
+1537,E1562.0,lh3.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1538,E554.0,"proxy.cse.cuhk.edu.hk:5070 close, 2818 bytes (2.75 KB) sent, 1460 bytes (1.42 KB) received, lifetime 01:52"
+1539,E1409.0,qdun-data.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1540,E1014.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1541,E430.0,client-cf.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1542,E1152.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1543,E48.0,"proxy.cse.cuhk.edu.hk:5070 close, 1212 bytes (1.18 KB) sent, 11440 bytes (11.1 KB) received, lifetime 00:59"
+1544,E764.0,"timg.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:10"
+1545,E1664.0,cidian.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1546,E662.0,"proxy.cse.cuhk.edu.hk:5070 close, 948 bytes sent, 782 bytes received, lifetime <1 sec"
+1547,E53.0,"proxy.cse.cuhk.edu.hk:5070 close, 849 bytes sent, 9333 bytes (9.11 KB) received, lifetime 02:01"
+1548,E682.0,"bdimg.share.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19"
+1549,E727.0,"security.ie.sogou.com:80 close, 735 bytes sent, 184 bytes received, lifetime 00:01"
+1550,E216.0,"api.github.com:443 close, 781 bytes sent, 6147 bytes (6.00 KB) received, lifetime 00:11"
+1551,E1309.0,d.agkn.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1552,E546.0,"proxy.cse.cuhk.edu.hk:5070 close, 1293 bytes (1.26 KB) sent, 2459 bytes (2.40 KB) received, lifetime <1 sec"
+1553,E953.0,"short.weixin.qq.com:80 close, 409 bytes sent, 161 bytes received, lifetime <1 sec"
+1554,E794.0,"proxy.cse.cuhk.edu.hk:5070 close, 811 bytes sent, 186 bytes received, lifetime 00:02"
+1555,E157.0,"proxy.cse.cuhk.edu.hk:5070 close, 2735 bytes (2.67 KB) sent, 79708 bytes (77.8 KB) received, lifetime 00:55"
+1556,E149.0,"proxy.cse.cuhk.edu.hk:5070 close, 1318 bytes (1.28 KB) sent, 5380 bytes (5.25 KB) received, lifetime 00:02"
+1557,E1313.0,fonts.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1558,E778.0,"s.youtube.com:443 close, 733 bytes sent, 292 bytes received, lifetime 04:00"
+1559,E11.0,"proxy.cse.cuhk.edu.hk:5070 close, 1417 bytes (1.38 KB) sent, 4631 bytes (4.52 KB) received, lifetime 01:05"
+1560,E694.0,"ping.pinyin.sogou.com:80 close, 561 bytes sent, 166 bytes received, lifetime 00:30"
+1561,E830.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:04"
+1562,E1286.0,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1563,E843.0,"proxy.cse.cuhk.edu.hk:5070 close, 877 bytes sent, 507 bytes received, lifetime 00:48"
+1564,E676.0,"91.190.216.212:443 close, 5 bytes sent, 5 bytes received, lifetime 00:04"
+1565,E579.0,www.qq.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+1566,E880.0,"proxy.cse.cuhk.edu.hk:5070 close, 1165 bytes (1.13 KB) sent, 0 bytes received, lifetime <1 sec"
+1567,E44.0,"proxy.cse.cuhk.edu.hk:5070 close, 1714 bytes (1.67 KB) sent, 865 bytes received, lifetime 02:07"
+1568,E1438.0,notifications.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1569,E1111.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1570,E1051.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1571,E941.0,"bolt.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1572,E1620.0,csdnimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1573,E783.0,"mtalk.google.com:443 close, 985 bytes sent, 463 bytes received, lifetime 15:00"
+1574,E1061.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1575,E1075.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1576,E569.0,www.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+1577,E544.0,"proxy.cse.cuhk.edu.hk:5070 close, 1033 bytes (1.00 KB) sent, 46810 bytes (45.7 KB) received, lifetime <1 sec"
+1578,E77.0,"safebrowsing.googleapis.com:443 close, 1344 bytes (1.31 KB) sent, 1170 bytes (1.14 KB) received, lifetime 04:00"
+1579,E298.0,"clients6.google.com:443 close, 2867 bytes (2.79 KB) sent, 1014 bytes received, lifetime 05:12"
+1580,E723.0,"t12.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:48"
+1581,E214.0,"clients2.google.com:443 close, 154863 bytes (151 KB) sent, 321609 bytes (314 KB) received, lifetime 01:00:12"
+1582,E1344.0,suggestion.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1583,E1238.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1584,E663.0,"proxy.cse.cuhk.edu.hk:5070 close, 441 bytes sent, 687 bytes received, lifetime <1 sec"
+1585,E597.0,"proxy.cse.cuhk.edu.hk:5070 close, 1257 bytes (1.22 KB) sent, 421 bytes received, lifetime <1 sec"
+1586,E1346.0,i9.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1587,E91.0,"www.google.com:443 close, 1227 bytes (1.19 KB) sent, 2561 bytes (2.50 KB) received, lifetime 04:00"
+1588,E333.0,"d.dropbox.com:443 close, 2560 bytes (2.50 KB) sent, 4976 bytes (4.85 KB) received, lifetime 01:01"
+1589,E253.0,"ping.pinyin.sogou.com:80 close, 1109 bytes (1.08 KB) sent, 332 bytes received, lifetime 00:32"
+1590,E1368.0,i7.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1591,E697.0,"info.pinyin.sogou.com:80 close, 561 bytes sent, 166 bytes received, lifetime 00:30"
+1592,E926.0,"tcpconn3.tencent.com:80 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1593,E840.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+1594,E1236.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1595,E605.0,"proxy.cse.cuhk.edu.hk:5070 close, 1166 bytes (1.13 KB) sent, 363 bytes received, lifetime <1 sec"
+1596,E765.0,"ss.bdimg.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:10"
+1597,E461.0,"proxy.cse.cuhk.edu.hk:5070 close, 1555 bytes (1.51 KB) sent, 457464 bytes (446 KB) received, lifetime 00:46"
+1598,E933.0,"get.sogou.com:80 close, 651 bytes sent, 328 bytes received, lifetime <1 sec"
+1599,E939.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1600,E608.0,"proxy.cse.cuhk.edu.hk:5070 close, 287 bytes sent, 2229 bytes (2.17 KB) received, lifetime <1 sec"
+1601,E1006.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1602,E1624.0,d.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1603,E441.0,client-lb.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1604,E281.0,"eclick.baidu.com:80 close, 1065 bytes (1.04 KB) sent, 311 bytes received, lifetime 00:05"
+1605,E997.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1606,E728.0,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:34"
+1607,E1263.0,impservice.dictapp.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1608,E1195.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1609,E1518.0,www.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1610,E1155.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1611,E1229.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1612,E268.0,"dc.csdn.net:80 close, 1822 bytes (1.77 KB) sent, 754 bytes received, lifetime 01:01"
+1613,E962.0,"203.205.151.204:80 close, 357 bytes sent, 484 bytes received, lifetime <1 sec"
+1614,E444.0,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1615,E1431.0,drive-thirdparty.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1616,E187.0,"cpro.baidustatic.com:443 close, 334 bytes sent, 3713 bytes (3.62 KB) received, lifetime 00:48"
+1617,E1137.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1618,E443.0,16.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1619,E890.0,"proxy.cse.cuhk.edu.hk:5070 close, 483 bytes sent, 342 bytes received, lifetime <1 sec"
+1620,E229.0,"clientservices.googleapis.com:443 close, 1051 bytes (1.02 KB) sent, 592 bytes received, lifetime 04:01"
+1621,E1354.0,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1622,E195.0,"long.open.weixin.qq.com:443 close, 1910 bytes (1.86 KB) sent, 276 bytes received, lifetime 00:27"
+1623,E815.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:16"
+1624,E969.0,"get.sogou.com:80 close, 651 bytes sent, 328 bytes received, lifetime <1 sec"
+1625,E129.0,"mtalk.google.com:5228 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+1626,E787.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:04"
+1627,E1302.0,c.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1628,E829.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:04"
+1629,E1065.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1630,E1165.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1631,E460.0,"proxy.cse.cuhk.edu.hk:5070 close, 574 bytes sent, 4489 bytes (4.38 KB) received, lifetime 00:04"
+1632,E1422.0,pv.mini.sohu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1633,E854.0,"proxy.cse.cuhk.edu.hk:5070 close, 996 bytes sent, 367 bytes received, lifetime 00:01"
+1634,E500.0,"d.dropbox.com:443 close, 1021 bytes sent, 4906 bytes (4.79 KB) received, lifetime 01:01"
+1635,E813.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:13"
+1636,E1319.0,cpro.baidustatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1637,E861.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+1638,E1154.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1639,E472.0,"proxy.cse.cuhk.edu.hk:5070 close, 2844 bytes (2.77 KB) sent, 279 bytes received, lifetime 00:04"
+1640,E108.0,"www.googleadservices.com:443 close, 1188 bytes (1.16 KB) sent, 5007 bytes (4.88 KB) received, lifetime 04:00"
+1641,E502.0,"proxy.cse.cuhk.edu.hk:5070 close, 1736 bytes (1.69 KB) sent, 48536 bytes (47.3 KB) received, lifetime 00:01"
+1642,E990.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1643,E1176.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1644,E1550.0,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1645,E250.0,"static.adobelogin.com:443 close, 356 bytes sent, 3523 bytes (3.44 KB) received, lifetime 00:02"
+1646,E1126.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1647,E542.0,"proxy.cse.cuhk.edu.hk:5070 close, 1107 bytes (1.08 KB) sent, 29322 bytes (28.6 KB) received, lifetime <1 sec"
+1648,E1448.0,csi.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1649,E940.0,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1650,E1273.0,www.google-analytics.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1651,E1424.0,mini.cpc.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1652,E63.0,"proxy.cse.cuhk.edu.hk:5070 close, 939 bytes sent, 4231 bytes (4.13 KB) received, lifetime 02:00"
+1653,E956.0,"short.weixin.qq.com:80 close, 425 bytes sent, 161 bytes received, lifetime <1 sec"
+1654,E1109.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1655,E999.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1656,E174.0,"proxy.cse.cuhk.edu.hk:5070 close, 1905 bytes (1.86 KB) sent, 11087 bytes (10.8 KB) received, lifetime 00:08"
+1657,E1360.0,hpd.baidu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1658,E241.0,"avatars.githubusercontent.com:443 close, 620 bytes sent, 33814 bytes (33.0 KB) received, lifetime 01:40"
+1659,E998.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1660,E1577.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1661,E1332.0,apis.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1662,E1592.0,tvax1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1663,E1331.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1664,E1567.0,csi.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1665,E2.0,"proxy.cse.cuhk.edu.hk:5070 close, 1133 bytes (1.10 KB) sent, 3274 bytes (3.19 KB) received, lifetime 00:01"
+1666,E1267.0,bdimg.share.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1667,E1252.0,cgi.qqweb.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1668,E921.0,"client-cf.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec"
+1669,E350.0,"www.google.com.hk:443 close, 3443 bytes (3.36 KB) sent, 67897 bytes (66.3 KB) received, lifetime 04:01"
+1670,E1578.0,collector.githubapp.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1671,E209.0,"github.com:443 close, 9626 bytes (9.40 KB) sent, 287127 bytes (280 KB) received, lifetime 00:34"
+1672,E1589.0,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1673,E1197.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1674,E165.0,"proxy.cse.cuhk.edu.hk:5070 close, 4272 bytes (4.17 KB) sent, 20283 bytes (19.8 KB) received, lifetime 00:20"
+1675,E1429.0,tc.dl.pinyin.sogoucdn.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1676,E1426.0,v.admaster.com.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1677,E1112.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1678,E523.0,"proxy.cse.cuhk.edu.hk:5070 close, 1616 bytes (1.57 KB) sent, 42950 bytes (41.9 KB) received, lifetime 00:01"
+1679,E1413.0,p5.ssl.qhimg.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1680,E300.0,"mhfm9.us.cdndm5.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:12"
+1681,E1702.0,oimageb2.ydstatic.com:80 error : A connection request was canceled before the completion.
+1682,E326.0,"d.dropbox.com:443 close, 6579 bytes (6.42 KB) sent, 5944 bytes (5.80 KB) received, lifetime 01:01"
+1683,E1604.0,www.weibo.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1684,E1134.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1685,E631.0,"d0.sina.com.cn:443 close, 328 bytes sent, 3654 bytes (3.56 KB) received, lifetime <1 sec"
+1686,E1092.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1687,E111.0,"safebrowsing.googleapis.com:443 close, 1848 bytes (1.80 KB) sent, 2305 bytes (2.25 KB) received, lifetime 04:00"
+1688,E733.0,"security.ie.sogou.com:80 close, 735 bytes sent, 184 bytes received, lifetime 00:01"
+1689,E615.0,"proxy.cse.cuhk.edu.hk:5070 close, 553 bytes sent, 28794 bytes (28.1 KB) received, lifetime <1 sec"
+1690,E1468.0,i1.ytimg.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1691,E439.0,mtalk.google.com:5228 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1692,E756.0,"c.trello.com:443 close, 568 bytes sent, 156 bytes received, lifetime 00:11"
+1693,E451.0,"proxy.cse.cuhk.edu.hk:5070 close, 850 bytes sent, 10547 bytes (10.2 KB) received, lifetime 00:02"
+1694,E1383.0,block-edge.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1695,E1357.0,ss.bdimg.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1696,E872.0,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+1697,E1096.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1698,E1670.0,cidian.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1699,E1451.0,www.evernote.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1700,E725.0,"blog.csdn.net:80 close, 670 bytes sent, 421 bytes received, lifetime 00:29"
+1701,E426.0,qa.sockets.stackexchange.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061
+1702,E1130.0,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+1703,E561.0,"proxy.cse.cuhk.edu.hk:5070 close, 1065 bytes (1.04 KB) sent, 11966 bytes (11.6 KB) received, lifetime <1 sec"
+1704,E19.0,"proxy.cse.cuhk.edu.hk:5070 close, 31257 bytes (30.5 KB) sent, 1846301 bytes (1.76 MB) received, lifetime 01:33"

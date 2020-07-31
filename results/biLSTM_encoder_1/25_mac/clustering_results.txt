@@ -1,0 +1,4 @@
+max_v_measure :0.9336759260746013
+max_silhouette_score :0.7700671565003269
+selected_threshold :9.399999999999999
+cluster_count :412
